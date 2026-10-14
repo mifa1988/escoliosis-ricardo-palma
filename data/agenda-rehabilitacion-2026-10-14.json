@@ -1,0 +1,175 @@
+{
+  "date": "2026-10-14",
+  "timezone": "America/Lima",
+  "specialty": "Medicina Física Y Rehabilitación",
+  "appointmentType": "Consulta Primera",
+  "source": "https://portaldelpaciente.crp.com.pe/appointments/select-doctor",
+  "scope": "Sesión reabierta por el usuario; se seleccionó especialidad y Consulta Primera. Otras condiciones de la sesión no se revisaron. Observación de horarios, sin reserva.",
+  "doctors": [
+    {
+      "name": "Carlos Rodrigo Arellano Cueva",
+      "specialty": "Medicina Física Y Rehabilitación",
+      "slots": [
+        "16 oct 11:30",
+        "19 oct 15:30",
+        "20 oct 15:00"
+      ],
+      "cmp_from_historical_profile": "007961",
+      "profile": "medico-007961",
+      "first_observed_slot": "16 oct 2026 · 11:30",
+      "clinical_context": "Formación de rehabilitación publicada; antecedentes históricos de neurorehabilitación. No se comprobó práctica específica de recuperación abdominal posparto.",
+      "normalized_slots": [
+        "2026-10-16T11:30:00-05:00",
+        "2026-10-19T15:30:00-05:00",
+        "2026-10-20T15:00:00-05:00"
+      ]
+    },
+    {
+      "name": "Pedro Julio Vassallo Mesones",
+      "specialty": "Medicina Física Y Rehabilitación",
+      "slots": [
+        "19 oct 11:10",
+        "22 oct 12:10",
+        "22 oct 12:50"
+      ],
+      "cmp_from_historical_profile": "067631",
+      "profile": "medico-067631",
+      "first_observed_slot": "19 oct 2026 · 11:10",
+      "clinical_context": "Residencia de rehabilitación UNMSM/Loayza documentada; sin programa individual de pared abdominal o postura adulta localizado.",
+      "normalized_slots": [
+        "2026-10-19T11:10:00-05:00",
+        "2026-10-22T12:10:00-05:00",
+        "2026-10-22T12:50:00-05:00"
+      ]
+    },
+    {
+      "name": "Augusto César Cornejo Toledo",
+      "specialty": "Medicina Física Y Rehabilitación",
+      "slots": [
+        "19 oct 11:20",
+        "19 oct 11:40",
+        "19 oct 12:00"
+      ],
+      "cmp_from_historical_profile": "037578",
+      "profile": "medico-037578",
+      "first_observed_slot": "19 oct 2026 · 11:20",
+      "clinical_context": "El portal lo clasifica en Rehabilitación, pero la ficha CRP publica Medicina Deportiva. Aclarar el título y el servicio concreto antes de seleccionarlo para fisiatría.",
+      "normalized_slots": [
+        "2026-10-19T11:20:00-05:00",
+        "2026-10-19T11:40:00-05:00",
+        "2026-10-19T12:00:00-05:00"
+      ]
+    },
+    {
+      "name": "Karla Luz Miñano Paredes",
+      "specialty": "Medicina Física Y Rehabilitación",
+      "slots": [
+        "19 oct 11:30",
+        "19 oct 11:50",
+        "19 oct 12:10"
+      ],
+      "cmp_from_historical_profile": "048967",
+      "profile": "medico-048967",
+      "first_observed_slot": "19 oct 2026 · 11:30",
+      "clinical_context": "Especialidad y residencia HNHU documentadas; no se comprobó una práctica específica de diástasis o poscesárea.",
+      "normalized_slots": [
+        "2026-10-19T11:30:00-05:00",
+        "2026-10-19T11:50:00-05:00",
+        "2026-10-19T12:10:00-05:00"
+      ]
+    },
+    {
+      "name": "Agustín Alejandro Barreda Castro",
+      "specialty": "Medicina Física Y Rehabilitación",
+      "slots": [
+        "19 oct 14:40",
+        "20 oct 09:20",
+        "20 oct 09:40"
+      ],
+      "cmp_from_historical_profile": "037616",
+      "profile": "medico-037616",
+      "first_observed_slot": "19 oct 2026 · 14:40",
+      "clinical_context": "Participó en validación IETSI de prótesis de miembro inferior; actividad general de rehabilitación, sin foco poscesárea demostrado.",
+      "normalized_slots": [
+        "2026-10-19T14:40:00-05:00",
+        "2026-10-20T09:20:00-05:00",
+        "2026-10-20T09:40:00-05:00"
+      ]
+    },
+    {
+      "name": "Miguel Angel Sanchez Talledo",
+      "specialty": "Medicina Física Y Rehabilitación",
+      "slots": [
+        "20 oct 17:40",
+        "22 oct 16:20",
+        "22 oct 16:40"
+      ],
+      "cmp_from_historical_profile": "032543",
+      "profile": "medico-032543",
+      "first_observed_slot": "20 oct 2026 · 17:40",
+      "clinical_context": "Formación y CV de rehabilitación general publicados; sin foco individual de pared abdominal o suelo pélvico comprobado.",
+      "normalized_slots": [
+        "2026-10-20T17:40:00-05:00",
+        "2026-10-22T16:20:00-05:00",
+        "2026-10-22T16:40:00-05:00"
+      ]
+    },
+    {
+      "name": "Leyna Medalit Gallegos Velazco",
+      "specialty": "Medicina Física Y Rehabilitación",
+      "slots": [
+        "21 oct 09:20",
+        "21 oct 09:40",
+        "21 oct 10:20"
+      ],
+      "cmp_from_historical_profile": "050732",
+      "profile": "medico-050732",
+      "first_observed_slot": "21 oct 2026 · 09:20",
+      "clinical_context": "Rehabilitación hospitalaria y docencia USMP/Loayza; el sílabo no acredita que imparta personalmente todos sus temas.",
+      "normalized_slots": [
+        "2026-10-21T09:20:00-05:00",
+        "2026-10-21T09:40:00-05:00",
+        "2026-10-21T10:20:00-05:00"
+      ]
+    },
+    {
+      "name": "Andrea Lissette Malaga Alarco",
+      "specialty": "Medicina Física Y Rehabilitación",
+      "slots": [
+        "21 oct 10:20",
+        "21 oct 11:00",
+        "21 oct 12:00"
+      ],
+      "cmp_from_historical_profile": "060971",
+      "profile": "medico-060971",
+      "first_observed_slot": "21 oct 2026 · 10:20",
+      "clinical_context": "Título UNMSM aprobado y validación EsSalud de guía de osteoartritis adulta; no demuestra una subespecialidad posparto.",
+      "normalized_slots": [
+        "2026-10-21T10:20:00-05:00",
+        "2026-10-21T11:00:00-05:00",
+        "2026-10-21T12:00:00-05:00"
+      ]
+    }
+  ],
+  "identity_note": "El portal no muestra CMP/RNE en esta lista. Los enlaces usan la coincidencia nominal con fichas institucionales investigadas; los registros proceden de esas fichas, no de la tarjeta de citas.",
+  "absent_historical_profiles": [
+    {
+      "name": "Walter Cruzalegui Rangel",
+      "profile": "medico-014912"
+    },
+    {
+      "name": "María Isabel Odar Rodríguez",
+      "profile": "medico-056111"
+    },
+    {
+      "name": "Augusto Salomón Ruiz Palomino",
+      "profile": "medico-009139"
+    }
+  ],
+  "absence_note": "No aparecen en esta consulta del portal; no demuestra que hayan dejado la clínica ni descarta otra vía de atención.",
+  "specialty_discrepancy": {
+    "profile": "medico-037578",
+    "finding": "Cornejo aparece bajo Medicina Física y Rehabilitación en el portal; su ficha CRP publica formación de Medicina Deportiva. El portal confirma la categoría de la cita, sin resolver por sí solo el título/RNE de fisiatría."
+  },
+  "rechecked_in_reopened_session": true
+}

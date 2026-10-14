@@ -1,0 +1,663 @@
+{
+  "date": "2026-10-14",
+  "source": "https://portaldelpaciente.crp.com.pe/appointments/select-doctor",
+  "scope": "Lista de Traumatología mostrada en la sesión abierta por el usuario. No se modificaron las condiciones de la sesión. Sede y cobertura no verificadas por separado. No se reservó cita.",
+  "doctors": [
+    {
+      "name": "Clemente Luis Aguilar Del Rosario",
+      "slots": [
+        "Hoy\n\n12:00",
+        "Hoy\n\n12:20",
+        "Hoy\n\n12:40"
+      ],
+      "specialty": "Traumatología",
+      "profile": "medico-013818",
+      "first_observed_slot": "14 oct 2026 · 12:00"
+    },
+    {
+      "name": "Gaby Isabel Saenz Manrique",
+      "slots": [
+        "Hoy\n\n12:20",
+        "Mañana\n\n11:40",
+        "Mañana\n\n12:00"
+      ],
+      "specialty": "Traumatología",
+      "profile": "medico-035409",
+      "first_observed_slot": "14 oct 2026 · 12:20"
+    },
+    {
+      "name": "Juan Carlos Angulo Totesaut",
+      "slots": [
+        "Hoy\n\n14:20",
+        "Hoy\n\n17:40",
+        "19 oct\n\n10:40"
+      ],
+      "specialty": "Traumatología",
+      "profile": "referencia-angulo",
+      "first_observed_slot": "14 oct 2026 · 14:20"
+    },
+    {
+      "name": "Alfredo Baltazar Huerta Robles",
+      "slots": [
+        "Hoy\n\n15:15",
+        "Hoy\n\n15:45",
+        "Hoy\n\n16:00"
+      ],
+      "specialty": "Traumatología",
+      "profile": "medico-061126",
+      "first_observed_slot": "14 oct 2026 · 15:15"
+    },
+    {
+      "name": "Humberto Fernando Escarza Benitez",
+      "slots": [
+        "Hoy\n\n16:00",
+        "Hoy\n\n17:00",
+        "Hoy\n\n17:20"
+      ],
+      "specialty": "Traumatología",
+      "profile": "medico-029547",
+      "first_observed_slot": "14 oct 2026 · 16:00"
+    },
+    {
+      "name": "Gustavo Dario Delgado Razuri",
+      "slots": [
+        "Hoy\n\n16:00",
+        "19 oct\n\n16:15",
+        "19 oct\n\n16:45"
+      ],
+      "specialty": "Traumatología",
+      "profile": "medico-032640",
+      "first_observed_slot": "14 oct 2026 · 16:00"
+    },
+    {
+      "name": "Luis Wuilfredo Barriales Gamarra",
+      "slots": [
+        "Hoy\n\n16:40",
+        "Hoy\n\n17:20",
+        "Hoy\n\n18:00"
+      ],
+      "specialty": "Traumatología",
+      "profile": "medico-029207",
+      "first_observed_slot": "14 oct 2026 · 16:40"
+    },
+    {
+      "name": "Jorge Alexander Sanchez Guzman",
+      "slots": [
+        "Hoy\n\n17:00",
+        "Hoy\n\n17:20",
+        "16 oct\n\n09:00"
+      ],
+      "specialty": "Traumatología",
+      "profile": "medico-067882",
+      "first_observed_slot": "14 oct 2026 · 17:00"
+    },
+    {
+      "name": "Rodrigo Alonso Gallo Oropeza",
+      "slots": [
+        "Hoy\n\n17:40",
+        "16 oct\n\n11:40",
+        "16 oct\n\n12:00"
+      ],
+      "specialty": "Traumatología",
+      "profile": "medico-076534",
+      "first_observed_slot": "14 oct 2026 · 17:40"
+    },
+    {
+      "name": "Jose David Vera Becerra",
+      "slots": [
+        "Hoy\n\n18:40",
+        "21 oct\n\n16:00",
+        "21 oct\n\n16:20"
+      ],
+      "specialty": "Traumatología",
+      "profile": "medico-062498",
+      "first_observed_slot": "14 oct 2026 · 18:40"
+    },
+    {
+      "name": "Ever Corahua Romero",
+      "slots": [
+        "Mañana\n\n08:00",
+        "Mañana\n\n08:20",
+        "Mañana\n\n08:40"
+      ],
+      "specialty": "Traumatología",
+      "profile": "medico-054699",
+      "first_observed_slot": "15 oct 2026 · 08:00"
+    },
+    {
+      "name": "Katya Victoria Delgado Razuri",
+      "slots": [
+        "Mañana\n\n09:00",
+        "Mañana\n\n10:00",
+        "Mañana\n\n11:00"
+      ],
+      "specialty": "Traumatología",
+      "profile": "medico-032508",
+      "first_observed_slot": "15 oct 2026 · 09:00"
+    },
+    {
+      "name": "Jose Luis Herrera Praelli",
+      "slots": [
+        "Mañana\n\n09:20",
+        "Mañana\n\n10:00",
+        "Mañana\n\n10:40"
+      ],
+      "specialty": "Traumatología",
+      "profile": "medico-061903",
+      "first_observed_slot": "15 oct 2026 · 09:20"
+    },
+    {
+      "name": "Raul Edilberto Gutierrez Segura",
+      "slots": [
+        "Mañana\n\n10:40",
+        "Mañana\n\n16:40",
+        "Mañana\n\n17:40"
+      ],
+      "specialty": "Traumatología",
+      "profile": "medico-010826",
+      "first_observed_slot": "15 oct 2026 · 10:40"
+    },
+    {
+      "name": "Jose Antonio Illescas Talavera",
+      "slots": [
+        "Mañana\n\n14:00",
+        "Mañana\n\n14:20",
+        "Mañana\n\n14:40"
+      ],
+      "specialty": "Traumatología",
+      "profile": "medico-034733",
+      "first_observed_slot": "15 oct 2026 · 14:00"
+    },
+    {
+      "name": "Oswaldo Belisario Augusto Rossi Spelucin",
+      "slots": [
+        "Mañana\n\n14:50",
+        "Mañana\n\n15:10",
+        "Mañana\n\n15:50"
+      ],
+      "specialty": "Traumatología",
+      "profile": "medico-014557",
+      "first_observed_slot": "15 oct 2026 · 14:50"
+    },
+    {
+      "name": "Javier Alexis Rivas Legua",
+      "slots": [
+        "Mañana\n\n15:00",
+        "Mañana\n\n15:20",
+        "Mañana\n\n15:40"
+      ],
+      "specialty": "Traumatología",
+      "first_observed_slot": "15 oct 2026 · 15:00",
+      "profile": "medico-055966"
+    },
+    {
+      "name": "Jorge Luis Mondoñedo Lopez",
+      "slots": [
+        "Mañana\n\n16:00",
+        "Mañana\n\n16:40",
+        "Mañana\n\n17:20"
+      ],
+      "specialty": "Traumatología",
+      "first_observed_slot": "15 oct 2026 · 16:00",
+      "profile": "medico-033367"
+    },
+    {
+      "name": "Rodrigo Andres Vallejos Meléndez",
+      "slots": [
+        "Mañana\n\n16:20",
+        "Mañana\n\n16:40",
+        "Mañana\n\n17:20"
+      ],
+      "specialty": "Traumatología",
+      "profile": "medico-066927",
+      "first_observed_slot": "15 oct 2026 · 16:20"
+    },
+    {
+      "name": "Carlos Hernan Arellano Mifflin",
+      "slots": [
+        "Mañana\n\n17:00",
+        "Mañana\n\n17:20",
+        "Mañana\n\n17:40"
+      ],
+      "specialty": "Traumatología",
+      "profile": "medico-016914",
+      "first_observed_slot": "15 oct 2026 · 17:00"
+    },
+    {
+      "name": "Luis Adger Soto Rios",
+      "slots": [
+        "16 oct\n\n09:40",
+        "19 oct\n\n09:40",
+        "19 oct\n\n10:20"
+      ],
+      "specialty": "Traumatología",
+      "first_observed_slot": "16 oct 2026 · 09:40",
+      "profile": "medico-077008"
+    },
+    {
+      "name": "Marco Antonio Vera Arias",
+      "slots": [
+        "16 oct\n\n10:40",
+        "16 oct\n\n11:00",
+        "16 oct\n\n11:20"
+      ],
+      "specialty": "Traumatología",
+      "profile": "medico-050254",
+      "first_observed_slot": "16 oct 2026 · 10:40"
+    },
+    {
+      "name": "Norman Pavel Soriano Soriano",
+      "slots": [
+        "16 oct\n\n14:40",
+        "16 oct\n\n15:00",
+        "16 oct\n\n15:20"
+      ],
+      "specialty": "Traumatología",
+      "first_observed_slot": "16 oct 2026 · 14:40",
+      "profile": "medico-064601"
+    },
+    {
+      "name": "Jimmy Chavez Pichardo",
+      "slots": [
+        "16 oct\n\n15:00",
+        "16 oct\n\n15:20",
+        "16 oct\n\n15:40"
+      ],
+      "specialty": "Traumatología",
+      "profile": "medico-075098",
+      "first_observed_slot": "16 oct 2026 · 15:00"
+    },
+    {
+      "name": "Alfonso Lazo Davila",
+      "slots": [
+        "16 oct\n\n15:20",
+        "16 oct\n\n16:20",
+        "16 oct\n\n17:00"
+      ],
+      "specialty": "Traumatología",
+      "profile": "medico-025149",
+      "first_observed_slot": "16 oct 2026 · 15:20"
+    },
+    {
+      "name": "Carlos Alberto Paredes Tuesta",
+      "slots": [
+        "17 oct\n\n09:00",
+        "17 oct\n\n09:20",
+        "17 oct\n\n10:20"
+      ],
+      "specialty": "Traumatología",
+      "profile": "medico-062281",
+      "first_observed_slot": "17 oct 2026 · 09:00"
+    },
+    {
+      "name": "Luis Roberto Neira Granados",
+      "slots": [
+        "17 oct\n\n09:20",
+        "17 oct\n\n10:40",
+        "17 oct\n\n11:20"
+      ],
+      "specialty": "Traumatología",
+      "profile": "medico-057129",
+      "first_observed_slot": "17 oct 2026 · 09:20"
+    },
+    {
+      "name": "Roberto Felipe Soto Rodriguez",
+      "slots": [
+        "19 oct\n\n08:30",
+        "19 oct\n\n08:50",
+        "19 oct\n\n09:10"
+      ],
+      "specialty": "Traumatología",
+      "profile": "medico-018199",
+      "first_observed_slot": "19 oct 2026 · 08:30"
+    },
+    {
+      "name": "Carlos Augusto Del Carpio Salas",
+      "slots": [
+        "19 oct\n\n08:40",
+        "19 oct\n\n09:00",
+        "19 oct\n\n09:20"
+      ],
+      "specialty": "Traumatología",
+      "first_observed_slot": "19 oct 2026 · 08:40",
+      "profile": "medico-079553"
+    },
+    {
+      "name": "Jorge Martin Salvador Artica",
+      "slots": [
+        "19 oct\n\n09:00",
+        "19 oct\n\n09:20",
+        "19 oct\n\n09:40"
+      ],
+      "specialty": "Traumatología",
+      "profile": "medico-056540",
+      "first_observed_slot": "19 oct 2026 · 09:00"
+    },
+    {
+      "name": "Baldwin Luis Angelino Espinoza",
+      "slots": [
+        "19 oct\n\n09:20",
+        "21 oct\n\n08:40",
+        "21 oct\n\n09:20"
+      ],
+      "specialty": "Traumatología",
+      "profile": "medico-031409",
+      "first_observed_slot": "19 oct 2026 · 09:20"
+    },
+    {
+      "name": "Lidia Del Carmen Maza Godos",
+      "slots": [
+        "19 oct\n\n11:40",
+        "19 oct\n\n12:00",
+        "19 oct\n\n12:20"
+      ],
+      "specialty": "Traumatología",
+      "first_observed_slot": "19 oct 2026 · 11:40",
+      "profile": "medico-062130"
+    },
+    {
+      "name": "Juan Carlos Camayo Guerreros",
+      "slots": [
+        "19 oct\n\n14:15",
+        "19 oct\n\n15:05",
+        "19 oct\n\n15:50"
+      ],
+      "specialty": "Traumatología",
+      "first_observed_slot": "19 oct 2026 · 14:15",
+      "profile": "medico-056465",
+      "identity_note": "IPOT publica Guerreros con CMP056465/RNE025591, coincidentes con la ficha histórica Guerrero."
+    },
+    {
+      "name": "Henry Willy Deza Palle",
+      "slots": [
+        "19 oct\n\n14:40",
+        "19 oct\n\n15:20",
+        "21 oct\n\n09:00"
+      ],
+      "specialty": "Traumatología",
+      "profile": "medico-039705",
+      "first_observed_slot": "19 oct 2026 · 14:40"
+    },
+    {
+      "name": "Samuel Ricardo Jose Barrantes Durand",
+      "slots": [
+        "19 oct\n\n16:30",
+        "19 oct\n\n16:45",
+        "19 oct\n\n17:00"
+      ],
+      "specialty": "Traumatología",
+      "profile": "medico-064045",
+      "first_observed_slot": "19 oct 2026 · 16:30"
+    },
+    {
+      "name": "Franco Eliser Tocas Caceres",
+      "slots": [
+        "19 oct\n\n17:40",
+        "19 oct\n\n18:20",
+        "23 oct\n\n14:00"
+      ],
+      "specialty": "Traumatología",
+      "first_observed_slot": "19 oct 2026 · 17:40",
+      "profile": "medico-049888"
+    },
+    {
+      "name": "Luis Leoncio Temoche Diaz",
+      "slots": [
+        "20 oct\n\n08:00",
+        "20 oct\n\n08:20",
+        "20 oct\n\n08:40"
+      ],
+      "specialty": "Traumatología",
+      "profile": "medico-056538",
+      "first_observed_slot": "20 oct 2026 · 08:00"
+    },
+    {
+      "name": "Michael Cristhoper Diaz Palacios",
+      "slots": [
+        "20 oct\n\n09:00",
+        "20 oct\n\n09:20",
+        "20 oct\n\n09:40"
+      ],
+      "specialty": "Traumatología",
+      "profile": "medico-054228",
+      "first_observed_slot": "20 oct 2026 · 09:00"
+    },
+    {
+      "name": "Jessica Pamela Quispe Arapa",
+      "slots": [
+        "20 oct\n\n09:20",
+        "20 oct\n\n09:40",
+        "20 oct\n\n10:00"
+      ],
+      "specialty": "Traumatología",
+      "profile": "medico-065949",
+      "first_observed_slot": "20 oct 2026 · 09:20"
+    },
+    {
+      "name": "Christian Antonio Lopez Araujo",
+      "slots": [
+        "20 oct\n\n13:45",
+        "20 oct\n\n14:00",
+        "20 oct\n\n14:15"
+      ],
+      "specialty": "Traumatología",
+      "profile": "medico-067035",
+      "first_observed_slot": "20 oct 2026 · 13:45"
+    },
+    {
+      "name": "Wagner Abel Cruzado Cruz",
+      "slots": [
+        "20 oct\n\n15:20",
+        "20 oct\n\n16:20",
+        "20 oct\n\n16:40"
+      ],
+      "specialty": "Traumatología",
+      "first_observed_slot": "20 oct 2026 · 15:20",
+      "profile": "medico-081884"
+    },
+    {
+      "name": "Eytyl Alfredo Jimenez Guevara",
+      "slots": [
+        "20 oct\n\n15:40",
+        "20 oct\n\n16:00",
+        "20 oct\n\n16:20"
+      ],
+      "specialty": "Traumatología",
+      "profile": "medico-038407",
+      "first_observed_slot": "20 oct 2026 · 15:40"
+    },
+    {
+      "name": "Yosip Leonardo Becerra Mondragon",
+      "slots": [
+        "20 oct\n\n16:00",
+        "20 oct\n\n16:20",
+        "20 oct\n\n16:40"
+      ],
+      "specialty": "Traumatología",
+      "first_observed_slot": "20 oct 2026 · 16:00",
+      "profile": "medico-070923"
+    },
+    {
+      "name": "Jorge Manuel Sanchez Azabache",
+      "slots": [
+        "21 oct\n\n08:40",
+        "22 oct\n\n08:00",
+        "22 oct\n\n08:20"
+      ],
+      "specialty": "Traumatología",
+      "profile": "medico-011301",
+      "first_observed_slot": "21 oct 2026 · 08:40"
+    },
+    {
+      "name": "Jorge Luis Chapilliquen Querevalu",
+      "slots": [
+        "21 oct\n\n08:40",
+        "21 oct\n\n09:00",
+        "21 oct\n\n09:20"
+      ],
+      "specialty": "Traumatología",
+      "profile": "medico-081562",
+      "first_observed_slot": "21 oct 2026 · 08:40"
+    },
+    {
+      "name": "Carlos Marcelo Palacios Malpica",
+      "slots": [
+        "21 oct\n\n09:20",
+        "21 oct\n\n09:40",
+        "21 oct\n\n10:00"
+      ],
+      "specialty": "Traumatología",
+      "profile": "medico-072010",
+      "first_observed_slot": "21 oct 2026 · 09:20"
+    },
+    {
+      "name": "Ramiro Cieza Ojeda",
+      "slots": [
+        "21 oct\n\n14:20",
+        "21 oct\n\n14:40",
+        "21 oct\n\n15:00"
+      ],
+      "specialty": "Traumatología",
+      "profile": "medico-055819",
+      "first_observed_slot": "21 oct 2026 · 14:20"
+    },
+    {
+      "name": "Eduardo Denis Manchego Mendoza",
+      "slots": [
+        "21 oct\n\n15:20",
+        "21 oct\n\n15:40",
+        "21 oct\n\n16:00"
+      ],
+      "specialty": "Traumatología",
+      "profile": "medico-027182",
+      "first_observed_slot": "21 oct 2026 · 15:20"
+    },
+    {
+      "name": "Joel Antonio Solorzano Padilla",
+      "slots": [
+        "23 oct\n\n08:00",
+        "23 oct\n\n08:20",
+        "23 oct\n\n08:40"
+      ],
+      "specialty": "Traumatología",
+      "first_observed_slot": "23 oct 2026 · 08:00",
+      "profile": "medico-037556"
+    },
+    {
+      "name": "Miguel Angel Rugel Rivera",
+      "slots": [
+        "23 oct\n\n16:20",
+        "23 oct\n\n17:00",
+        "23 oct\n\n17:20"
+      ],
+      "specialty": "Traumatología",
+      "profile": "medico-053748",
+      "first_observed_slot": "23 oct 2026 · 16:20"
+    },
+    {
+      "name": "Cesar Augusto Luis Carreño Carcelen",
+      "slots": [
+        "23 oct\n\n16:40",
+        "23 oct\n\n17:20",
+        "23 oct\n\n17:40"
+      ],
+      "specialty": "Traumatología",
+      "profile": "medico-032730",
+      "first_observed_slot": "23 oct 2026 · 16:40"
+    },
+    {
+      "name": "Cesar Augusto Paucar Altez",
+      "slots": [
+        "26 oct\n\n15:20",
+        "26 oct\n\n16:20",
+        "26 oct\n\n16:40"
+      ],
+      "specialty": "Traumatología",
+      "profile": "medico-028663",
+      "first_observed_slot": "26 oct 2026 · 15:20"
+    },
+    {
+      "name": "Arvin Armando Calderon Calderon",
+      "slots": [
+        "27 oct\n\n09:00",
+        "27 oct\n\n09:20",
+        "27 oct\n\n09:40"
+      ],
+      "specialty": "Traumatología",
+      "first_observed_slot": "27 oct 2026 · 09:00",
+      "profile": "medico-056535"
+    },
+    {
+      "name": "Miguel Edilberto Fernandez Castillo",
+      "slots": [
+        "27 oct\n\n09:20",
+        "27 oct\n\n09:40",
+        "27 oct\n\n10:20"
+      ],
+      "specialty": "Traumatología",
+      "profile": "medico-036222",
+      "first_observed_slot": "27 oct 2026 · 09:20"
+    },
+    {
+      "name": "Cesar Javier Adrianzen Tello",
+      "slots": [
+        "27 oct\n\n12:50",
+        "27 oct\n\n13:10",
+        "27 oct\n\n13:30"
+      ],
+      "specialty": "Traumatología",
+      "first_observed_slot": "27 oct 2026 · 12:50",
+      "profile": "medico-068896"
+    },
+    {
+      "name": "Fernando Miguel Ruiz Gonzales",
+      "slots": [
+        "29 oct\n\n15:30",
+        "29 oct\n\n16:00",
+        "30 oct\n\n09:00"
+      ],
+      "specialty": "Traumatología",
+      "profile": "medico-013850",
+      "first_observed_slot": "29 oct 2026 · 15:30"
+    },
+    {
+      "name": "Benjamin Isidro Taboada Valdivieso",
+      "slots": [
+        "2 nov\n\n15:15",
+        "2 nov\n\n15:30",
+        "2 nov\n\n15:45"
+      ],
+      "specialty": "Traumatología",
+      "profile": "medico-040973",
+      "first_observed_slot": "2 nov 2026 · 15:15"
+    },
+    {
+      "name": "Gonzalo Jose Castillo Velasco",
+      "slots": [
+        "4 nov\n\n08:40",
+        "4 nov\n\n09:00",
+        "4 nov\n\n09:20"
+      ],
+      "specialty": "Traumatología",
+      "profile": "medico-036795",
+      "first_observed_slot": "4 nov 2026 · 08:40"
+    },
+    {
+      "name": "Pablo Alejandro Ugarte Velarde",
+      "slots": [
+        "20 nov\n\n17:00",
+        "27 nov\n\n16:00",
+        "27 nov\n\n16:20"
+      ],
+      "specialty": "Traumatología",
+      "profile": "medico-019597",
+      "first_observed_slot": "20 nov 2026 · 17:00"
+    }
+  ],
+  "notes": [
+    "Horarios observados, no disponibilidad en tiempo real.",
+    "Hoy y mañana corresponden al 14 y 15 de octubre de 2026 en Lima.",
+    "Los enlaces a formación conservan los límites y discrepancias de identidad explicados en el HTML."
+  ],
+  "research_update": "2026-10-14: investigación nominal de los 12 adicionales, incorporación de Angulo al buscador y contraste de Camayo por registro IPOT."
+}

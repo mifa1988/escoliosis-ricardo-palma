@@ -1,0 +1,1032 @@
+{
+  "date": "2026-10-14",
+  "timezone": "America/Lima",
+  "specialty": "Traumatología",
+  "type": "Consulta Primera",
+  "doctors": [
+    {
+      "name": "Gaby Isabel Saenz Manrique",
+      "slots": [
+        "Hoy 12:20",
+        "Mañana 11:40",
+        "Mañana 12:00"
+      ],
+      "specialty": "Traumatología",
+      "profile": "medico-035409",
+      "first_observed_slot": "14 oct 2026 · 12:20",
+      "normalized_slots": [
+        "2026-10-14T12:20:00-05:00",
+        "2026-10-15T11:40:00-05:00",
+        "2026-10-15T12:00:00-05:00"
+      ],
+      "case_screening": "Área IPOT: miembro superior; trauma. No se encontró respaldo específico de columna/postura adulta que desplace a los finalistas."
+    },
+    {
+      "name": "Clemente Luis Aguilar Del Rosario",
+      "slots": [
+        "Hoy 13:00",
+        "Hoy 13:40",
+        "Mañana 09:40"
+      ],
+      "specialty": "Traumatología",
+      "profile": "medico-013818",
+      "first_observed_slot": "14 oct 2026 · 13:00",
+      "normalized_slots": [
+        "2026-10-14T13:00:00-05:00",
+        "2026-10-14T13:40:00-05:00",
+        "2026-10-15T09:40:00-05:00"
+      ],
+      "case_screening": "Área IPOT: rodilla; cadera/pelvis; trauma. No se encontró respaldo específico de columna/postura adulta que desplace a los finalistas."
+    },
+    {
+      "name": "Alfredo Baltazar Huerta Robles",
+      "slots": [
+        "Hoy 15:15",
+        "Hoy 15:45",
+        "Hoy 16:00"
+      ],
+      "specialty": "Traumatología",
+      "profile": "medico-061126",
+      "first_observed_slot": "14 oct 2026 · 15:15",
+      "normalized_slots": [
+        "2026-10-14T15:15:00-05:00",
+        "2026-10-14T15:45:00-05:00",
+        "2026-10-14T16:00:00-05:00"
+      ],
+      "case_screening": "Área IPOT: miembro superior; trauma. No se encontró respaldo específico de columna/postura adulta que desplace a los finalistas."
+    },
+    {
+      "name": "Humberto Fernando Escarza Benitez",
+      "slots": [
+        "Hoy 16:00",
+        "Hoy 17:00",
+        "Hoy 17:20"
+      ],
+      "specialty": "Traumatología",
+      "profile": "medico-029547",
+      "first_observed_slot": "14 oct 2026 · 16:00",
+      "normalized_slots": [
+        "2026-10-14T16:00:00-05:00",
+        "2026-10-14T17:00:00-05:00",
+        "2026-10-14T17:20:00-05:00"
+      ],
+      "case_screening": "Se contrastó su ficha nominal. Formación general o de otras áreas, sin evidencia individual de columna/postura adulta suficiente para preferirlo para este caso. Ver detalle y límites en su ficha."
+    },
+    {
+      "name": "Gustavo Dario Delgado Razuri",
+      "slots": [
+        "Hoy 16:00",
+        "19 oct 16:45",
+        "19 oct 17:15"
+      ],
+      "specialty": "Traumatología",
+      "profile": "medico-032640",
+      "first_observed_slot": "14 oct 2026 · 16:00",
+      "normalized_slots": [
+        "2026-10-14T16:00:00-05:00",
+        "2026-10-19T16:45:00-05:00",
+        "2026-10-19T17:15:00-05:00"
+      ],
+      "case_screening": "Área IPOT: rodilla; trauma. No se encontró respaldo específico de columna/postura adulta que desplace a los finalistas."
+    },
+    {
+      "name": "Luis Wuilfredo Barriales Gamarra",
+      "slots": [
+        "Hoy 16:40",
+        "Hoy 18:00",
+        "Hoy 18:20"
+      ],
+      "specialty": "Traumatología",
+      "profile": "medico-029207",
+      "first_observed_slot": "14 oct 2026 · 16:40",
+      "normalized_slots": [
+        "2026-10-14T16:40:00-05:00",
+        "2026-10-14T18:00:00-05:00",
+        "2026-10-14T18:20:00-05:00"
+      ],
+      "case_screening": "Área IPOT: cadera/pelvis; trauma. No se encontró respaldo específico de columna/postura adulta que desplace a los finalistas."
+    },
+    {
+      "name": "Jorge Alexander Sanchez Guzman",
+      "slots": [
+        "Hoy 16:40",
+        "Hoy 17:00",
+        "Hoy 17:20"
+      ],
+      "specialty": "Traumatología",
+      "profile": "medico-067882",
+      "first_observed_slot": "14 oct 2026 · 16:40",
+      "normalized_slots": [
+        "2026-10-14T16:40:00-05:00",
+        "2026-10-14T17:00:00-05:00",
+        "2026-10-14T17:20:00-05:00"
+      ],
+      "case_screening": "Se contrastó su ficha nominal. Formación general o de otras áreas, sin evidencia individual de columna/postura adulta suficiente para preferirlo para este caso. Ver detalle y límites en su ficha."
+    },
+    {
+      "name": "Rodrigo Alonso Gallo Oropeza",
+      "slots": [
+        "Hoy 17:40",
+        "16 oct 11:40",
+        "16 oct 12:00"
+      ],
+      "specialty": "Traumatología",
+      "profile": "medico-076534",
+      "first_observed_slot": "14 oct 2026 · 17:40",
+      "normalized_slots": [
+        "2026-10-14T17:40:00-05:00",
+        "2026-10-16T11:40:00-05:00",
+        "2026-10-16T12:00:00-05:00"
+      ],
+      "case_screening": "Se contrastó su ficha nominal. Formación general o de otras áreas, sin evidencia individual de columna/postura adulta suficiente para preferirlo para este caso. Ver detalle y límites en su ficha."
+    },
+    {
+      "name": "Juan Carlos Angulo Totesaut",
+      "slots": [
+        "Hoy 17:40",
+        "19 oct 10:40",
+        "19 oct 11:20"
+      ],
+      "specialty": "Traumatología",
+      "profile": "referencia-angulo",
+      "first_observed_slot": "14 oct 2026 · 17:40",
+      "normalized_slots": [
+        "2026-10-14T17:40:00-05:00",
+        "2026-10-19T10:40:00-05:00",
+        "2026-10-19T11:20:00-05:00"
+      ],
+      "case_screening": "Identidad CMP histórica y actividad de columna corroboradas. RNE y detalles de formación focal aún dependen principalmente de autodeclaración; no se lo descarta, pero no desplaza a los finalistas."
+    },
+    {
+      "name": "Jose David Vera Becerra",
+      "slots": [
+        "Hoy 18:40",
+        "21 oct 16:00",
+        "21 oct 16:20"
+      ],
+      "specialty": "Traumatología",
+      "profile": "medico-062498",
+      "first_observed_slot": "14 oct 2026 · 18:40",
+      "normalized_slots": [
+        "2026-10-14T18:40:00-05:00",
+        "2026-10-21T16:00:00-05:00",
+        "2026-10-21T16:20:00-05:00"
+      ],
+      "case_screening": "Área IPOT: cadera/pelvis; trauma. No se encontró respaldo específico de columna/postura adulta que desplace a los finalistas."
+    },
+    {
+      "name": "Ever Corahua Romero",
+      "slots": [
+        "Mañana 08:00",
+        "Mañana 08:20",
+        "Mañana 08:40"
+      ],
+      "specialty": "Traumatología",
+      "profile": "medico-054699",
+      "first_observed_slot": "15 oct 2026 · 08:00",
+      "normalized_slots": [
+        "2026-10-15T08:00:00-05:00",
+        "2026-10-15T08:20:00-05:00",
+        "2026-10-15T08:40:00-05:00"
+      ],
+      "case_screening": "Área IPOT: infantil; cadera/pelvis; rodilla; trauma. No se encontró respaldo específico de columna/postura adulta que desplace a los finalistas."
+    },
+    {
+      "name": "Katya Victoria Delgado Razuri",
+      "slots": [
+        "Mañana 09:00",
+        "Mañana 10:00",
+        "Mañana 11:00"
+      ],
+      "specialty": "Traumatología",
+      "profile": "medico-032508",
+      "first_observed_slot": "15 oct 2026 · 09:00",
+      "normalized_slots": [
+        "2026-10-15T09:00:00-05:00",
+        "2026-10-15T10:00:00-05:00",
+        "2026-10-15T11:00:00-05:00"
+      ],
+      "case_screening": "Área IPOT: rodilla; hombro; trauma. No se encontró respaldo específico de columna/postura adulta que desplace a los finalistas."
+    },
+    {
+      "name": "Jose Luis Herrera Praelli",
+      "slots": [
+        "Mañana 09:20",
+        "Mañana 10:00",
+        "Mañana 10:40"
+      ],
+      "specialty": "Traumatología",
+      "profile": "medico-061903",
+      "first_observed_slot": "15 oct 2026 · 09:20",
+      "normalized_slots": [
+        "2026-10-15T09:20:00-05:00",
+        "2026-10-15T10:00:00-05:00",
+        "2026-10-15T10:40:00-05:00"
+      ],
+      "case_screening": "Área IPOT: rodilla; hombro; trauma. No se encontró respaldo específico de columna/postura adulta que desplace a los finalistas."
+    },
+    {
+      "name": "Jose Antonio Illescas Talavera",
+      "slots": [
+        "Mañana 14:00",
+        "Mañana 14:20",
+        "Mañana 14:40"
+      ],
+      "specialty": "Traumatología",
+      "profile": "medico-034733",
+      "first_observed_slot": "15 oct 2026 · 14:00",
+      "normalized_slots": [
+        "2026-10-15T14:00:00-05:00",
+        "2026-10-15T14:20:00-05:00",
+        "2026-10-15T14:40:00-05:00"
+      ],
+      "case_screening": "Se contrastó su ficha nominal. Formación general o de otras áreas, sin evidencia individual de columna/postura adulta suficiente para preferirlo para este caso. Ver detalle y límites en su ficha."
+    },
+    {
+      "name": "Oswaldo Belisario Augusto Rossi Spelucin",
+      "slots": [
+        "Mañana 14:50",
+        "Mañana 15:10",
+        "Mañana 15:50"
+      ],
+      "specialty": "Traumatología",
+      "profile": "medico-014557",
+      "first_observed_slot": "15 oct 2026 · 14:50",
+      "normalized_slots": [
+        "2026-10-15T14:50:00-05:00",
+        "2026-10-15T15:10:00-05:00",
+        "2026-10-15T15:50:00-05:00"
+      ],
+      "case_screening": "Área IPOT: rodilla; trauma. No se encontró respaldo específico de columna/postura adulta que desplace a los finalistas."
+    },
+    {
+      "name": "Javier Alexis Rivas Legua",
+      "slots": [
+        "Mañana 15:00",
+        "Mañana 15:20",
+        "Mañana 16:20"
+      ],
+      "specialty": "Traumatología",
+      "profile": "medico-055966",
+      "first_observed_slot": "15 oct 2026 · 15:00",
+      "normalized_slots": [
+        "2026-10-15T15:00:00-05:00",
+        "2026-10-15T15:20:00-05:00",
+        "2026-10-15T16:20:00-05:00"
+      ],
+      "case_screening": "Se contrastó su ficha nominal. Formación general o de otras áreas, sin evidencia individual de columna/postura adulta suficiente para preferirlo para este caso. Ver detalle y límites en su ficha."
+    },
+    {
+      "name": "Jorge Luis Mondoñedo Lopez",
+      "slots": [
+        "Mañana 16:00",
+        "Mañana 16:40",
+        "Mañana 17:00"
+      ],
+      "specialty": "Traumatología",
+      "profile": "medico-033367",
+      "first_observed_slot": "15 oct 2026 · 16:00",
+      "normalized_slots": [
+        "2026-10-15T16:00:00-05:00",
+        "2026-10-15T16:40:00-05:00",
+        "2026-10-15T17:00:00-05:00"
+      ],
+      "case_screening": "Se contrastó su ficha nominal. Formación general o de otras áreas, sin evidencia individual de columna/postura adulta suficiente para preferirlo para este caso. Ver detalle y límites en su ficha."
+    },
+    {
+      "name": "Rodrigo Andres Vallejos Meléndez",
+      "slots": [
+        "Mañana 16:20",
+        "Mañana 16:40",
+        "Mañana 17:20"
+      ],
+      "specialty": "Traumatología",
+      "profile": "medico-066927",
+      "first_observed_slot": "15 oct 2026 · 16:20",
+      "normalized_slots": [
+        "2026-10-15T16:20:00-05:00",
+        "2026-10-15T16:40:00-05:00",
+        "2026-10-15T17:20:00-05:00"
+      ],
+      "case_screening": "Área IPOT: rodilla; hombro; trauma. No se encontró respaldo específico de columna/postura adulta que desplace a los finalistas."
+    },
+    {
+      "name": "Raul Edilberto Gutierrez Segura",
+      "slots": [
+        "Mañana 16:40",
+        "Mañana 17:40",
+        "Mañana 18:20"
+      ],
+      "specialty": "Traumatología",
+      "profile": "medico-010826",
+      "first_observed_slot": "15 oct 2026 · 16:40",
+      "normalized_slots": [
+        "2026-10-15T16:40:00-05:00",
+        "2026-10-15T17:40:00-05:00",
+        "2026-10-15T18:20:00-05:00"
+      ],
+      "case_screening": "Área IPOT: pie/tobillo; rodilla; infantil; trauma. No se encontró respaldo específico de columna/postura adulta que desplace a los finalistas."
+    },
+    {
+      "name": "Carlos Hernan Arellano Mifflin",
+      "slots": [
+        "Mañana 17:00",
+        "Mañana 17:20",
+        "Mañana 17:40"
+      ],
+      "specialty": "Traumatología",
+      "profile": "medico-016914",
+      "first_observed_slot": "15 oct 2026 · 17:00",
+      "normalized_slots": [
+        "2026-10-15T17:00:00-05:00",
+        "2026-10-15T17:20:00-05:00",
+        "2026-10-15T17:40:00-05:00"
+      ],
+      "case_screening": "Se contrastó su ficha nominal. Formación general o de otras áreas, sin evidencia individual de columna/postura adulta suficiente para preferirlo para este caso. Ver detalle y límites en su ficha."
+    },
+    {
+      "name": "Luis Adger Soto Rios",
+      "slots": [
+        "16 oct 09:40",
+        "19 oct 09:40",
+        "19 oct 10:20"
+      ],
+      "specialty": "Traumatología",
+      "profile": "medico-077008",
+      "first_observed_slot": "16 oct 2026 · 09:40",
+      "normalized_slots": [
+        "2026-10-16T09:40:00-05:00",
+        "2026-10-19T09:40:00-05:00",
+        "2026-10-19T10:20:00-05:00"
+      ],
+      "case_screening": "Se contrastó su ficha nominal. Formación general o de otras áreas, sin evidencia individual de columna/postura adulta suficiente para preferirlo para este caso. Ver detalle y límites en su ficha."
+    },
+    {
+      "name": "Marco Antonio Vera Arias",
+      "slots": [
+        "16 oct 10:40",
+        "16 oct 11:00",
+        "16 oct 11:20"
+      ],
+      "specialty": "Traumatología",
+      "profile": "medico-050254",
+      "first_observed_slot": "16 oct 2026 · 10:40",
+      "normalized_slots": [
+        "2026-10-16T10:40:00-05:00",
+        "2026-10-16T11:00:00-05:00",
+        "2026-10-16T11:20:00-05:00"
+      ],
+      "case_screening": "Se contrastó su ficha nominal. Formación general o de otras áreas, sin evidencia individual de columna/postura adulta suficiente para preferirlo para este caso. Ver detalle y límites en su ficha."
+    },
+    {
+      "name": "Norman Pavel Soriano Soriano",
+      "slots": [
+        "16 oct 14:40",
+        "16 oct 15:00",
+        "16 oct 15:20"
+      ],
+      "specialty": "Traumatología",
+      "profile": "medico-064601",
+      "first_observed_slot": "16 oct 2026 · 14:40",
+      "normalized_slots": [
+        "2026-10-16T14:40:00-05:00",
+        "2026-10-16T15:00:00-05:00",
+        "2026-10-16T15:20:00-05:00"
+      ],
+      "case_screening": "Se contrastó su ficha nominal. Formación general o de otras áreas, sin evidencia individual de columna/postura adulta suficiente para preferirlo para este caso. Ver detalle y límites en su ficha."
+    },
+    {
+      "name": "Jimmy Chavez Pichardo",
+      "slots": [
+        "16 oct 15:00",
+        "16 oct 15:20",
+        "16 oct 15:40"
+      ],
+      "specialty": "Traumatología",
+      "profile": "medico-075098",
+      "first_observed_slot": "16 oct 2026 · 15:00",
+      "normalized_slots": [
+        "2026-10-16T15:00:00-05:00",
+        "2026-10-16T15:20:00-05:00",
+        "2026-10-16T15:40:00-05:00"
+      ],
+      "case_screening": "Se contrastó su ficha nominal. Formación general o de otras áreas, sin evidencia individual de columna/postura adulta suficiente para preferirlo para este caso. Ver detalle y límites en su ficha."
+    },
+    {
+      "name": "Alfonso Lazo Davila",
+      "slots": [
+        "16 oct 15:20",
+        "16 oct 16:20",
+        "16 oct 17:00"
+      ],
+      "specialty": "Traumatología",
+      "profile": "medico-025149",
+      "first_observed_slot": "16 oct 2026 · 15:20",
+      "normalized_slots": [
+        "2026-10-16T15:20:00-05:00",
+        "2026-10-16T16:20:00-05:00",
+        "2026-10-16T17:00:00-05:00"
+      ],
+      "case_screening": "Área IPOT: cadera/pelvis; trauma. No se encontró respaldo específico de columna/postura adulta que desplace a los finalistas."
+    },
+    {
+      "name": "Carlos Alberto Paredes Tuesta",
+      "slots": [
+        "17 oct 09:00",
+        "17 oct 09:20",
+        "17 oct 10:20"
+      ],
+      "specialty": "Traumatología",
+      "profile": "medico-062281",
+      "first_observed_slot": "17 oct 2026 · 09:00",
+      "normalized_slots": [
+        "2026-10-17T09:00:00-05:00",
+        "2026-10-17T09:20:00-05:00",
+        "2026-10-17T10:20:00-05:00"
+      ],
+      "case_screening": "Se contrastó su ficha nominal. Formación general o de otras áreas, sin evidencia individual de columna/postura adulta suficiente para preferirlo para este caso. Ver detalle y límites en su ficha."
+    },
+    {
+      "name": "Luis Roberto Neira Granados",
+      "slots": [
+        "17 oct 09:20",
+        "17 oct 10:40",
+        "17 oct 11:20"
+      ],
+      "specialty": "Traumatología",
+      "profile": "medico-057129",
+      "first_observed_slot": "17 oct 2026 · 09:20",
+      "normalized_slots": [
+        "2026-10-17T09:20:00-05:00",
+        "2026-10-17T10:40:00-05:00",
+        "2026-10-17T11:20:00-05:00"
+      ],
+      "case_screening": "Primera elección: la combinación de formación focal y programación sobre examen cervical, cifosis postural y balance se aproxima más a la pregunta actual de Kate. No prueba mejores resultados."
+    },
+    {
+      "name": "Roberto Felipe Soto Rodriguez",
+      "slots": [
+        "19 oct 08:30",
+        "19 oct 08:50",
+        "19 oct 09:10"
+      ],
+      "specialty": "Traumatología",
+      "profile": "medico-018199",
+      "first_observed_slot": "19 oct 2026 · 08:30",
+      "normalized_slots": [
+        "2026-10-19T08:30:00-05:00",
+        "2026-10-19T08:50:00-05:00",
+        "2026-10-19T09:10:00-05:00"
+      ],
+      "case_screening": "Se contrastó su ficha nominal. Formación general o de otras áreas, sin evidencia individual de columna/postura adulta suficiente para preferirlo para este caso. Ver detalle y límites en su ficha."
+    },
+    {
+      "name": "Carlos Augusto Del Carpio Salas",
+      "slots": [
+        "19 oct 08:40",
+        "19 oct 09:00",
+        "19 oct 09:20"
+      ],
+      "specialty": "Traumatología",
+      "profile": "medico-079553",
+      "first_observed_slot": "19 oct 2026 · 08:40",
+      "normalized_slots": [
+        "2026-10-19T08:40:00-05:00",
+        "2026-10-19T09:00:00-05:00",
+        "2026-10-19T09:20:00-05:00"
+      ],
+      "case_screening": "Se contrastó su ficha nominal. Formación general o de otras áreas, sin evidencia individual de columna/postura adulta suficiente para preferirlo para este caso. Ver detalle y límites en su ficha."
+    },
+    {
+      "name": "Jorge Martin Salvador Artica",
+      "slots": [
+        "19 oct 09:00",
+        "19 oct 09:20",
+        "19 oct 09:40"
+      ],
+      "specialty": "Traumatología",
+      "profile": "medico-056540",
+      "first_observed_slot": "19 oct 2026 · 09:00",
+      "normalized_slots": [
+        "2026-10-19T09:00:00-05:00",
+        "2026-10-19T09:20:00-05:00",
+        "2026-10-19T09:40:00-05:00"
+      ],
+      "case_screening": "Se contrastó su ficha nominal. Formación general o de otras áreas, sin evidencia individual de columna/postura adulta suficiente para preferirlo para este caso. Ver detalle y límites en su ficha."
+    },
+    {
+      "name": "Lidia Del Carmen Maza Godos",
+      "slots": [
+        "19 oct 11:40",
+        "19 oct 12:00",
+        "19 oct 12:20"
+      ],
+      "specialty": "Traumatología",
+      "profile": "medico-062130",
+      "first_observed_slot": "19 oct 2026 · 11:40",
+      "normalized_slots": [
+        "2026-10-19T11:40:00-05:00",
+        "2026-10-19T12:00:00-05:00",
+        "2026-10-19T12:20:00-05:00"
+      ],
+      "case_screening": "Se contrastó su ficha nominal. Formación general o de otras áreas, sin evidencia individual de columna/postura adulta suficiente para preferirlo para este caso. Ver detalle y límites en su ficha."
+    },
+    {
+      "name": "Juan Carlos Camayo Guerreros",
+      "slots": [
+        "19 oct 14:15",
+        "19 oct 15:05",
+        "19 oct 15:50"
+      ],
+      "specialty": "Traumatología",
+      "profile": "medico-056465",
+      "first_observed_slot": "19 oct 2026 · 14:15",
+      "normalized_slots": [
+        "2026-10-19T14:15:00-05:00",
+        "2026-10-19T15:05:00-05:00",
+        "2026-10-19T15:50:00-05:00"
+      ],
+      "case_screening": "Se contrastó su ficha nominal. Formación general o de otras áreas, sin evidencia individual de columna/postura adulta suficiente para preferirlo para este caso. Ver detalle y límites en su ficha."
+    },
+    {
+      "name": "Henry Willy Deza Palle",
+      "slots": [
+        "19 oct 14:40",
+        "19 oct 15:20",
+        "21 oct 09:00"
+      ],
+      "specialty": "Traumatología",
+      "profile": "medico-039705",
+      "first_observed_slot": "19 oct 2026 · 14:40",
+      "normalized_slots": [
+        "2026-10-19T14:40:00-05:00",
+        "2026-10-19T15:20:00-05:00",
+        "2026-10-21T09:00:00-05:00"
+      ],
+      "case_screening": "Área IPOT: cadera/pelvis; trauma. No se encontró respaldo específico de columna/postura adulta que desplace a los finalistas."
+    },
+    {
+      "name": "Samuel Ricardo Jose Barrantes Durand",
+      "slots": [
+        "19 oct 16:30",
+        "19 oct 16:45",
+        "19 oct 17:00"
+      ],
+      "specialty": "Traumatología",
+      "profile": "medico-064045",
+      "first_observed_slot": "19 oct 2026 · 16:30",
+      "normalized_slots": [
+        "2026-10-19T16:30:00-05:00",
+        "2026-10-19T16:45:00-05:00",
+        "2026-10-19T17:00:00-05:00"
+      ],
+      "case_screening": "Área IPOT: pie/tobillo; trauma. No se encontró respaldo específico de columna/postura adulta que desplace a los finalistas."
+    },
+    {
+      "name": "Franco Eliser Tocas Caceres",
+      "slots": [
+        "19 oct 17:40",
+        "19 oct 18:20",
+        "23 oct 14:00"
+      ],
+      "specialty": "Traumatología",
+      "profile": "medico-049888",
+      "first_observed_slot": "19 oct 2026 · 17:40",
+      "normalized_slots": [
+        "2026-10-19T17:40:00-05:00",
+        "2026-10-19T18:20:00-05:00",
+        "2026-10-23T14:00:00-05:00"
+      ],
+      "case_screening": "Se contrastó su ficha nominal. Formación general o de otras áreas, sin evidencia individual de columna/postura adulta suficiente para preferirlo para este caso. Ver detalle y límites en su ficha."
+    },
+    {
+      "name": "Luis Leoncio Temoche Diaz",
+      "slots": [
+        "20 oct 08:00",
+        "20 oct 08:20",
+        "20 oct 08:40"
+      ],
+      "specialty": "Traumatología",
+      "profile": "medico-056538",
+      "first_observed_slot": "20 oct 2026 · 08:00",
+      "normalized_slots": [
+        "2026-10-20T08:00:00-05:00",
+        "2026-10-20T08:20:00-05:00",
+        "2026-10-20T08:40:00-05:00"
+      ],
+      "case_screening": "Área IPOT: hombro; miembro superior; trauma. No se encontró respaldo específico de columna/postura adulta que desplace a los finalistas."
+    },
+    {
+      "name": "Michael Cristhoper Diaz Palacios",
+      "slots": [
+        "20 oct 09:00",
+        "20 oct 09:20",
+        "20 oct 09:40"
+      ],
+      "specialty": "Traumatología",
+      "profile": "medico-054228",
+      "first_observed_slot": "20 oct 2026 · 09:00",
+      "normalized_slots": [
+        "2026-10-20T09:00:00-05:00",
+        "2026-10-20T09:20:00-05:00",
+        "2026-10-20T09:40:00-05:00"
+      ],
+      "case_screening": "Se contrastó su ficha nominal. Formación general o de otras áreas, sin evidencia individual de columna/postura adulta suficiente para preferirlo para este caso. Ver detalle y límites en su ficha."
+    },
+    {
+      "name": "Jessica Pamela Quispe Arapa",
+      "slots": [
+        "20 oct 09:20",
+        "20 oct 09:40",
+        "27 oct 09:00"
+      ],
+      "specialty": "Traumatología",
+      "profile": "medico-065949",
+      "first_observed_slot": "20 oct 2026 · 09:20",
+      "normalized_slots": [
+        "2026-10-20T09:20:00-05:00",
+        "2026-10-20T09:40:00-05:00",
+        "2026-10-27T09:00:00-05:00"
+      ],
+      "case_screening": "Área IPOT: trauma; fellowship de extremidad superior publicado. No se encontró respaldo específico de columna/postura adulta que desplace a los finalistas."
+    },
+    {
+      "name": "Christian Antonio Lopez Araujo",
+      "slots": [
+        "20 oct 13:45",
+        "20 oct 14:00",
+        "20 oct 14:15"
+      ],
+      "specialty": "Traumatología",
+      "profile": "medico-067035",
+      "first_observed_slot": "20 oct 2026 · 13:45",
+      "normalized_slots": [
+        "2026-10-20T13:45:00-05:00",
+        "2026-10-20T14:00:00-05:00",
+        "2026-10-20T14:15:00-05:00"
+      ],
+      "case_screening": "Se contrastó su ficha nominal. Formación general o de otras áreas, sin evidencia individual de columna/postura adulta suficiente para preferirlo para este caso. Ver detalle y límites en su ficha."
+    },
+    {
+      "name": "Wagner Abel Cruzado Cruz",
+      "slots": [
+        "20 oct 15:20",
+        "20 oct 16:20",
+        "20 oct 16:40"
+      ],
+      "specialty": "Traumatología",
+      "profile": "medico-081884",
+      "first_observed_slot": "20 oct 2026 · 15:20",
+      "normalized_slots": [
+        "2026-10-20T15:20:00-05:00",
+        "2026-10-20T16:20:00-05:00",
+        "2026-10-20T16:40:00-05:00"
+      ],
+      "case_screening": "Proyecto de escoliosis adolescente; no demuestra resultados propios ni práctica focal en deformidad adulta."
+    },
+    {
+      "name": "Eytyl Alfredo Jimenez Guevara",
+      "slots": [
+        "20 oct 15:40",
+        "20 oct 16:00",
+        "20 oct 16:20"
+      ],
+      "specialty": "Traumatología",
+      "profile": "medico-038407",
+      "first_observed_slot": "20 oct 2026 · 15:40",
+      "normalized_slots": [
+        "2026-10-20T15:40:00-05:00",
+        "2026-10-20T16:00:00-05:00",
+        "2026-10-20T16:20:00-05:00"
+      ],
+      "case_screening": "Candidato de columna real, con actividad en escoliosis adolescente y cirugía lumbar. Menos detalles verificables de formación focal y evaluación postural adulta; no implica menor capacidad."
+    },
+    {
+      "name": "Yosip Leonardo Becerra Mondragon",
+      "slots": [
+        "20 oct 16:00",
+        "20 oct 16:20",
+        "20 oct 16:40"
+      ],
+      "specialty": "Traumatología",
+      "profile": "medico-070923",
+      "first_observed_slot": "20 oct 2026 · 16:00",
+      "normalized_slots": [
+        "2026-10-20T16:00:00-05:00",
+        "2026-10-20T16:20:00-05:00",
+        "2026-10-20T16:40:00-05:00"
+      ],
+      "case_screening": "Se contrastó su ficha nominal. Formación general o de otras áreas, sin evidencia individual de columna/postura adulta suficiente para preferirlo para este caso. Ver detalle y límites en su ficha."
+    },
+    {
+      "name": "Jorge Manuel Sanchez Azabache",
+      "slots": [
+        "21 oct 08:40",
+        "22 oct 08:00",
+        "22 oct 08:20"
+      ],
+      "specialty": "Traumatología",
+      "profile": "medico-011301",
+      "first_observed_slot": "21 oct 2026 · 08:40",
+      "normalized_slots": [
+        "2026-10-21T08:40:00-05:00",
+        "2026-10-22T08:00:00-05:00",
+        "2026-10-22T08:20:00-05:00"
+      ],
+      "case_screening": "Área IPOT: cadera/pelvis; rodilla; infantil; trauma. No se encontró respaldo específico de columna/postura adulta que desplace a los finalistas."
+    },
+    {
+      "name": "Baldwin Luis Angelino Espinoza",
+      "slots": [
+        "21 oct 08:40",
+        "21 oct 09:20",
+        "21 oct 09:40"
+      ],
+      "specialty": "Traumatología",
+      "profile": "medico-031409",
+      "first_observed_slot": "21 oct 2026 · 08:40",
+      "normalized_slots": [
+        "2026-10-21T08:40:00-05:00",
+        "2026-10-21T09:20:00-05:00",
+        "2026-10-21T09:40:00-05:00"
+      ],
+      "case_screening": "Área IPOT: pie/tobillo; ortopedia infantil; trauma. No se encontró respaldo específico de columna/postura adulta que desplace a los finalistas."
+    },
+    {
+      "name": "Jorge Luis Chapilliquen Querevalu",
+      "slots": [
+        "21 oct 08:40",
+        "21 oct 09:00",
+        "21 oct 09:20"
+      ],
+      "specialty": "Traumatología",
+      "profile": "medico-081562",
+      "first_observed_slot": "21 oct 2026 · 08:40",
+      "normalized_slots": [
+        "2026-10-21T08:40:00-05:00",
+        "2026-10-21T09:00:00-05:00",
+        "2026-10-21T09:20:00-05:00"
+      ],
+      "case_screening": "Se contrastó su ficha nominal. Formación general o de otras áreas, sin evidencia individual de columna/postura adulta suficiente para preferirlo para este caso. Ver detalle y límites en su ficha."
+    },
+    {
+      "name": "Carlos Marcelo Palacios Malpica",
+      "slots": [
+        "21 oct 09:20",
+        "21 oct 09:40",
+        "21 oct 10:00"
+      ],
+      "specialty": "Traumatología",
+      "profile": "medico-072010",
+      "first_observed_slot": "21 oct 2026 · 09:20",
+      "normalized_slots": [
+        "2026-10-21T09:20:00-05:00",
+        "2026-10-21T09:40:00-05:00",
+        "2026-10-21T10:00:00-05:00"
+      ],
+      "case_screening": "Se contrastó su ficha nominal. Formación general o de otras áreas, sin evidencia individual de columna/postura adulta suficiente para preferirlo para este caso. Ver detalle y límites en su ficha."
+    },
+    {
+      "name": "Ramiro Cieza Ojeda",
+      "slots": [
+        "21 oct 14:20",
+        "21 oct 14:40",
+        "21 oct 15:00"
+      ],
+      "specialty": "Traumatología",
+      "profile": "medico-055819",
+      "first_observed_slot": "21 oct 2026 · 14:20",
+      "normalized_slots": [
+        "2026-10-21T14:20:00-05:00",
+        "2026-10-21T14:40:00-05:00",
+        "2026-10-21T15:00:00-05:00"
+      ],
+      "case_screening": "Alternativa fuerte: oferta explícita de escoliosis adulta, AO corto en Madrid y moderación de complicaciones adultas. No está demostrado que sea inferior; su evidencia específica de exploración postural global es menos directa."
+    },
+    {
+      "name": "Eduardo Denis Manchego Mendoza",
+      "slots": [
+        "21 oct 15:20",
+        "21 oct 15:40",
+        "21 oct 16:00"
+      ],
+      "specialty": "Traumatología",
+      "profile": "medico-027182",
+      "first_observed_slot": "21 oct 2026 · 15:20",
+      "normalized_slots": [
+        "2026-10-21T15:20:00-05:00",
+        "2026-10-21T15:40:00-05:00",
+        "2026-10-21T16:00:00-05:00"
+      ],
+      "case_screening": "Se contrastó su ficha nominal. Formación general o de otras áreas, sin evidencia individual de columna/postura adulta suficiente para preferirlo para este caso. Ver detalle y límites en su ficha."
+    },
+    {
+      "name": "Joel Antonio Solorzano Padilla",
+      "slots": [
+        "23 oct 08:00",
+        "23 oct 08:20",
+        "23 oct 08:40"
+      ],
+      "specialty": "Traumatología",
+      "profile": "medico-037556",
+      "first_observed_slot": "23 oct 2026 · 08:00",
+      "normalized_slots": [
+        "2026-10-23T08:00:00-05:00",
+        "2026-10-23T08:20:00-05:00",
+        "2026-10-23T08:40:00-05:00"
+      ],
+      "case_screening": "Se contrastó su ficha nominal. Formación general o de otras áreas, sin evidencia individual de columna/postura adulta suficiente para preferirlo para este caso. Ver detalle y límites en su ficha."
+    },
+    {
+      "name": "Miguel Angel Rugel Rivera",
+      "slots": [
+        "23 oct 16:20",
+        "23 oct 17:00",
+        "23 oct 17:20"
+      ],
+      "specialty": "Traumatología",
+      "profile": "medico-053748",
+      "first_observed_slot": "23 oct 2026 · 16:20",
+      "normalized_slots": [
+        "2026-10-23T16:20:00-05:00",
+        "2026-10-23T17:00:00-05:00",
+        "2026-10-23T17:20:00-05:00"
+      ],
+      "case_screening": "Se contrastó su ficha nominal. Formación general o de otras áreas, sin evidencia individual de columna/postura adulta suficiente para preferirlo para este caso. Ver detalle y límites en su ficha."
+    },
+    {
+      "name": "Cesar Augusto Luis Carreño Carcelen",
+      "slots": [
+        "23 oct 16:40",
+        "23 oct 17:20",
+        "23 oct 17:40"
+      ],
+      "specialty": "Traumatología",
+      "profile": "medico-032730",
+      "first_observed_slot": "23 oct 2026 · 16:40",
+      "normalized_slots": [
+        "2026-10-23T16:40:00-05:00",
+        "2026-10-23T17:20:00-05:00",
+        "2026-10-23T17:40:00-05:00"
+      ],
+      "case_screening": "Se contrastó su ficha nominal. Formación general o de otras áreas, sin evidencia individual de columna/postura adulta suficiente para preferirlo para este caso. Ver detalle y límites en su ficha."
+    },
+    {
+      "name": "Cesar Augusto Paucar Altez",
+      "slots": [
+        "26 oct 15:20",
+        "26 oct 16:20",
+        "26 oct 16:40"
+      ],
+      "specialty": "Traumatología",
+      "profile": "medico-028663",
+      "first_observed_slot": "26 oct 2026 · 15:20",
+      "normalized_slots": [
+        "2026-10-26T15:20:00-05:00",
+        "2026-10-26T16:20:00-05:00",
+        "2026-10-26T16:40:00-05:00"
+      ],
+      "case_screening": "Se contrastó su ficha nominal. Formación general o de otras áreas, sin evidencia individual de columna/postura adulta suficiente para preferirlo para este caso. Ver detalle y límites en su ficha."
+    },
+    {
+      "name": "Miguel Edilberto Fernandez Castillo",
+      "slots": [
+        "27 oct 09:20",
+        "27 oct 09:40",
+        "27 oct 10:20"
+      ],
+      "specialty": "Traumatología",
+      "profile": "medico-036222",
+      "first_observed_slot": "27 oct 2026 · 09:20",
+      "normalized_slots": [
+        "2026-10-27T09:20:00-05:00",
+        "2026-10-27T09:40:00-05:00",
+        "2026-10-27T10:20:00-05:00"
+      ],
+      "case_screening": "Se contrastó su ficha nominal. Formación general o de otras áreas, sin evidencia individual de columna/postura adulta suficiente para preferirlo para este caso. Ver detalle y límites en su ficha."
+    },
+    {
+      "name": "Arvin Armando Calderon Calderon",
+      "slots": [
+        "27 oct 09:20",
+        "27 oct 09:40",
+        "27 oct 10:00"
+      ],
+      "specialty": "Traumatología",
+      "profile": "medico-056535",
+      "first_observed_slot": "27 oct 2026 · 09:20",
+      "normalized_slots": [
+        "2026-10-27T09:20:00-05:00",
+        "2026-10-27T09:40:00-05:00",
+        "2026-10-27T10:00:00-05:00"
+      ],
+      "case_screening": "Se contrastó su ficha nominal. Formación general o de otras áreas, sin evidencia individual de columna/postura adulta suficiente para preferirlo para este caso. Ver detalle y límites en su ficha."
+    },
+    {
+      "name": "Cesar Javier Adrianzen Tello",
+      "slots": [
+        "27 oct 12:50",
+        "27 oct 13:10",
+        "27 oct 13:30"
+      ],
+      "specialty": "Traumatología",
+      "profile": "medico-068896",
+      "first_observed_slot": "27 oct 2026 · 12:50",
+      "normalized_slots": [
+        "2026-10-27T12:50:00-05:00",
+        "2026-10-27T13:10:00-05:00",
+        "2026-10-27T13:30:00-05:00"
+      ],
+      "case_screening": "Se contrastó su ficha nominal. Formación general o de otras áreas, sin evidencia individual de columna/postura adulta suficiente para preferirlo para este caso. Ver detalle y límites en su ficha."
+    },
+    {
+      "name": "Fernando Miguel Ruiz Gonzales",
+      "slots": [
+        "29 oct 15:30",
+        "29 oct 16:00",
+        "30 oct 09:00"
+      ],
+      "specialty": "Traumatología",
+      "profile": "medico-013850",
+      "first_observed_slot": "29 oct 2026 · 15:30",
+      "normalized_slots": [
+        "2026-10-29T15:30:00-05:00",
+        "2026-10-29T16:00:00-05:00",
+        "2026-10-30T09:00:00-05:00"
+      ],
+      "case_screening": "Se contrastó su ficha nominal. Formación general o de otras áreas, sin evidencia individual de columna/postura adulta suficiente para preferirlo para este caso. Ver detalle y límites en su ficha."
+    },
+    {
+      "name": "Benjamin Isidro Taboada Valdivieso",
+      "slots": [
+        "2 nov 15:15",
+        "2 nov 15:30",
+        "2 nov 15:45"
+      ],
+      "specialty": "Traumatología",
+      "profile": "medico-040973",
+      "first_observed_slot": "2 nov 2026 · 15:15",
+      "normalized_slots": [
+        "2026-11-02T15:15:00-05:00",
+        "2026-11-02T15:30:00-05:00",
+        "2026-11-02T15:45:00-05:00"
+      ],
+      "case_screening": "Área IPOT: rodilla; miembro superior; trauma. No se encontró respaldo específico de columna/postura adulta que desplace a los finalistas."
+    },
+    {
+      "name": "Gonzalo Jose Castillo Velasco",
+      "slots": [
+        "4 nov 08:40",
+        "4 nov 09:00",
+        "4 nov 09:20"
+      ],
+      "specialty": "Traumatología",
+      "profile": "medico-036795",
+      "first_observed_slot": "4 nov 2026 · 08:40",
+      "normalized_slots": [
+        "2026-11-04T08:40:00-05:00",
+        "2026-11-04T09:00:00-05:00",
+        "2026-11-04T09:20:00-05:00"
+      ],
+      "case_screening": "Área IPOT: rodilla; trauma. No se encontró respaldo específico de columna/postura adulta que desplace a los finalistas."
+    },
+    {
+      "name": "Juan Mirko Tello Vinces",
+      "slots": [
+        "5 nov 09:00",
+        "5 nov 09:20",
+        "5 nov 09:40"
+      ],
+      "specialty": "Traumatología",
+      "profile": "medico-031159",
+      "first_observed_slot": "5 nov 2026 · 09:00",
+      "normalized_slots": [
+        "2026-11-05T09:00:00-05:00",
+        "2026-11-05T09:20:00-05:00",
+        "2026-11-05T09:40:00-05:00"
+      ],
+      "case_screening": "Área IPOT: miembro superior; hombro; trauma; pasantía mano FREMAP Madrid 2006. No se encontró respaldo específico de columna/postura adulta que desplace a los finalistas."
+    },
+    {
+      "name": "Pablo Alejandro Ugarte Velarde",
+      "slots": [
+        "20 nov 17:00",
+        "27 nov 16:00",
+        "27 nov 16:20"
+      ],
+      "specialty": "Traumatología",
+      "profile": "medico-019597",
+      "first_observed_slot": "20 nov 2026 · 17:00",
+      "normalized_slots": [
+        "2026-11-20T17:00:00-05:00",
+        "2026-11-27T16:00:00-05:00",
+        "2026-11-27T16:20:00-05:00"
+      ],
+      "case_screening": "Área IPOT: hombro; miembro superior; trauma. No se encontró respaldo específico de columna/postura adulta que desplace a los finalistas."
+    }
+  ],
+  "source": "https://portaldelpaciente.crp.com.pe/appointments/select-doctor",
+  "scope": "Lista completa mostrada en Traumatología → Consulta Primera en la sesión reabierta por el usuario. Sede, cobertura y paciente no contrastados por separado. Tres opciones de horario por médico; no reserva ni agenda en tiempo real.",
+  "previous_same_day_observation_count": 59,
+  "change_note": "Nueva observación incluye a Juan Mirko Tello Vinces y horarios modificados. No se infieren altas/bajas del staff."
+}

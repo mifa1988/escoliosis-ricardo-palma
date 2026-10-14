@@ -1,0 +1,3572 @@
+{
+  "date": "2026-10-14",
+  "case": {
+    "age": 35,
+    "sex": "mujer",
+    "cesarean": "2026-06-25",
+    "postpartum_days": 111,
+    "symptoms": [
+      "debilidad abdominal percibida y encorvamiento",
+      "cabeza adelantada y prominencia leve bajo nuca sin dolor cervical",
+      "molestia leve de espalda al cargar bebé",
+      "escoliosis antigua referida sin estudios actuales",
+      "sospecha de alteración de pies/piernas/marcha no medida"
+    ],
+    "diagnoses_not_established": [
+      "diástasis",
+      "cifosis estructural",
+      "escoliosis actual/grado de Cobb",
+      "dismetría",
+      "causa de prominencia cervicodorsal"
+    ]
+  },
+  "selection": {
+    "physiatry": {
+      "doctor_id": "medico-060971",
+      "name": "Andrea Lissette Málaga Alarco",
+      "confidence": "baja",
+      "statement": "Si hay que escoger a una persona hoy para una primera valoración general, Andrea Málaga es una primera opción razonable con preferencia documental leve y refutable. El encaje específico abdominal posparto/columna/marcha permanece sin diferencia demostrada entre los cuatro.",
+      "reason": "La señal temática nominal de osteoartritis adulta es algo más cercana a consulta musculoesquelética adulta habitual que un reporte de prescripción de prótesis de miembro inferior. Sólo es una proximidad temática indirecta: una validación no acredita su casuística personal. La trazabilidad de admisión/título se usa para confirmar formación general, no como motivo de calidad superior.",
+      "alternative": "Agustín Barreda sigue siendo igualmente defendible como primera valoración de fisiatría general; su especialidad publicada y vínculo institucional de rehabilitación no son inferiores. Su divulgación sobre retorno al ejercicio es pertinente al objetivo de volver a actividad, pero no verifica un programa personal de retorno deportivo posparto.",
+      "not_claimed": [
+        "Que Andrea tenga formación abdominopélvica, entrenamiento avanzado en columna o marcha",
+        "Que Andrea trate personalmente pacientes de osteoartritis por aparecer como validadora",
+        "Que su formación sea mejor porque tenga más registros accesibles",
+        "Que existan resultados comparables que demuestren superioridad",
+        "Que la disponibilidad determine el orden"
+      ],
+      "refutation": [
+        "Confirmación nominal de que Barreda, Leyna o Miguel realizan habitualmente evaluación funcional abdominal posparto y de columna/marcha adulta con formación pertinente.",
+        "Que Andrea no incluya pared abdominal y función del tronco en su consulta o no coordine derivación adecuada.",
+        "Datos actuales que muestren que la participación de Andrea en validación no representa su práctica clínica o que su consulta tiene otra población predominante.",
+        "Un programa/formación clínica y resultados verificables más pertinentes de cualquiera de los otros."
+      ]
+    },
+    "trauma": {
+      "recommended": "Luis Roberto Neira Granados",
+      "alternative": "Ramiro Cieza Ojeda",
+      "confidence": "Moderada para encaje documental; no comparación validada de calidad clínica",
+      "reason": "Para Kate priorizo una evaluación de alineación global y postura cervical con hipótesis estructural aún sin confirmar. La docencia nominal de Neira en exploración cervical/toracolumbar/sacroilíaca, cifosis postural y parámetros espinopélvicos es más específica para esta necesidad que moderar complicaciones quirúrgicas adultas o anunciar todas las edades. Su participación AO en Cajuru y su actividad en degeneración/deformidad adulta respaldan una trayectoria focal; no demuestran mayor eficacia.",
+      "evidence_refs": [
+        "N02",
+        "N06",
+        "N07",
+        "N08",
+        "N09"
+      ],
+      "alternative_reason": "Cieza ofrece atención explícita de escoliosis adulta y tiene moderación de un bloque adulto y formación AO corta en Madrid. Es una alternativa razonable si se busca confirmar la escoliosis antigua o se identifica deformidad estructural adulta. No está demostrado que sea inferior.",
+      "alternative_evidence_refs": [
+        "C01",
+        "C03",
+        "C06",
+        "C08"
+      ],
+      "not_claimed": [
+        "Mejor calidad, seguridad o habilidad quirúrgica",
+        "Top 20% u otro percentil",
+        "Superioridad por reseñas, cargos, antigüedad o prestigio del hospital",
+        "Especialización posparto o marcha no documentada",
+        "Indicación de cirugía, plantillas, alzas o laboratorio de marcha para Kate"
+      ],
+      "route_note": "Esta decisión escoge traumatólogo entre los 60 del portal. Por el componente abdominal/funcional posparto, la consulta médica de rehabilitación y eventual evaluación de salud pélvica pueden ser complementarias o la entrada funcional inicial. No convierto la prominencia bajo nuca ni la sospecha de pies/piernas en diagnóstico."
+    }
+  },
+  "availability": {
+    "trauma_count": 60,
+    "rehabilitation_service_count": 8,
+    "type": "Consulta Primera",
+    "appointment_booked": false
+  },
+  "physiatry_research": [
+    {
+      "consulted_at": "2026-10-14",
+      "scope": "Comparación documental de cuatro fisiatras CRP observados por la raíz hoy en Medicina Física y Rehabilitación → Consulta Primera; sin agenda, reserva, contacto, sesión del navegador ni edición de HTML.",
+      "patient_context": {
+        "age": 35,
+        "cesarean_date": "2026-06-25",
+        "goals": [
+          "Evaluar sensación de poca fuerza abdominal y posible diástasis, sin asumir diagnóstico",
+          "Evaluar encorvamiento/cabeza adelantada y prominencia leve bajo nuca, sin dolor cervical",
+          "Dolor leve al cargar bebé; escoliosis antigua referida sin estudios actuales",
+          "Posible diferencia de pies/piernas y marcha no medida",
+          "Planificar retorno a natación; terapia manual pélvica previa sin informe"
+        ]
+      },
+      "preferred_doctor": "medico-060971",
+      "conclusion": "Para elegir una primera consulta general hoy, Andrea Málaga es una opción práctica razonable con preferencia documental leve y de baja confianza por su vínculo nominal con un tema musculoesquelético adulto. No está demostrada una ventaja de formación o práctica específica para abdomen poscesárea, columna/postura o marcha; en esos ejes los cuatro permanecen sin diferencia documentada. Barreda sigue siendo igualmente defendible como primera consulta general. No hay resultados clínicos comparables ni una base para afirmar que Andrea sea la mejor médica para Kate.",
+      "comparison_axes": [
+        "Pared abdominal/posparto y retorno progresivo a actividad: objetivo más diferenciador, sin evidencia nominal específica en los cuatro.",
+        "Postura/columna adulta: ninguna fuente encontrada establece consulta individual o formación avanzada de esa área.",
+        "Marcha/dismetría: ninguna demuestra actividad clínica nominal pertinente; no extrapolar amputación/prótesis o temario docente.",
+        "Musculoesquelético adulto general: Andrea tiene señal documental explícita; es indirecta y de 2018, sin resultados propios.",
+        "Calidad comparada: no existen datos encontrados de resultados ajustados, experiencia comparable o volumen relevante."
+      ],
+      "what_would_change_selection": [
+        "Documento institucional reciente que identifique a uno como responsable de evaluación de pared abdominal/diástasis y recuperación funcional poscesárea, con formación y actividad clínica reales.",
+        "Actividad nominal reciente de columna/escoliosis adulta y evaluación funcional completa, incluyendo medición de longitud real/aparente y marcha cuando proceda.",
+        "Descripción individual verificable de coordinación con fisioterapia abdominopélvica y seguimiento con objetivos funcionales de retorno a natación.",
+        "Resultados clínicos comparables para poblaciones y problemas semejantes, con método verificable; reseñas no bastan.",
+        "Confirmación documental del alcance de primera consulta: examen abdominal/funcional, valoración de columna y derivación individualizada según hallazgos. No se hizo contacto para obtenerla."
+      ],
+      "new_evidence_assessment": {
+        "useful_new": [
+          "Miguel: registro CONAREME 2012 de último año de residencia UNFV.",
+          "Andrea: LinkedIn público con educación USMP 2005–2011 y vínculo autodeclarado Hospital Negreiros; no modifica encaje clínico."
+        ],
+        "low_relevance_new": [
+          "Miguel: cuerpo médico de apoyo de planCOVID-19 ENSFJMA 2020; no acredita rehabilitación de danza."
+        ],
+        "unresolved_new": [
+          {
+            "text": "Boletín UNMSM Graduados y Titulados 2016 indexa Leyna Medalit Gallegos Velazco, resolución 01377-R-2016, expedición 28/09/2016; PDF actual 404 y no se recuperó encabezado del grado. No se considera una nueva titulación de especialidad verificada.",
+            "url": "https://secgen.unmsm.edu.pe/wp-content/uploads/2025/05/boletin-2016.pdf"
+          }
+        ],
+        "already_in_previous_md": [
+          "Leyna: comisión de incapacidad Loayza y rectificación del apellido; no se presenta como hallazgo nuevo.",
+          "Barreda: validador IETSI 2018 y divulgación de ejercicio.",
+          "Andrea: CONAREME 2014, actaUNMSM 2017 y GPC 2018.",
+          "Miguel: CV Clínica González/INR/diplomados/cursos."
+        ]
+      },
+      "doctors": [
+        {
+          "id": "medico-037616",
+          "name": "Agustín Alejandro Barreda Castro",
+          "cmp": "037616",
+          "rne": "017700",
+          "verified_facts": [
+            {
+              "text": "CRP publica Medicina en Universidad Nacional San Luis Gonzaga de Ica y Medicina Física y Rehabilitación en UNMSM. No publica años, sede ni duración de residencia.",
+              "url": "https://www.crp.com.pe/medicos/barreda-castro-agustin-alejandro/",
+              "label": "Ficha CRP conservada en investigación previa",
+              "date": null,
+              "evidence_type": "perfil_institucional_previamente_capturado"
+            },
+            {
+              "text": "El padrón CMP 2023 vincula el nombre completo con CMP 037616. Corrobora identidad histórica; no demuestra habilitación actual ni RNE vigente.",
+              "url": "https://www.cmp.org.pe/wp-content/uploads/2023/11/Padron-General.pdf",
+              "label": "Padrón oficial CMP 2023; extracto indexado recuperado",
+              "date": "2023-11",
+              "evidence_type": "registro_primario_historico_indexado"
+            },
+            {
+              "text": "El Reporte de Evidencias N.º 4 IETSI, mayo de 2018, lo incluye en el grupo validador como médico especialista de rehabilitación del Hospital I Jorge Voto Bernales Corpancho. El tema es prescripción de prótesis de miembro inferior; no es autoría del grupo elaborador ni actividad demostrada en pared abdominal/posparto.",
+              "url": "https://www.essalud.gob.pe/ietsi/pdfs/guias/RE_Prescripcion_de_Protesis_Final.pdf",
+              "label": "IETSI/EsSalud, documento primario, p.2",
+              "date": "2018-05",
+              "evidence_type": "validacion_tecnica_institucional_historica"
+            }
+          ],
+          "case_fit": {
+            "general": "Especialidad publicada compatible con primera evaluación médica de función y movimiento.",
+            "adult_musculoskeletal": "Señal general de rehabilitación física institucional; amputación/prótesis no representa esta paciente.",
+            "spine_posture": "No se encontró actividad clínica nominal específica en postura cervical, columna o escoliosis adulta.",
+            "abdominal_postpartum_pelvic": "No se encontró formación, servicio o producción individual verificable sobre diástasis, pared abdominal poscesárea o salud pélvica.",
+            "function_gait": "La validación de prescripción de prótesis no acredita por sí sola práctica individual de análisis de marcha o medición de dismetría adulta."
+          },
+          "limits": [
+            "No hay resultados personales comparables, volumen de casos ni programa abdominopélvico publicado.",
+            "Divulgación sobre retorno al ejercicio en adultos es información general, no entrenamiento posparto ni evidencia de resultados.",
+            "No se verificó habilitación CMP actual ni práctica hospitalaria actual.",
+            "No se halló evidencia nueva específica que cambie la evaluación previa."
+          ],
+          "comparative_judgment": "Igualmente defendible que Andrea para primera valoración de fisiatría general. El reporte de prótesis MI tiene menor proximidad temática a la consulta adulta habitual de Kate que la guía de osteoartritis, pero esa diferencia indirecta es demasiado débil para establecer inferioridad clínica. No hay evidencia directa que lo sitúe por debajo en abdomen posparto, postura o marcha."
+        },
+        {
+          "id": "medico-060971",
+          "name": "Andrea Lissette Málaga Alarco",
+          "cmp": "060971",
+          "rne": "034935",
+          "verified_facts": [
+            {
+              "text": "CRP y la ficha individual de Clínica San Felipe previamente leída concuerdan en CMP 060971/RNE 034935, pregrado USMP y especialidad UNMSM; no publican fechas de estudios.",
+              "url": "https://www.clinicasanfelipe.com/medicos/andrea-lissette-malaga-alarco",
+              "label": "Perfil institucional individual; evidencia conservada en research_physiatry_b",
+              "date": null,
+              "evidence_type": "perfil_institucional_leido_previamente"
+            },
+            {
+              "text": "CONAREME 2014 registra ingreso a Medicina de Rehabilitación, UNMSM, sede Hospital Nacional Edgardo Rebagliati Martins. Es evidencia de admisión y sede, no por sí sola de culminación.",
+              "url": "https://www.conareme.org.pe/web/Documentos/Actas%20CN%202014/08-08-14-SO-013.pdf",
+              "label": "Acta oficial CONAREME; investigación previa, fila 956/p.26",
+              "date": "2014-08-08",
+              "evidence_type": "registro_primario_de_admision"
+            },
+            {
+              "text": "Acta del Consejo de Facultad UNMSM 31/10/2017 incluye su nombre en Medicina de Rehabilitación y el Acuerdo 517 aprueba otorgar los títulos de esa relación. Es aprobación de título; no habilitación vigente.",
+              "url": "https://medicina.unmsm.edu.pe/wp-content/uploads/2021/08/acta_20_so_31_10_2017.pdf",
+              "label": "Acta universitaria primaria; pp.2–3, verificada en investigación previa",
+              "date": "2017-10-31",
+              "evidence_type": "aprobacion_universitaria_de_titulo"
+            },
+            {
+              "text": "La GPC IETSI de osteoartritis, junio 2018, la registra en grupo validador como especialista de rehabilitación del Hospital Luis Negreiros Vega. La población de la guía es adulta. Es la señal nominal más explícita de vinculación a un problema musculoesquelético adulto entre los cuatro; no demuestra una consulta personal de columna o posparto.",
+              "url": "https://www.essalud.gob.pe/ietsi/pdfs/guias/GPC_Osteoartritis_v_extensa.pdf",
+              "label": "GPC oficial IETSI; grupo validador, pp.3/19",
+              "date": "2018-06",
+              "evidence_type": "validacion_tecnica_musculoesqueletica_adulta"
+            },
+            {
+              "text": "Su perfil LinkedIn público enumera USMP 2005–2011, Clínica Ricardo Palma y Hospital Negreiros. No expone en el extracto leído entrenamiento abdominopélvico ni fechas de empleo. Es autodeclaración compatible con los registros institucionales, no certificado de grado o especialización.",
+              "url": "https://pe.linkedin.com/in/andrea-m%C3%A1laga-alarco-75b07475",
+              "label": "Perfil público individual LinkedIn; hallazgo nuevo",
+              "date": null,
+              "evidence_type": "autodeclaracion_profesional"
+            }
+          ],
+          "case_fit": {
+            "general": "Candidata razonable para primera valoración funcional adulta por especialidad publicada y formación institucional corroborada.",
+            "adult_musculoskeletal": "Señal documental explícita en osteoartritis adulta. Pertinencia indirecta para problemas mecánicos; la enfermedad no es la de la paciente.",
+            "spine_posture": "No se encontró programa, formación o consulta individual verificable de escoliosis adulta, postura cervical o tronco.",
+            "abdominal_postpartum_pelvic": "No se encontró evidencia nominal de diástasis, pared abdominal posparto, cesárea, suelo pélvico o retorno deportivo posparto.",
+            "function_gait": "No se encontró un servicio o formación nominal de análisis de marcha adulta/dismetría."
+          },
+          "limits": [
+            "Validar una guía adulta no demuestra que trate personalmente esa cohorte ni que destaque en el problema concreto.",
+            "El extracto de LinkedIn no agrega formación específica clínicamente decisiva.",
+            "No hay resultados clínicos comparables ni medida de calidad personal.",
+            "No se verificó habilitación actual."
+          ],
+          "comparative_judgment": "Primera opción práctica razonable si hay que elegir hoy, con preferencia documental leve de baja confianza por proximidad temática a musculoesquelético adulto habitual. No está demostrada una ventaja de formación o práctica en abdomen posparto, columna o marcha. Barreda sigue siendo igualmente defendible para una valoración general; una validación de osteoartritis no acredita casuística personal."
+        },
+        {
+          "id": "medico-050732",
+          "name": "Leyna Medalit Gallegos Velazco",
+          "cmp": "050732",
+          "rne": "029912",
+          "verified_facts": [
+            {
+              "text": "CRP publica Medicina en Universidad Mayor Real y Pontificia de San Francisco Xavier de Chuquisaca y especialidad consignada como Universidad Mayor de San Marcos, sin años o sede de residencia. Se conserva la denominación de la ficha sin inventar equivalencias académicas.",
+              "url": "https://www.crp.com.pe/medicos/gallegos-velazco-leyna-medalit/",
+              "label": "Ficha institucional CRP previamente capturada",
+              "date": null,
+              "evidence_type": "perfil_institucional_previamente_capturado"
+            },
+            {
+              "text": "Sílabo USMP 2025-I la enumera como docente de Medicina Física y Rehabilitación, sede Hospital Loayza. Hay antecedentes 2023-I/2024-I/II. El sílabo no distribuye nominalmente los temas entre docentes.",
+              "url": "https://medicina.usmp.edu.pe/wp-content/uploads/silabos/silabos-2025-1/CICLO-11/SILABO-MEDICINA-FISICA-Y-REHABILITACION-2025-1.pdf",
+              "label": "Documento universitario primario; anexo 1, p.11",
+              "date": "2025-I",
+              "evidence_type": "docencia_clinica_general_institucional"
+            },
+            {
+              "text": "Documento de servicios Loayza 2020 la registra nominalmente como médica en Medicina Física y Rehabilitación.",
+              "url": "https://www2.hospitalloayza.gob.pe/pte/files/TRAS_f3eb238ff75f17f_.pdf",
+              "label": "Documento hospitalario oficial histórico",
+              "date": "2020",
+              "evidence_type": "vinculo_hospitalario_historico"
+            },
+            {
+              "text": "R.D.192-2020 Loayza la designa miembro suplente de la Comisión Médica Calificadora de Incapacidad, con apellido escrito Velasco. El registro oficial de R.D.265-2020 indica rectificación de apellido a Velazco; es evaluación médico-administrativa, no acreditación de marcha, postura o posparto.",
+              "url": "https://www2.hospitalloayza.gob.pe/pte/files/TRAS_a2b3044b006798d_.pdf",
+              "label": "Resolución hospitalaria; ya presente en MD previo, no hallazgo nuevo",
+              "date": "2020",
+              "evidence_type": "cargo_hospitalario_historico"
+            }
+          ],
+          "case_fit": {
+            "general": "Especialidad publicada, vínculo hospitalario y docencia clínica general respaldan su condición de candidata del servicio.",
+            "adult_musculoskeletal": "No se individualizan población adulta ni actividad musculoesquelética específica en las fuentes nominales.",
+            "spine_posture": "El curso aborda postura, pero no identifica qué docente enseña cada tema; no se puede atribuirle esa experiencia clínica.",
+            "abdominal_postpartum_pelvic": "No se encontró programa personal, entrenamiento o producción nominal de pared abdominal/diástasis/posparto/salud pélvica.",
+            "function_gait": "El curso incluye marcha y la comisión valora incapacidad; ninguna fuente demuestra su práctica individual específica en marcha adulta o dismetría."
+          },
+          "limits": [
+            "Docencia general no equivale a especialización personal en todos los temas del sílabo.",
+            "El nombramiento de comisión ya constaba en MD previo y no cambia el encaje específico.",
+            "Un boletín UNMSM 2016 indexa su nombre y una expedición 28/09/2016, pero PDF 404 y falta contexto del grado: no se usó como prueba de especialidad o nuevas fechas de residencia.",
+            "No se verificó habilitación actual ni resultados comparables."
+          ],
+          "comparative_judgment": "Tiene respaldo reciente de docencia clínica general, sin que se pueda derivar superioridad para abdomen posparto o postura/marcha. No debe priorizarse por ser docente ni por el número de fuentes hospitalarias."
+        },
+        {
+          "id": "medico-032543",
+          "name": "Miguel Ángel Sánchez Talledo",
+          "cmp": "032543",
+          "rne": "025132",
+          "verified_facts": [
+            {
+              "text": "CRP publica Medicina y especialidad de Medicina Física y Rehabilitación en UNFV, sin fechas. El perfil de Clínica González concuerda en CMP 032543/RNE 025132 y sitúa la especialidad en el INR; el INR puede ser sede formativa y no se presenta aquí como universidad expedidora.",
+              "url": "https://www.clinicagonzalez.com/medico/Dr-Miguel-Angel-Sanchez-Talledo",
+              "label": "Perfil institucional individual; leído nuevamente en resultados públicos",
+              "date": null,
+              "evidence_type": "perfil_institucional_individual"
+            },
+            {
+              "text": "El Acuerdo 358 del acta CONAREME 18/05/2012 aprueba relación de alumnos cursando el último año de residencia. En p.26, fila 146, figura SANCHEZ TALLEDO MIGUEL ANGEL, Medicina Física y Rehabilitación, UNFV. Es nueva corroboración primaria de formación general en 2012, no constancia de culminación ni fechas completas de la residencia.",
+              "url": "https://www.conareme.org.pe/web/Documentos/Actas%20CN%202012/18-05-12-SE-015.pdf",
+              "label": "CONAREME, acta 15, pp.7/26; hallazgo nuevo",
+              "date": "2012-05-18",
+              "evidence_type": "registro_primario_de_residencia"
+            },
+            {
+              "text": "Clínica González publica diplomados de Salud Ocupacional y Auditoría Médica, y cursos de actualización en rehabilitación y de rehabilitación neurológica/respiratoria; sin fechas, duración ni acreditación de posparto/columna.",
+              "url": "https://www.clinicagonzalez.com/medico/Dr-Miguel-Angel-Sanchez-Talledo",
+              "label": "CV institucional individual",
+              "date": null,
+              "evidence_type": "formacion_adicional_publicada_por_empleador"
+            },
+            {
+              "text": "La R.D.298-2020 ENSFJMA,15/09/2020, lo enumera en cuerpo médico de apoyo al comité del planCOVID-19, como Medicina Física y Rehabilitación y Salud Ocupacional. No acredita que rehabilitara bailarines o deportistas ni que ejerciera una especialidad adicional registrada.",
+              "url": "https://www.escuelafolklore.edu.pe/wp-content/uploads/2020/10/RD_298-2020.pdf",
+              "label": "Resolución educativa oficial, anexo, p.20; hallazgo nuevo de baja pertinencia",
+              "date": "2020-09-15",
+              "evidence_type": "vinculo_institucional_ocupacional_historico"
+            }
+          ],
+          "case_fit": {
+            "general": "Residencia general UNFV corroborada por fuente oficial histórica; candidato razonable para evaluación de rehabilitación general.",
+            "adult_musculoskeletal": "CV general y componente ocupacional, sin casuística individual musculoesquelética adulta específica.",
+            "spine_posture": "No se encontró formación, servicio o publicación propia verificable sobre columna/postura/escoliosis adulta.",
+            "abdominal_postpartum_pelvic": "No se encontró actividad nominal de diástasis, pared abdominal poscesárea, salud pélvica o retorno deportivo posparto.",
+            "function_gait": "No se encontró formación o servicio individual de análisis de marcha adulta o dismetría."
+          },
+          "limits": [
+            "El acta 2012 demuestra estar cursando último año, no egreso ni título; no se inventan fechas de inicio/final.",
+            "Clínica González escribe Universidad Privada Federico Villarreal; CRP/CONAREME dicen UNFV. Se trata como inconsistencia editorial, no otra universidad.",
+            "El encabezado Medicina Física y Deportiva del sitio no prueba otro RNE de Medicina del Deporte.",
+            "La funciónCOVID-19 en escuela de folklore no demuestra experiencia de rehabilitación de danza.",
+            "No se verificó habilitación actual ni resultados comparables."
+          ],
+          "comparative_judgment": "La nueva fuente mejora trazabilidad de su residencia, pero no modifica la elección clínica específica. El INR, el tiempo desde 2012 o los cursos generales no justifican situarlo por delante de los demás."
+        }
+      ],
+      "methodology": {
+        "previous_research_read": [
+          "work/research_physiatry_a.json",
+          "work/research_physiatry_a.md",
+          "work/research_physiatry_b.json",
+          "work/research_physiatry_b.md"
+        ],
+        "search_strategy": "Búsquedas nominales completas/abreviadas, con/sin tildes y variante Velasco/Velazco; términos columna, escoliosis, postura, marcha, diástasis, abdominal, posparto, suelo/piso pélvico, residencia, docencia, curso, diplomado, publicaciones y congreso; búsquedas dirigidas a CRP, EsSalud, CONAREME, UNMSM, UNFV, hospitales, sociedades y repositorios.",
+        "source_hierarchy": "Registros y documentos institucionales nominales; perfiles de empleadores para formación publicada; LinkedIn etiquetado autodeclarado; no usar reseñas/antigüedad/prestigio/número de documentos como superioridad.",
+        "identity_handling": "CMP/RNE de portal actual proporcionados por raíz; cotejo con perfiles e históricos disponibles. Las fuentes abreviadas sin CMP sólo se atribuyen cuando nombre/especialidad/contexto son compatibles, con límite explícito. No se verificó habilitaciónCMP actual ni registro SUNEDU independiente.",
+        "access": "No se reabrieron fichasCRP que ya habían fallado 403. Texto de documentos nuevos leído con web pública. Descarga por shell de dosPDF falló por resoluciónDNS; no hay copiasPDF nuevas entregadas. PDF UNMSM 2016 devolvió 404 una vez; queda como pista indexada. No se usó sesión del navegador.",
+        "negative_evidence": "No encontrar un programa o publicación no demuestra ausencia de capacidad clínica. Sólo impide afirmar una ventaja individual con esta evidencia."
+      },
+      "excluded_attributions": [
+        "Artículo Dolor lumbar y actividades domésticas 2019 pertenece a E.L.Barreda-Castillo y C.SantiagoBazan, no a Agustín Barreda Castro.",
+        "Dr.Barreda de Clínica Stella Maris es una pista de otro apellido/identidad; no se atribuye a Agustín.",
+        "Sánchez-Talledo de ingeniería y otros Sánchez de bioética son otras identidades.",
+        "Se excluyeron documentos administrativos con información médica personal de terceros y registros familiares: no sirven al objetivo clínico.",
+        "TuMédico es secundario y no sustituye habilitaciónCMP primaria actual."
+      ],
+      "preference_status": "eleccion_pragmatica_de_baja_confianza_sin_superioridad_clinica_demostrada",
+      "specific_case_fit_evidence_tie": true,
+      "practical_choice": {
+        "doctor_id": "medico-060971",
+        "name": "Andrea Lissette Málaga Alarco",
+        "confidence": "baja",
+        "statement": "Si hay que escoger a una persona hoy para una primera valoración general, Andrea Málaga es una primera opción razonable con preferencia documental leve y refutable. El encaje específico abdominal posparto/columna/marcha permanece sin diferencia demostrada entre los cuatro.",
+        "reason": "La señal temática nominal de osteoartritis adulta es algo más cercana a consulta musculoesquelética adulta habitual que un reporte de prescripción de prótesis de miembro inferior. Sólo es una proximidad temática indirecta: una validación no acredita su casuística personal. La trazabilidad de admisión/título se usa para confirmar formación general, no como motivo de calidad superior.",
+        "alternative": "Agustín Barreda sigue siendo igualmente defendible como primera valoración de fisiatría general; su especialidad publicada y vínculo institucional de rehabilitación no son inferiores. Su divulgación sobre retorno al ejercicio es pertinente al objetivo de volver a actividad, pero no verifica un programa personal de retorno deportivo posparto.",
+        "not_claimed": [
+          "Que Andrea tenga formación abdominopélvica, entrenamiento avanzado en columna o marcha",
+          "Que Andrea trate personalmente pacientes de osteoartritis por aparecer como validadora",
+          "Que su formación sea mejor porque tenga más registros accesibles",
+          "Que existan resultados comparables que demuestren superioridad",
+          "Que la disponibilidad determine el orden"
+        ],
+        "refutation": [
+          "Confirmación nominal de que Barreda, Leyna o Miguel realizan habitualmente evaluación funcional abdominal posparto y de columna/marcha adulta con formación pertinente.",
+          "Que Andrea no incluya pared abdominal y función del tronco en su consulta o no coordine derivación adecuada.",
+          "Datos actuales que muestren que la participación de Andrea en validación no representa su práctica clínica o que su consulta tiene otra población predominante.",
+          "Un programa/formación clínica y resultados verificables más pertinentes de cualquiera de los otros."
+        ]
+      },
+      "malaga_vs_barreda": {
+        "education": "Ambos publican especialidad general UNMSM. Para Andrea se identifican admisión/sede Rebagliati 2014 y aprobación universitaria del título 2017. La diferencia es trazabilidad, no un mayor contenido, duración, resultado o entrenamiento pertinente demostrado.",
+        "institutional_adult_context": "En 2018 la fuente nominal vincula Andrea con rehabilitación Negreiros y Barreda con rehabilitación Jorge Voto Bernales. Ninguna permite afirmar empleo actual ni casuística personal.",
+        "topic_proximity": "Osteoartritis adulta ofrece una señal temática algo más próxima a musculoesquelético adulto habitual que prescripción de prótesis MI. No demuestra atención personal de dolor de espalda, postura o abdomen posparto y no compensa falta de evidencia directa.",
+        "exercise_disclosure": "Barreda tiene divulgación de retorno gradual al ejercicio; es un contenido cercano al objetivo de nadar, pero no un programa clínico posparto ni entrenamiento personal acreditado.",
+        "clinical_fit": "Empate de evidencia directa para las necesidades específicas. La preferencia por Andrea sólo puede expresarse como desempate práctico indirecto de baja confianza, no elección médica superior validada."
+      }
+    },
+    {
+      "consulted_at": "2026-10-14",
+      "language": "es",
+      "scope": "Selección clínica entre Arellano, Miñano, Vassallo y Cornejo, observados por el investigador principal en CRP Medicina Física y Rehabilitación > Consulta Primera el 14/10/2026. Investigación pública sin navegador de sesión, contactos ni reservas; no se editó HTML.",
+      "case": {
+        "age": 35,
+        "cesarean_date": "2026-06-25",
+        "reported_problem": "Sensación de poca fuerza abdominal y encorvamiento; cabeza adelantada y prominencia leve bajo nuca, sin dolor cervical; molestia de espalda leve al cargar bebé; escoliosis antigua referida sin estudios actuales; posible diferencia pies/piernas y marcha sin medición; busca evaluar diástasis, función y retorno a natación. Terapia manual interna pélvica previa sin informe.",
+        "interpretation": "El objetivo principal exige una valoración funcional adulta y poscesárea de tronco/pared abdominal en conjunto con postura, columna y marcha. La natación es un objetivo de actividad; no convierte por sí sola el caso en una consulta de alto rendimiento. No se diagnostica diástasis, dismetría ni enfermedad cervical por los síntomas relatados."
+      },
+      "method": {
+        "prior_records_read": [
+          "work/research_physiatry_a.json",
+          "work/research_physiatry_a.md",
+          "work/research_physiatry_b.json",
+          "work/research_physiatry_b.md",
+          "work/index-before-deep-research.html",
+          "work/recheck-physiatry-2026-10-14.json"
+        ],
+        "crp_profile_access": "Formación y CMP/RNE de fichas CRP proceden de captura del 10/10/2026 conservada localmente. No se reabrieron las cuatro fichas bloqueadas. Se buscaron fuentes nominales nuevas. Los PDF CRP de plantel y telemedicina aparecieron indexados, pero su apertura devolvió 403; no se insistió ni se presentan como PDF directamente leídos.",
+        "evidence_rules": "Se distinguen título institucional publicado, documento formativo histórico, cargo histórico, autoría de artículo, material autopublicado y directorio secundario. Los cargos no se proyectan a 2026. La ausencia de información publicada no demuestra falta de experiencia. No se comparan resultados mediante reseñas ni se usa número CMP como experiencia.",
+        "stop_rule": "Las búsquedas nuevas añadieron antecedentes formativos y deportivos, pero ya no cambiaban el encaje clínico comparativo. No se forzó un ganador."
+      },
+      "preferred_doctor": null,
+      "selection_conclusion": {
+        "clinical_superiority": "No demostrada para ninguno de los cuatro en este caso concreto.",
+        "practical_choice": "Arellano, Miñano y Vassallo son opciones de fisiatría general según sus fichas CRP y corroboraciones formativas disponibles. No hay ventaja documental pertinente que permita escoger uno sobre los otros tres ni sobre Málaga/Barreda/Leyna/Sánchez para pared abdominal poscesárea, suelo pélvico, postura mecánica y marcha adulta.",
+        "not_an_agenda_ranking": "La agenda no se usó como sustituto de encaje clínico ni para fabricar un orden.",
+        "cornejo_resolution": "La especialidad nominal documentada de Cornejo es Medicina Deportiva/Medicina del Deporte. No se encontró evidencia suficiente de un segundo título de Medicina Física y Rehabilitación ni de un programa individual de poscesárea/diástasis/suelo pélvico. CRP lo incluye en este servicio tanto en la observación actual aportada como en un plantel histórico indexado. Esto es compatible con adscripción del médico deportivo al servicio, pero no permite concluir doble especialidad ni afirmar que el portal tenga un error. No es una razón probada para preferirlo en TODO el caso."
+      },
+      "doctors": [
+        {
+          "id": "medico-007961",
+          "name": "Carlos Rodrigo Arellano Cueva",
+          "cmp": "007961",
+          "rne": "003418",
+          "verified_facts": [
+            {
+              "text": "CRP publica Médico Cirujano por Universidad Nacional San Luis Gonzaga de Ica y especialidad Medicina Física y Rehabilitación por UNMSM, además de maestría en Medicina UPCH y doctorado en Medicina UNMSM. No fecha esos estudios ni describe una formación abdominopélvica.",
+              "url": "https://www.crp.com.pe/medicos/arellano-cueva-carlos-rodrigo/",
+              "label": "Ficha individual institucional capturada previamente; no lectura web nueva",
+              "date": "Captura 2026-10-10; estudios sin fecha publicada",
+              "evidence_type": "primary_clinical_profile_prior_capture"
+            },
+            {
+              "text": "La publicación La hemiplejía en el anciano firma Carlos Arellano Cueva, sin Rodrigo ni CMP. Presenta al autor como expresidente de Sociedad Peruana de Medicina Física y Rehabilitación, profesor UNMSM/UNFV y exjefe de departamento INR. La correspondencia con CMP007961 es compatible, pero no queda cerrada por identificador. Son cargos históricos, no actuales.",
+              "url": "https://repebis.upch.edu.pe/articulos/Geronto/v5n30/a3.pdf",
+              "label": "Artículo primario histórico, abierto 14/10/2026; identidad nominal abreviada",
+              "date": "1992 según registro LIPECS; Geronto 5(30):294–300",
+              "evidence_type": "primary_publication_historical_identity_qualified"
+            },
+            {
+              "text": "El artículo trata rehabilitación funcional y reeducación de marcha en hemiplejia del anciano. Es una señal histórica de neurorehabilitación adulta; sus menciones a postura del tronco/cabeza y disfunción urinaria ocurren en ese contexto, y no documentan rehabilitación posparto ni salud pélvica de mujeres tras cesárea.",
+              "url": "https://repebis.upch.edu.pe/articulos/Geronto/v5n30/a3.pdf",
+              "label": "Alcance temático del artículo, no declaración de práctica clínica actual",
+              "date": "1992",
+              "evidence_type": "primary_publication_scope_historical_identity_qualified"
+            }
+          ],
+          "case_fit": "Encaje de fisiatría general para una primera valoración funcional por la especialidad CRP publicada. La evidencia adicional es neurogeriátrica histórica y con atribución nominal calificada; no aproxima su consulta de forma demostrada al objetivo abdominopélvico poscesárea de esta paciente.",
+          "limits": [
+            "No se localizó evidencia nominal de formación, programa o producción propia sobre diástasis/poscesárea, suelo pélvico, escoliosis adulta mecánica o análisis de marcha en adulta sin lesión neurológica.",
+            "No se toma la cantidad de títulos, un bajo número CMP, presidencia histórica de sociedad o cargo INR como prueba de mayor experiencia relevante.",
+            "No se convierte un artículo sobre control vesical tras ACV en experiencia de rehabilitación pélvica posparto.",
+            "La resolución IPD1986 nombra Carlos Arellano Cueva en una comisión de deportes para personas con discapacidad; es muy remota y abreviada, por lo que no modifica la elección2026.",
+            "No se verificó habilitación vigente ni resultados clínicos comparables."
+          ],
+          "comparative_judgment": "No ofrece ventaja documental pertinente sobre Miñano, Vassallo, Málaga, Barreda, Leyna o Sánchez para este problema. Tampoco hay evidencia para descartarlo. Empate clínico documental dentro de candidatos de fisiatría general."
+        },
+        {
+          "id": "medico-048967",
+          "name": "Karla Luz Miñano Paredes",
+          "cmp": "048967",
+          "rne": "024039",
+          "verified_facts": [
+            {
+              "text": "CRP publica medicina USMP, especialidad Medicina Física y Rehabilitación UNFV y maestría en Gerencia en Servicios de Salud UNMSM. No fecha los estudios ni publica entrenamiento específico de pared abdominal/posparto.",
+              "url": "https://www.crp.com.pe/medicos/minano-paredes-karla-luz/",
+              "label": "Ficha individual institucional capturada previamente",
+              "date": "Captura 2026-10-10; estudios sin fecha publicada",
+              "evidence_type": "primary_clinical_profile_prior_capture"
+            },
+            {
+              "text": "Un padrón HNHU de residentes2009 incluye el nombre completo como R1 de Medicina Física y Reha, UNFV. Es un antecedente formativo nominal nuevo; la apertura directa falló y se conserva el alcance del texto oficial indexado.",
+              "url": "https://www.hnhu.gob.pe/cuerpo/APOYO%20A%20LA%20DOCENCIA%20E%20INVESTIG/archivo/2009/Relacion%20de%20los%20Medicos%20Residentes%20R-1%2CR-2%2C%20R-3%20%282009%29.pdf",
+              "label": "Fuente hospitalaria primaria histórica, texto indexado; fila31",
+              "date": "2009; hallazgo 2026-10-14",
+              "evidence_type": "primary_training_register_search_index_only_new"
+            },
+            {
+              "text": "CONAREME la incluye en la relación de alumnos que cursaban último año de residencia médica: Medicina Física y Rehabilitación, UNFV; Acuerdo358-2012, fila101. No es certificado de titulación ni habilitación2026.",
+              "url": "https://www.conareme.org.pe/web/Documentos/Actas%20CN%202012/18-05-12-SE-015.pdf",
+              "label": "Acta oficial leída; encabezado pp7 y fila en p24",
+              "date": "2012-05-18",
+              "evidence_type": "primary_training_register_historical"
+            },
+            {
+              "text": "HNHU registra a Karla Miñano Paredes como residente egresada de Medicina Física/Rehabilitación y autoriza su proyecto de correlación de secuelas post-enfermedad cerebrovascular y calidad de vida. La autorización no demuestra ejecución, resultados publicados ni práctica especializada posparto.",
+              "url": "https://www.hnhu.gob.pe/CUERPO/APOYO%20A%20LA%20DOCENCIA%20E%20INVESTIG/2012/RELACI%C3%93N%20DE%20TRABAJOS%20DE%20INVESTIGACION%20%202012.pdf",
+              "label": "Registro hospitalario primario abierto; fila20, p4",
+              "date": "2012-05-25",
+              "evidence_type": "primary_research_authorization_historical"
+            },
+            {
+              "text": "El sitio del cirujano Pedro Miñán presenta a Dra.Karla Miñano como profesional de Medicina Física y Rehabilitación dentro del equipo que describe para Clínica Estética Juventus. Publica sólo ese nombre reducido, sin CMP, segundo apellido ni fechas: atribución compatible pendiente, no empleo actual confirmado. No asigna a ella un programa individual abdominal o posparto.",
+              "url": "https://cirugiaplasticaminan.com/nuestro-equipo/",
+              "label": "Fuente clínica primaria nueva, identificación incompleta y texto sin fecha",
+              "date": "Sin fecha; leído 2026-10-14",
+              "evidence_type": "primary_clinical_team_declaration_identity_qualified_new"
+            }
+          ],
+          "case_fit": "Candidata de fisiatría general con ruta formativa HNHU/UNFV corroborada en documentos de2009/2012. La investigación localizada es de secuelas de ACV/calidad de vida. Su posible integración a un equipo de cirugía plástica no permite atribuir experiencia de diástasis, cesárea ni suelo pélvico.",
+          "limits": [
+            "No se encontró entrenamiento, programa o publicación nominal específica de rehabilitación poscesárea/pared abdominal, salud pélvica, escoliosis adulta o marcha adulta mecánica.",
+            "El texto de equipo Juventus no publica su nombre completo/CMP y no especifica qué pacientes trata; no se adjudican a ella los servicios de abdominoplastia/vaginoplastia del cirujano.",
+            "Maestría de gerencia y mención editorial de auditoría no constituyen formación clínica de posparto.",
+            "Reseña de rodilla tras cirugía de menisco es un testimonio, no indicador comparativo de calidad ni especialización.",
+            "La etiqueta médico general de Doctoralia no invalida los documentos institucionales que sí publican rehabilitación; los directorios comerciales no resuelven títulos.",
+            "No se verificó habilitación vigente ni resultados comparables."
+          ],
+          "comparative_judgment": "La corroboración formativa es más concreta que un CV genérico, pero no es una ventaja de encaje clínico sobre Málaga/Barreda/Leyna/Sánchez ni sobre Arellano/Vassallo en este caso. No hay base para preferirla por ser mujer o por la posible relación con cirugía plástica. Empate documental pertinente."
+        },
+        {
+          "id": "medico-067631",
+          "name": "Pedro Julio Vassallo Mesones",
+          "cmp": "067631",
+          "rne": "043635",
+          "verified_facts": [
+            {
+              "text": "CRP publica pregrado de Médico Cirujano por Universidad Ricardo Palma y especialidad Medicina Física y Rehabilitación UNMSM. No describe entrenamiento abdominopélvico, posparto ni análisis de marcha adulta individual.",
+              "url": "https://www.crp.com.pe/medicos/vassallo-mesones-pedro-julio/",
+              "label": "Ficha individual institucional capturada previamente",
+              "date": "Captura 2026-10-10; estudios sin fecha publicada",
+              "evidence_type": "primary_clinical_profile_prior_capture"
+            },
+            {
+              "text": "Anexo de RA663-2020-HNAL/OP del Hospital Loayza lo enumera como residente de tercer año de Medicina Física y Rehabilitación, UNMSM; programa consignado01/07/2018–30/06/2021. El fin programado no constituye constancia de culminación. Fuente oficial indexada, sin nueva apertura útil.",
+              "url": "https://www2.hospitalloayza.gob.pe/pte/files/TRAS_9080351982e5dd2_.pdf",
+              "label": "Registro hospitalario oficial histórico, fila161; texto indexado",
+              "date": "2020; programa consignado2018–2021",
+              "evidence_type": "primary_training_register_search_index_only"
+            },
+            {
+              "text": "CONAREME2018 relaciona el nombre completo con CMP67631 y postulación a Medicina Física y Rehabilitación UNMSM. El padrón CMP2023 vuelve a asociar CMP067631 con el nombre. Son corroboraciones de identidad/hito formativo, no certificados de habilitación vigente.",
+              "url": "https://www.conareme.org.pe/web/Documentos/Admision2018/Resultados%20finales%202018.pdf",
+              "label": "Registro oficial histórico de residentado; identidad concordante",
+              "date": "2018",
+              "evidence_type": "primary_identity_training_register_historical"
+            },
+            {
+              "text": "Prezi presenta material firmado MR3 Pedro Vassallo Mesones sobre psicomotricidad, esquema corporal y organización temporoespacial, con contenido infantil. Es exposición autopublicada durante el residentado y no una publicación clínica revisada por pares o un programa adulto.",
+              "url": "https://prezi.com/p/mayoztnxbs8a/psicomotricidad-org-te-int-sens-ja/",
+              "label": "Material académico autopublicado; atribución por nombre/contexto, sin CMP",
+              "date": "Actualizado2021-03-16",
+              "evidence_type": "self_published_academic_material"
+            }
+          ],
+          "case_fit": "Candidato de fisiatría general con residencia de rehabilitación institucionalmente identificable. El material pediátrico hallado no responde al problema adulto poscesárea, pero tampoco limita por sí mismo su práctica a niños. No se halló una ventaja específica publicada para pared abdominal, postura mecánica o marcha adulta.",
+          "limits": [
+            "No se localizaron formación adicional, programa ni publicaciones propias verificadas en diástasis/poscesárea, salud pélvica, escoliosis adulta o marcha adulta mecánica.",
+            "TheOrg lo lista como médico rehabilitador ARIE, pero carece de fechas/biografía/CMP; no se corroboró ese vínculo con fuente ARIE y no se usa para afirmar empleo actual ni exclusividad pediátrica.",
+            "LinkedIn2018–2021 y Telesalud2020 son autodeclaraciones; artículos que recomienda no son suyos.",
+            "Una postulación apta a Traumatología2016 no acredita ingreso, título ni práctica ortopédica.",
+            "No se usa la fecha más reciente de residencia como ventaja o desventaja clínica respecto de otros candidatos.",
+            "No se verificó habilitación vigente ni resultados comparables."
+          ],
+          "comparative_judgment": "Empate documental pertinente con Arellano/Miñano y sin ventaja individual demostrada sobre Málaga/Barreda/Leyna/Sánchez. La exposición pediátrica no autoriza descartarlo para adulta."
+        },
+        {
+          "id": "medico-037578",
+          "name": "Augusto César Cornejo Toledo",
+          "cmp": "037578",
+          "rne": "017470",
+          "verified_facts": [
+            {
+              "text": "CRP publica Médico Cirujano por Universidad Nacional San Luis Gonzaga de Ica y especialidad Medicina Deportiva por Universidad de La Habana–Cuba. La ficha capturada no publica un segundo título de Medicina Física y Rehabilitación.",
+              "url": "https://www.crp.com.pe/medicos/cornejo-toledo-augusto-cesar/",
+              "label": "Ficha individual institucional capturada previamente; especialidad declarada por clínica",
+              "date": "Captura2026-10-10; estudios sin fecha publicada",
+              "evidence_type": "primary_clinical_profile_prior_capture"
+            },
+            {
+              "text": "Un plantel CRP indexado incluye Cornejo Toledo, Augusto bajo Medicina Física y Rehabilitación. El archivo está alojado en ruta2019/01, pero el texto indexado no permite fijar su fecha editorial; la apertura directa14/10/2026 devolvió403. Demuestra clasificación institucional repetida en otro documento, no doble titulación.",
+              "url": "https://www.crp.com.pe/wp-content/uploads/2019/01/Plantel-m%C3%A9dico-Cl%C3%ADnicaRicardoPalma.pdf",
+              "label": "Plantel institucional primario, sólo texto indexado; fecha editorial no confirmada",
+              "date": "Sin fecha editorial confirmada; URL2019/01; hallazgo2026-10-14",
+              "evidence_type": "primary_service_roster_search_index_only_new"
+            },
+            {
+              "text": "COP lo identifica como presidente de su Comisión Médica y autoridad médica ODEPA para Toronto2015; describe participación en simposio AMA en Lausana y congreso de Medicina Deportiva en Ontario. Actividad de aseguramiento médico/deporte y antidopaje histórica, no cargo2026 ni entrenamiento posparto.",
+              "url": "https://coperu.org/noticias/actualidad/peruano-es-autoridad-medica-de-la-odepa-para-juegos-panamericanos-toronto-2015.html",
+              "label": "Fuente institucional deportiva primaria abierta14/10/2026",
+              "date": "Actividad2015; la página no muestra día editorial en texto leído",
+              "evidence_type": "primary_professional_role_historical_new"
+            },
+            {
+              "text": "COP lo identifica como expositor e integrante de su equipo multidisciplinario en el Seminario de Medicina Deportiva del Programa de Actualización y Capacitación Deportiva2015. La nota destaca dopaje/control médico, no una consulta individual de rehabilitación poscesárea.",
+              "url": "https://coperu.org/noticias/actualidad/aop-inicio-seminario-de-medicina-deportiva.html",
+              "label": "Fuente institucional deportiva primaria indexada; ya conocida y corroborada por búsqueda",
+              "date": "2015",
+              "evidence_type": "primary_teaching_event_historical_search_index"
+            },
+            {
+              "text": "La nota oficial IPD sobre foro Deporte Adaptado y Medicina Deportiva lo enumera con nombre completo como representante de Comisión Médica Antidopaje. No se presenta como fisiatra ni se describe un programa abdominopélvico. Apertura directa falló; se conserva como dato oficial indexado.",
+              "url": "https://www.gob.pe/institucion/ipd/noticias/198827-ipd-realizo-tercer-foro-del-proyecto-de-la-politica-nacional-del-deporte-deporte-adaptado-y-medicina-deportiva-en-universidad-peruana-de-ciencias-aplicadas-upc",
+              "label": "Fuente estatal primaria indexada, apertura418; nuevo hallazgo",
+              "date": "Actividad2016 según contexto de búsqueda; día exacto no confirmado en página abierta",
+              "evidence_type": "primary_professional_event_historical_search_index_only_new"
+            }
+          ],
+          "case_fit": "La Medicina del Deporte puede guardar relación con planificación de ejercicio y retorno a actividad, incluida natación; ésta es una inferencia de encaje general, no prueba de un programa individual suyo para esta paciente. Lo nominalmente documentado apunta a Medicina del Deporte/aseguramiento médico/antidopaje. No se verificó experiencia poscesárea/pélvica o marcha/postura adulta mecánica que haga preferible su primera consulta para todo el problema.",
+          "limits": [
+            "No se encontró RNE adicional, título universitario ni CV primario que acredite doble especialidad en Medicina Física y Rehabilitación.",
+            "Tampoco se probó que la clasificación CRP sea un error: puede expresar adscripción al servicio. La discrepancia título/servicio queda resuelta hasta el límite de la evidencia, no como diagnóstico de error del portal.",
+            "No se localizó programa nominal actual de diástasis, pared abdominal poscesárea, salud pélvica, escoliosis adulta o análisis de marcha adulta.",
+            "El convenio2020 Fisioestética Olpa/ADFP aparece en prensa secundaria y menciona equipos de varias especialidades; ser gerente no convierte todas esas especialidades en títulos personales ni prueba continuidad2026.",
+            "Se hallaron referencias a libro2014 sobre ecografía en lesiones de tenistas cubanos y copia de artículo2012 sobre natación en altitud; no se pudo contrastar contenido con editor/repositorio primario suficiente. Se documentan como pistas no usadas para elegir. Lesión de recto abdominal en tenista no equivale diástasis posparto.",
+            "No se verificó habilitación vigente ni resultados comparables; los cargos deportivos2015/2016 no se presentan como actuales."
+          ],
+          "comparative_judgment": "No es fisiatra confirmado por la evidencia disponible. Puede ser un médico deportivo adscrito al servicio, pero no hay programa pertinente individual probado. No lo priorizaría sobre un fisiatra general confirmado sólo porque la paciente quiera volver a nadar. Es una preferencia de ruta documental para el objetivo global, no una afirmación de menor competencia clínica personal."
+        }
+      ],
+      "comparison_with_other_group": {
+        "relevant_documentary_advantage": false,
+        "statement": "Ninguno de Arellano/Miñano/Vassallo tiene evidencia nominal pública que supere de forma pertinente a Málaga/Barreda/Leyna/Sánchez para ESTA combinación poscesárea/pared abdominal/postura/marcha adulta. Málaga tiene validación adulta de osteoartritis2018 y Barreda prótesis2018; son señales de actividad musculoesquelética/adulta o miembro inferior, pero no títulos posparto. Leyna tiene docencia reciente general; Sánchez CV general. No se transforma mayor visibilidad en superioridad clínica.",
+        "practical_selection_rule": "Si se necesita una primera consulta dentro de CRP, la elección defendible es la ruta de fisiatría general con alcance explícito de evaluación abdominal poscesárea, tronco/columna y marcha. Un nombre sólo se podría preferir si se confirma que realiza esa evaluación o coordina el tratamiento abdominopélvico, que es el dato ausente."
+      },
+      "what_is_missing": [
+        "Evidencia nominal verificable de atención adulta poscesárea/diástasis y salud pélvica: volumen o foco clínico, entrenamiento específico, protocolo o consulta individual.",
+        "Confirmación de que la primera consulta comprende examen de pared abdominal y función del tronco, columna/postura y medición clínica de marcha/longitud de miembros si corresponde, y deja un plan progresivo para actividades reales/retorno a natación.",
+        "Cómo se coordina rehabilitación pélvica si el examen lo indica; el informe de la terapia interna previa sería útil, pero no es prueba de que ya exista un diagnóstico específico.",
+        "Para Cornejo: nombre exacto de su(s) especialidad(es)/RNE y alcance real de la consulta que se reserva bajo el servicio de rehabilitación.",
+        "No hay resultados clínicos comparables entre médicos ni examen individual de la paciente; por ello no puede demostrarse superioridad clínica personal."
+      ],
+      "additional_leads_not_used_for_selection": [
+        {
+          "doctor": "Augusto César Cornejo Toledo",
+          "url": "https://www.uptc.edu.co/export/sites/default/admon_grupo_bienes/contratacion/2015/otras_invit/cto104.pdf",
+          "note": "Contrato bibliográfico universitario indexado lista libro de lesiones deportivas en tenistas cubanos, ISBN9783848469598,2014, pero atribución de autores está desordenada. Es registro de compra, no lectura del estudio ni validación clínica. Apertura502."
+        },
+        {
+          "doctor": "Augusto César Cornejo Toledo",
+          "url": "https://www.abebooks.co.uk/lesiones-deportivas-tenistas-cubanos-Diagn%C3%B3stico-ecogr%C3%A1fico/30729237918/bd",
+          "note": "Catálogo comercial atribuye libro a nombre completo y Tyrone A.Flores Pavon, con sinopsis de lesiones de tenistas y biografía deportiva. Fuente secundaria comercial no usada para demostrar entrenamiento abdominopélvico."
+        },
+        {
+          "doctor": "Pedro Julio Vassallo Mesones",
+          "url": "https://theorg.com/org/instituto-para-el-desarrollo-infantil-arie/person/pedro-julio-vassallo-mesones",
+          "note": "Directorio secundario, sin biografía/fechas/CMP; no confirma empleo actual ni exclusividad pediátrica."
+        },
+        {
+          "doctor": "Karla Luz Miñano Paredes",
+          "url": "https://www.crp.com.pe/wp-content/uploads/2020/07/Telemedicina-crp.pdf",
+          "note": "Lista CRP indexada de médicos para telemedicina incluye Miñano Paredes,Karla en Medicina Física. Apertura403; sólo señal histórica de adscripción, no afinidad posparto ni habilitación CMP actual."
+        }
+      ]
+    }
+  ],
+  "trauma_research": {
+    "date": "2026-10-14",
+    "language": "es",
+    "scope": "Auditoría documental independiente de elección de traumatólogo CRP para Kate; sin agenda como criterio, sin contacto ni uso de sesión de navegador",
+    "case": {
+      "age": 35,
+      "sex": "mujer",
+      "cesarean": "2026-06-25",
+      "postpartum_days": 111,
+      "symptoms": [
+        "debilidad abdominal percibida y encorvamiento",
+        "cabeza adelantada y prominencia leve bajo nuca sin dolor cervical",
+        "molestia leve de espalda al cargar bebé",
+        "escoliosis antigua referida sin estudios actuales",
+        "sospecha de alteración de pies/piernas/marcha no medida"
+      ],
+      "diagnoses_not_established": [
+        "diástasis",
+        "cifosis estructural",
+        "escoliosis actual/grado de Cobb",
+        "dismetría",
+        "causa de prominencia cervicodorsal"
+      ]
+    },
+    "criteria": [
+      "Correspondencia con exploración conservadora de adulta y alineación global/cervical/espinopélvica",
+      "Práctica/foco columna individual publicado, no menú global de clínica",
+      "Formación nominal: sede, categoría, fechas y límites; curso/rotación/fellowship diferenciados",
+      "Actividad académica específica de diagnóstico/postura o deformidad adulta",
+      "Resultados propios comparables si existen; sin sustitutos de reputación"
+    ],
+    "decision": {
+      "recommended": "Luis Roberto Neira Granados",
+      "alternative": "Ramiro Cieza Ojeda",
+      "confidence": "Moderada para encaje documental; no comparación validada de calidad clínica",
+      "reason": "Para Kate priorizo una evaluación de alineación global y postura cervical con hipótesis estructural aún sin confirmar. La docencia nominal de Neira en exploración cervical/toracolumbar/sacroilíaca, cifosis postural y parámetros espinopélvicos es más específica para esta necesidad que moderar complicaciones quirúrgicas adultas o anunciar todas las edades. Su participación AO en Cajuru y su actividad en degeneración/deformidad adulta respaldan una trayectoria focal; no demuestran mayor eficacia.",
+      "evidence_refs": [
+        "N02",
+        "N06",
+        "N07",
+        "N08",
+        "N09"
+      ],
+      "alternative_reason": "Cieza ofrece atención explícita de escoliosis adulta y tiene moderación de un bloque adulto y formación AO corta en Madrid. Es una alternativa razonable si se busca confirmar la escoliosis antigua o se identifica deformidad estructural adulta. No está demostrado que sea inferior.",
+      "alternative_evidence_refs": [
+        "C01",
+        "C03",
+        "C06",
+        "C08"
+      ],
+      "not_claimed": [
+        "Mejor calidad, seguridad o habilidad quirúrgica",
+        "Top 20% u otro percentil",
+        "Superioridad por reseñas, cargos, antigüedad o prestigio del hospital",
+        "Especialización posparto o marcha no documentada",
+        "Indicación de cirugía, plantillas, alzas o laboratorio de marcha para Kate"
+      ],
+      "route_note": "Esta decisión escoge traumatólogo entre los 60 del portal. Por el componente abdominal/funcional posparto, la consulta médica de rehabilitación y eventual evaluación de salud pélvica pueden ser complementarias o la entrada funcional inicial. No convierto la prominencia bajo nuca ni la sospecha de pies/piernas en diagnóstico."
+    },
+    "doctors": [
+      {
+        "name": "Luis Roberto Neira Granados",
+        "cmp": "057129",
+        "rne": "037754",
+        "identity_note": "CRP usa Luis Alberto; IPOT, AO, INSN y portal usan Luis Roberto. CMP 57129 vincula las fichas CRP/IPOT, pero la discrepancia nominal se conserva. RNE 37754 figura en programa INSN 2019, que imprime CMP 056129: posible errata, no se sustituye silenciosamente.",
+        "facts": [
+          {
+            "id": "N01",
+            "text": "CRP publica Medicina UPLA-Huancayo, especialidad USMP y adiestramiento de cirugía de columna en Hospital Puerta de Hierro (Guadalajara). Sin fechas, duración, modalidad ni sede/campus exacto: no se puede llamarlo fellowship formal ni confundirlo con Puerta de Hierro de Madrid.",
+            "source_id": "n_crp",
+            "url": "https://www.crp.com.pe/medicos/neira-granados-luis-alberto/",
+            "label": "CRP: ficha de Luis Alberto Neira Granados",
+            "date": null,
+            "accessed_date": "2026-10-14",
+            "evidence_type": "CV institucional publicado",
+            "verification": "prior_primary_snapshot",
+            "limit": "CV institucional previo; no diploma del centro receptor recuperado."
+          },
+          {
+            "id": "N02",
+            "text": "IPOT lo identifica como Luis Roberto, CMP 57129, cirugía de columna y trauma-fracturas; campo RNE vacío.",
+            "source_id": "n_ipot",
+            "url": "https://ipot-crp.pe/staff/medico/neira_granados_luis_roberto",
+            "label": "IPOT-CRP: Luis Roberto Neira Granados",
+            "date": null,
+            "accessed_date": "2026-10-14",
+            "evidence_type": "Ficha individual institucional",
+            "verification": "verified_primary",
+            "limit": "Oferta institucional sin volúmenes ni resultados."
+          },
+          {
+            "id": "N03",
+            "text": "La lista AO de seleccionados para 2019 lo asigna a Hospital Universitário Cajuru bajo Long-term 6–12 months, sin fechas. La selección sola no prueba culminación.",
+            "source_id": "n_aoselect2018",
+            "url": "https://aosla.com.br/report2018/wp-content/uploads/2019/01/FELLOWS-Aproved2019.pdf",
+            "label": "AO Spine: seleccionados para 2019, p.1",
+            "date": "2019",
+            "accessed_date": "2026-10-14",
+            "evidence_type": "Lista de selección, no certificado de culminación",
+            "verification": "verified_primary",
+            "limit": null
+          },
+          {
+            "id": "N04",
+            "text": "AO participantes 2019 registra Hospital Universitário Cajuru, Long-term 6 months, 04/03/2019–31/05/2019 y Brazil bajo el nombre. Las fechas equivalen aproximadamente a tres meses, no seis.",
+            "source_id": "n_aop2019",
+            "url": "https://aosla.com.br/report2019/wp-content/uploads/2020/02/FELLOWS-Participants-2019.pdf",
+            "label": "AO Spine: participantes del fellowship 2019, p.4",
+            "date": "2019-03-04/2019-05-31",
+            "accessed_date": "2026-10-14",
+            "evidence_type": "Registro primario del organizador del programa",
+            "verification": "verified_primary",
+            "limit": "Contradicción interna de duración y nacionalidad; no afirmar seis meses completados."
+          },
+          {
+            "id": "N05",
+            "text": "El historial AO con encabezado 2021 lo registra como Peru, Short-Term, Mar-19–Aug-19, en Cajuru, Curitiba, Brasil.",
+            "source_id": "n_aohist2021",
+            "url": "https://aosla.com.br/report2020/wp-content/uploads/2021/02/Fellowship-History-2020.pdf",
+            "label": "AO Spine: Fellowship History, encabezado Annual Report 2021, p.3",
+            "date": "2019-03/2019-08",
+            "accessed_date": "2026-10-14",
+            "evidence_type": "Historial primario del organizador",
+            "verification": "verified_primary",
+            "limit": "Historial distinto de participantes 2019; ruta dice report2020 y encabezado 2021."
+          },
+          {
+            "id": "N06",
+            "text": "AO Annual Report 2022 repite Peru, Short-Term, Mar-19–Aug-19 en Hospital Universitário Cajuru, Curitiba, bajo dirección de Emiliano Vialle. Fila comprobada visualmente, p.3.",
+            "source_id": "ao_hist2022",
+            "url": "https://www.aolatam.org/report2022/wp-content/uploads/2023/07/AOSpine-LatAm-Fellowship-History.pdf",
+            "label": "AO Spine: Fellowship History, Annual Report 2022, pp.3 y 9",
+            "date": "2019-03/2019-08",
+            "accessed_date": "2026-10-14",
+            "evidence_type": "Historial primario del organizador; filas comprobadas visualmente",
+            "verification": "verified_primary",
+            "limit": "Dos historiales coinciden; no resuelven diploma, duración exacta completada ni categoría discrepante de 2019."
+          },
+          {
+            "id": "N07",
+            "text": "SPOT 2021 lo programa para examen cervical/toracolumbar/sacroilíaco (02/04), balance sagital cervical/toracolumbar y parámetros espinopélvicos (06/08), y cifosis postural/Scheuermann (22/10).",
+            "source_id": "spot2021",
+            "url": "https://spotrauma.org/?q=node/460",
+            "label": "SPOT: programa calendarizado del Capítulo de Columna 2021",
+            "date": "2021",
+            "accessed_date": "2026-10-14",
+            "evidence_type": "Programa científico primario; prueba de programación académica",
+            "verification": "verified_primary",
+            "limit": "Temas cercanos al problema de Kate; programación docente, no resultados ni certificación de práctica conservadora adulta."
+          },
+          {
+            "id": "N08",
+            "text": "Moderador de columna, degeneración lumbar y deformidades que incluye escoliosis degenerativa. Balance espinopélvico y escoliosis degenerativa fueron ponencias de otros.",
+            "source_id": "spot2024",
+            "url": "https://spotrauma.org/sites/default/files/Programa%2054%20Congreso%20SPOT%202024.pdf",
+            "label": "SPOT: programa del 54 Congreso, pp.64–65 físicas",
+            "date": "2024-09-21",
+            "accessed_date": "2026-10-14",
+            "evidence_type": "Programa científico primario; filas verificadas visualmente",
+            "verification": "verified_primary",
+            "limit": "Actividad académica, no resultados propios."
+          },
+          {
+            "id": "N09",
+            "text": "AO reporta actividad de columna degenerativa en CRP, 21/10/2022: Neira y Carlos Cárdenas chairpersons; Cieza y Luis Núñez national faculty.",
+            "source_id": "ao_event2022",
+            "url": "https://www.aolatam.org/report2022/aospine/",
+            "label": "AO Spine: Annual Report 2022, actividad CRP del 21 de octubre",
+            "date": "2022-10-21",
+            "accessed_date": "2026-10-14",
+            "evidence_type": "Informe primario del organizador; actividad docente",
+            "verification": "verified_primary",
+            "limit": "Curso/seminario docente, no fellowship ni resultados clínicos."
+          },
+          {
+            "id": "N10",
+            "text": "Coautor nominal de GPC INSN-SB de Escoliosis Idiopática del Adolescente, V.02 enero 2023, p.19, con Núñez, Torres y Urquizo.",
+            "source_id": "n_gpc2023",
+            "url": "https://portal.insnsb.gob.pe/docs-trans/resoluciones/archivopdf.php?pdf=2023%2FTRAUMA+-+1+-+GPC+ESCOLIOSIS+-+V2.pdf",
+            "label": "INSN-SB: Guía de Escoliosis Idiopática del Adolescente V.02, enero 2023, p.19",
+            "date": "2023-01",
+            "accessed_date": "2026-10-14",
+            "evidence_type": "Guía institucional primaria con lista nominal de autores",
+            "verification": "verified_primary",
+            "limit": "Ámbito infantojuvenil y pacientes menores de 25 años con casos severos quirúrgicos; no se aplica a Kate de 35 ni acredita atención posparto."
+          },
+          {
+            "id": "N11",
+            "text": "RA 000086-2026, 20/02/2026, lo identifica médico especialista en Traumatología del INSN-SB y autoriza licencia sin goce del 1–31/03/2026.",
+            "source_id": "n_rd2026",
+            "url": "https://portal.insnsb.gob.pe/docs-trans/resoluciones/index-RA2024.php",
+            "label": "INSN-SB: índice oficial de resoluciones administrativas, RA 000086-2026",
+            "date": "2026-02-20",
+            "accessed_date": "2026-10-14",
+            "evidence_type": "Resolución administrativa oficial; adscripción en la fecha del acto",
+            "verification": "verified_primary",
+            "limit": "Vínculo documentado en 2026; no asegurar puesto asistencial activo en octubre por esa resolución."
+          },
+          {
+            "id": "N12",
+            "text": "El informe previo leyó título de segunda especialidad Ortopedia/Traumatología en acta USMP de sesión 25/04/2019. Archivo se llama 17 abril; OCR actual impide reiterar lectura nominal.",
+            "source_id": "n_usmp2019",
+            "url": "https://usmp.edu.pe/pdf/2019/cu_17_de_abril_de_2019_sesion_extraordinaria.pdf?page=1",
+            "label": "USMP: Consejo Universitario extraordinario, texto interno 25/04/2019",
+            "date": "2019-04-25",
+            "accessed_date": "2026-10-14",
+            "evidence_type": "Acta universitaria primaria",
+            "verification": "prior_primary_snapshot",
+            "limit": "No fija la cronología de residencia ni prueba maestría."
+          },
+          {
+            "id": "N13",
+            "text": "ALICIA atribuye a Luis Roberto Neira Granados el trabajo USMP 2019 sobre antropometría tomográfica de pedículos lumbares en Almenara 2018.",
+            "source_id": "n_thesis",
+            "url": "https://alicia.concytec.gob.pe/vufind/Record/USMP_9377b046fef3c7b4ac21c3e1f5b65ffa",
+            "label": "ALICIA/USMP: registro bibliográfico de antropometría lumbar",
+            "date": "2019",
+            "accessed_date": "2026-10-14",
+            "evidence_type": "Metadatos de repositorio académico",
+            "verification": "verified_primary",
+            "limit": "No es serie de resultados de deformidad adulta; no se afirma maestría por etiqueta de catálogo sin portada."
+          }
+        ],
+        "relevance": "Primera elección documental para la consulta de columna de Kate, por la combinación más específica de exploración cervical, cifosis postural y equilibrio espinopélvico, con formación AO nominal y actividad degenerativa/deformidad adulta.",
+        "limits": [
+          "No se hallaron resultados comparables, tasas de complicaciones, volumen personal de deformidad adulta ni resultados conservadores publicados.",
+          "No está documentada formación en salud pélvica/posparto, diástasis, laboratorio de marcha o medición de dismetría adulta.",
+          "Puerta de Hierro y las discrepancias de duración AO permanecen sin resolver. No se verificó habilitación CMP actual."
+        ]
+      },
+      {
+        "name": "Ramiro Cieza Ojeda",
+        "cmp": "055819",
+        "rne": "041604",
+        "identity_note": "CMP/RNE concordantes en ficha IPOT y directorio CRP previo; habilitación actual no verificada.",
+        "facts": [
+          {
+            "id": "C01",
+            "text": "IPOT publica Medicina UNT, especialidad URP, CMP 55819/RNE 41604 y cirugía de columna/trauma.",
+            "source_id": "c_ipot",
+            "url": "https://ipot-crp.pe/staff/medico/Ramiro_Cieza_Ojeda",
+            "label": "IPOT-CRP: Ramiro Cieza Ojeda",
+            "date": null,
+            "accessed_date": "2026-10-14",
+            "evidence_type": "Ficha individual institucional",
+            "verification": "verified_primary",
+            "limit": "Sin fechas de formación ni resultados."
+          },
+          {
+            "id": "C02",
+            "text": "Consejo de Facultad URP, sesión virtual 21/01/2021, p.3: aprueba título especialista Ortopedia/Traumatología, resolución 059-2021-FMH.",
+            "source_id": "c_urp",
+            "url": "https://www.urp.edu.pe/pdf/id/28684/n/sesion-virtual-21-de-enero-de-2021",
+            "label": "URP: Consejo de Facultad virtual del 21/01/2021, p.3",
+            "date": "2021-01-21",
+            "accessed_date": "2026-10-14",
+            "evidence_type": "Acta universitaria primaria",
+            "verification": "verified_primary",
+            "limit": "Es Consejo de Facultad, no Consejo Universitario; no fecha de inicio/fin de residencia."
+          },
+          {
+            "id": "C03",
+            "text": "AO 2022, p.9: Ramiro Cieza / Peru / Madrid, ES / Short-Term / Jun-22–July-22.",
+            "source_id": "ao_hist2022",
+            "url": "https://www.aolatam.org/report2022/wp-content/uploads/2023/07/AOSpine-LatAm-Fellowship-History.pdf",
+            "label": "AO Spine: Fellowship History, Annual Report 2022, pp.3 y 9",
+            "date": "2022-06/2022-07",
+            "accessed_date": "2026-10-14",
+            "evidence_type": "Historial primario del organizador; filas comprobadas visualmente",
+            "verification": "verified_primary",
+            "limit": "Nombre abreviado coherente con CV. La fila no identifica hospital, grado universitario ni tipo de exposición clínica."
+          },
+          {
+            "id": "C04",
+            "text": "Instituto Clavel anuncia bienvenida en agosto a su rotación clínica; confirma formación parcial en Unidad de Patología Vertebral Rebagliati y trabajo entonces en cirugía pediátrica INSN.",
+            "source_id": "c_clavel",
+            "url": "https://es.linkedin.com/posts/institutoclavel_en-agosto-damos-la-bienvenida-a-nuestro-programa-activity-6962679427176493056-crVS",
+            "label": "Instituto Clavel: bienvenida a Ramiro Cieza a rotación clínica",
+            "date": null,
+            "accessed_date": "2026-10-14",
+            "evidence_type": "Publicación del propio centro receptor",
+            "verification": "verified_primary",
+            "limit": "No fija duración, día/año en texto visible ni sede hospitalaria. No llamar residencia completa o fellowship prolongado."
+          },
+          {
+            "id": "C05",
+            "text": "Versión anterior de su web declara estancia formativa en INR Luis Guillermo Ibarra Ibarra, Ciudad de México, y estancias España 2022 en Hospital Universitario La Paz-Madrid y Hospital Quirón Salud-Barcelona.",
+            "source_id": "c_oldsite",
+            "url": "https://www.drciezatraumatologia.com/sobre-mi/",
+            "label": "Cieza: versión anterior de Sobre mí",
+            "date": "2022 (España; México sin fecha)",
+            "accessed_date": "2026-10-14",
+            "evidence_type": "Autodeclaración profesional",
+            "verification": "verified_primary",
+            "limit": "Autodeclaración indexada; no transferir automáticamente Hospital La Paz a la fila AO Madrid ni Quirón al anuncio Clavel."
+          },
+          {
+            "id": "C06",
+            "text": "Su página profesional declara atención de escoliosis de todas las edades, incluidos adultos.",
+            "source_id": "c_site",
+            "url": "https://drciezatraumatologia.com/index.php",
+            "label": "Cieza: página profesional index.php",
+            "date": null,
+            "accessed_date": "2026-10-14",
+            "evidence_type": "Autodeclaración profesional",
+            "verification": "verified_primary",
+            "limit": "Ámbito asistencial autodeclarado, no experiencia cuantificada o calidad demostrada."
+          },
+          {
+            "id": "C07",
+            "text": "Sitio del III SILACO-ASPECIVE anuncia 26–27/01/2024, Delfines Hotel, San Isidro, y a Cieza en comité organizador local.",
+            "source_id": "c_silacohome",
+            "url": "https://cursosilaco.aspecive.com/",
+            "label": "SILACO-ASPECIVE: sitio del III Curso Internacional",
+            "date": "2024-01-26/2024-01-27",
+            "accessed_date": "2026-10-14",
+            "evidence_type": "Anuncio primario del organizador",
+            "verification": "verified_primary",
+            "limit": "Curso, no credencial de fellowship."
+          },
+          {
+            "id": "C08",
+            "text": "Programa SILACO: Cieza co-moderador de complicaciones de escoliosis adulta. El caso adulto de 12:30 es Alfredo Vásquez; Cieza presenta caso idiopático a 16:00 en bloque paciente en desarrollo.",
+            "source_id": "c_silacoprog",
+            "url": "https://cursosilaco.aspecive.com/wp-content/uploads/27ene24-12ene24.pdf",
+            "label": "SILACO-ASPECIVE: programa del segundo día",
+            "date": "2024-01-27",
+            "accessed_date": "2026-10-14",
+            "evidence_type": "Programa científico primario indexado",
+            "verification": "verified_primary",
+            "limit": "PDF imprime sábado 27 enero 2023, incompatible con anuncio 2024; se conserva la errata. No atribuir caso adulto a Cieza."
+          },
+          {
+            "id": "C09",
+            "text": "SCCOT aloja caso de acondroplasia con cifosis/estenosis, coautor Cieza junto a Espinoza; afiliación Unidad de Columna, Hospital del Niño Breña.",
+            "source_id": "c_sccot",
+            "url": "https://sccot.org/wp-content/uploads/2026/02/EP-34.pdf",
+            "label": "SCCOT: reporte de caso de cifosis/estenosis en acondroplasia",
+            "date": "Fecha de congreso no visible; ruta de carga 2026/02",
+            "accessed_date": "2026-10-14",
+            "evidence_type": "Presentación de caso clínico; no artículo arbitrado verificado",
+            "verification": "verified_primary",
+            "limit": "Presentación de un caso, sin edad claramente publicada, sin serie comparable ni artículo arbitrado/DOI verificado."
+          },
+          {
+            "id": "C10",
+            "text": "INSN contrataciones noviembre 2023 lo identifica proveedor de servicios de traumatología para periodos de 2023.",
+            "source_id": "c_insn",
+            "url": "https://www.insn.gob.pe/sites/default/files/transparencia/contrataciones/BIENES%20Y%20SERVICIOS%20NOV-2023.pdf",
+            "label": "INSN: contrataciones noviembre 2023",
+            "date": "2023",
+            "accessed_date": "2026-10-14",
+            "evidence_type": "Documento administrativo institucional",
+            "verification": "verified_primary",
+            "limit": "No garantiza continuidad del contrato en octubre 2026."
+          },
+          {
+            "id": "C11",
+            "text": "ASPECIVE lo lista miembro titular para elecciones 2024.",
+            "source_id": "aspecive2024",
+            "url": "https://aspecive.com/wp-content/uploads/LISTA-DE-MIEMBROS-HABILES-WEB.pdf",
+            "label": "ASPECIVE: lista de miembros hábiles para elecciones 2024",
+            "date": "2024",
+            "accessed_date": "2026-10-14",
+            "evidence_type": "Padrón societario histórico, no habilitación CMP",
+            "verification": "verified_primary",
+            "limit": "Pertenencia societaria histórica, no habilitación CMP ni resultado clínico."
+          }
+        ],
+        "relevance": "Alternativa fuerte para comprobar escoliosis estructural adulta: oferta explícita de adultos, moderación en escoliosis adulta y estancia AO corta documentada. La evidencia de atención posparto, postura cervical y evaluación funcional conservadora es menos específica que la de Neira.",
+        "limits": [
+          "Se corrige la afirmación previa de ausencia de fellowship verificable: existe participación en programa AO Short-Term; no título universitario o fellowship largo confirmado.",
+          "La mayor parte del vínculo hospitalario y caso presentado es pediátrica; no extrapolar resultados a Kate.",
+          "No se hallaron resultados comparables de adultos, experiencia posparto o laboratorio de marcha/dismetría."
+        ]
+      },
+      {
+        "name": "Eytyl Alfredo Jiménez Guevara",
+        "cmp": "038407",
+        "rne": "013909",
+        "identity_note": "IPOT y Clínica La Luz publican CMP/RNE concordantes. No habilitación actual verificada.",
+        "facts": [
+          {
+            "id": "J01",
+            "text": "IPOT publica cirugía de columna, CMP 038407/RNE 013909; estudios vacíos. La Luz corrobora especialidad traumatología y números.",
+            "source_id": "j_ipot",
+            "url": "https://ipot-crp.pe/staff/medico/eytyl_jimenez_guevara",
+            "label": "IPOT-CRP: Eytyl Jiménez Guevara",
+            "date": null,
+            "accessed_date": "2026-10-14",
+            "evidence_type": "Ficha individual institucional",
+            "verification": "verified_primary",
+            "limit": "La ficha no detalla formación focal o casuística."
+          },
+          {
+            "id": "J02",
+            "text": "CRP publica Medicina Universidad Mayor de San Andrés y especialidad Ministerio de Salud y Acción Social.",
+            "source_id": "j_crp",
+            "url": "https://www.crp.com.pe/medicos/jimenez-guevara-eytyl-alfredo/",
+            "label": "CRP: Eytyl Alfredo Jiménez Guevara",
+            "date": null,
+            "accessed_date": "2026-10-14",
+            "evidence_type": "CV institucional publicado",
+            "verification": "prior_primary_snapshot",
+            "limit": "No universidad/sede hospitalaria, país, fechas y duración de residencia verificadas; no rellenar esos vacíos por inferencia."
+          },
+          {
+            "id": "J03",
+            "text": "ASPECIVE IV Congreso lo programa para manejo quirúrgico de EIA.",
+            "source_id": "j_aspecive2021",
+            "url": "https://aspecive.com/ivcongreso-programa/",
+            "label": "ASPECIVE: programa IV Congreso",
+            "date": "2021",
+            "accessed_date": "2026-10-14",
+            "evidence_type": "Programa científico primario",
+            "verification": "verified_primary",
+            "limit": "Escoliosis adolescente, no experiencia adulta cuantificada."
+          },
+          {
+            "id": "J04",
+            "text": "Ponente programado de microcirugía versus endoscopia de columna.",
+            "source_id": "spot2024",
+            "url": "https://spotrauma.org/sites/default/files/Programa%2054%20Congreso%20SPOT%202024.pdf",
+            "label": "SPOT: programa del 54 Congreso, pp.64–65 físicas",
+            "date": "2024-09-21",
+            "accessed_date": "2026-10-14",
+            "evidence_type": "Programa científico primario; filas verificadas visualmente",
+            "verification": "verified_primary",
+            "limit": "Actividad docente lumbar."
+          },
+          {
+            "id": "J05",
+            "text": "ASPECIVE lo lista miembro titular para elecciones 2024.",
+            "source_id": "aspecive2024",
+            "url": "https://aspecive.com/wp-content/uploads/LISTA-DE-MIEMBROS-HABILES-WEB.pdf",
+            "label": "ASPECIVE: lista de miembros hábiles para elecciones 2024",
+            "date": "2024",
+            "accessed_date": "2026-10-14",
+            "evidence_type": "Padrón societario histórico, no habilitación CMP",
+            "verification": "verified_primary",
+            "limit": "No habilitación CMP vigente ni resultados."
+          }
+        ],
+        "relevance": "Candidato real de columna, con credenciales institucionales y actividad académica. Menos evidencia específica de exploración postural global, tratamiento conservador de deformidad adulta o formación de columna con fechas/sede que los dos finalistas.",
+        "limits": [
+          "No se localizaron fellowship nominal con fechas/sede/duración, docencia universitaria focal ni resultados clínicos comparables.",
+          "No se usa la mayor antigüedad de colegiatura como sustituto de experiencia específica o calidad."
+        ]
+      },
+      {
+        "name": "Juan Carlos Angulo Totesaut",
+        "cmp": "083189",
+        "rne": "035310 (autodeclarado)",
+        "identity_note": "CMP 083189 corroborado en padrón oficial histórico de 2023. RNE 35310 aparece en web personal/Doctoralia, sin corroboración independiente de especialidad vigente recuperada.",
+        "facts": [
+          {
+            "id": "A01",
+            "text": "CMP Padrón General noviembre 2023 vincula Juan Carlos Angulo Totesaut con 083189, Consejo Regional III Lima.",
+            "source_id": "a_cmp2023",
+            "url": "https://www.cmp.org.pe/wp-content/uploads/2023/11/Padron-General.pdf",
+            "label": "CMP: Padrón General noviembre 2023",
+            "date": "2023-11",
+            "accessed_date": "2026-10-14",
+            "evidence_type": "Padrón oficial histórico de identidad/colegiatura",
+            "verification": "verified_primary",
+            "limit": "Identidad/colegiatura histórica, no RNE ni habilitación actual."
+          },
+          {
+            "id": "A02",
+            "text": "Declara residencia U. de Oriente, Núcleo Bolívar, Ciudad Bolívar, Venezuela, 2007–2009; formación de columna Instituto de Columna de Caracas/Hospital de Clínicas Caracas sin fechas/duración; práctica adulta e infantil y enfoque conservador antes de operar.",
+            "source_id": "a_site",
+            "url": "https://drangulocolumna.com/sobre-el-doctor",
+            "label": "Angulo: Sobre el doctor",
+            "date": null,
+            "accessed_date": "2026-10-14",
+            "evidence_type": "Autodeclaración profesional",
+            "verification": "verified_primary",
+            "limit": "Autodeclaración; sin documento del centro receptor o reconocimiento de especialidad recuperado."
+          },
+          {
+            "id": "A03",
+            "text": "ASPECIVE lo registra asociado en elecciones 2024; SPOT lo registra asociado hábil 2023.",
+            "source_id": "aspecive2024",
+            "url": "https://aspecive.com/wp-content/uploads/LISTA-DE-MIEMBROS-HABILES-WEB.pdf",
+            "label": "ASPECIVE: lista de miembros hábiles para elecciones 2024",
+            "date": "2024",
+            "accessed_date": "2026-10-14",
+            "evidence_type": "Padrón societario histórico, no habilitación CMP",
+            "verification": "verified_primary",
+            "limit": "Membresía no equivale a especialidad médica, vigencia CMP o resultados."
+          },
+          {
+            "id": "A04",
+            "text": "ASPECIVE lo programa nominalmente junto con Vladimir Sánchez para caso Hernia Discal Lumbar: Abordaje Endoscópico, 13/04/2023.",
+            "source_id": "a_case2023",
+            "url": "https://aspecive.com/caso-clinico-13-de-abril-2023-hernia-discal-lumbar-abordaje-endoscopico/",
+            "label": "ASPECIVE: caso Hernia Discal Lumbar, 13/04/2023",
+            "date": "2023-04-13",
+            "accessed_date": "2026-10-14",
+            "evidence_type": "Programación académica primaria nominal",
+            "verification": "verified_primary",
+            "limit": "Corrobora actividad académica de columna, no formación formal ni resultados de deformidad adulta."
+          },
+          {
+            "id": "A05",
+            "text": "Conferencista Juan Angulo Totesaut; filas Juan Angulo/Venezuela: dolor discogénico y límites de endoscopia lumbar.",
+            "source_id": "spot2024",
+            "url": "https://spotrauma.org/sites/default/files/Programa%2054%20Congreso%20SPOT%202024.pdf",
+            "label": "SPOT: programa del 54 Congreso, pp.64–65 físicas",
+            "date": "2024-09-21",
+            "accessed_date": "2026-10-14",
+            "evidence_type": "Programa científico primario; filas verificadas visualmente",
+            "verification": "verified_primary",
+            "limit": "Vínculo contextual probable; nombre abreviado, sin CMP."
+          }
+        ],
+        "relevance": "Más corroborado de lo que sugería el informe previo: identidad CMP histórica, dos sociedades y programación nominal de columna. Aun así, los detalles de especialidad/fellowship y la práctica en deformidad adulta permanecen mayormente autodeclarados; no desplaza a los finalistas.",
+        "limits": [
+          "No atribuir ausencia de evidencia a ausencia de capacidad. Tampoco describirlo como carente de especialidad.",
+          "RNE autodeclarado y formación de columna requieren corroboración primaria; no resultados comparables encontrados."
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "id": "n_crp",
+        "label": "CRP: ficha de Luis Alberto Neira Granados",
+        "url": "https://www.crp.com.pe/medicos/neira-granados-luis-alberto/",
+        "evidence_type": "CV institucional publicado",
+        "source_date": null,
+        "accessed_date": "2026-10-14",
+        "access": "Lectura previa conservada en screening-trauma-60.json; reapertura en esta auditoría devuelve 403"
+      },
+      {
+        "id": "n_ipot",
+        "label": "IPOT-CRP: Luis Roberto Neira Granados",
+        "url": "https://ipot-crp.pe/staff/medico/neira_granados_luis_roberto",
+        "evidence_type": "Ficha individual institucional",
+        "source_date": null,
+        "accessed_date": "2026-10-14",
+        "access": "Abierta en web; fecha de consulta 14/10/2026"
+      },
+      {
+        "id": "n_aop2019",
+        "label": "AO Spine: participantes del fellowship 2019, p.4",
+        "url": "https://aosla.com.br/report2019/wp-content/uploads/2020/02/FELLOWS-Participants-2019.pdf",
+        "evidence_type": "Registro primario del organizador del programa",
+        "source_date": "2019",
+        "accessed_date": "2026-10-14",
+        "access": "Abierta en web; fecha de consulta 14/10/2026"
+      },
+      {
+        "id": "n_aoselect2018",
+        "label": "AO Spine: seleccionados para 2019, p.1",
+        "url": "https://aosla.com.br/report2018/wp-content/uploads/2019/01/FELLOWS-Aproved2019.pdf",
+        "evidence_type": "Lista de selección, no certificado de culminación",
+        "source_date": "2018",
+        "accessed_date": "2026-10-14",
+        "access": "Abierta en web; fecha de consulta 14/10/2026"
+      },
+      {
+        "id": "n_aohist2021",
+        "label": "AO Spine: Fellowship History, encabezado Annual Report 2021, p.3",
+        "url": "https://aosla.com.br/report2020/wp-content/uploads/2021/02/Fellowship-History-2020.pdf",
+        "evidence_type": "Historial primario del organizador",
+        "source_date": "2021 (encabezado; ruta report2020)",
+        "accessed_date": "2026-10-14",
+        "access": "Abierta en web; fecha de consulta 14/10/2026"
+      },
+      {
+        "id": "ao_hist2022",
+        "label": "AO Spine: Fellowship History, Annual Report 2022, pp.3 y 9",
+        "url": "https://www.aolatam.org/report2022/wp-content/uploads/2023/07/AOSpine-LatAm-Fellowship-History.pdf",
+        "evidence_type": "Historial primario del organizador; filas comprobadas visualmente",
+        "source_date": "2022 (reporte; ruta de carga julio 2023)",
+        "accessed_date": "2026-10-14",
+        "access": "Abierta en web y copia local ao-fellowship-history-2022.pdf; inspección visual de páginas 3 y 9"
+      },
+      {
+        "id": "spot2021",
+        "label": "SPOT: programa calendarizado del Capítulo de Columna 2021",
+        "url": "https://spotrauma.org/?q=node/460",
+        "evidence_type": "Programa científico primario; prueba de programación académica",
+        "source_date": "2021",
+        "accessed_date": "2026-10-14",
+        "access": "Abierta en web; fecha de consulta 14/10/2026"
+      },
+      {
+        "id": "spot2024",
+        "label": "SPOT: programa del 54 Congreso, pp.64–65 físicas",
+        "url": "https://spotrauma.org/sites/default/files/Programa%2054%20Congreso%20SPOT%202024.pdf",
+        "evidence_type": "Programa científico primario; filas verificadas visualmente",
+        "source_date": "2024-09-21",
+        "accessed_date": "2026-10-14",
+        "access": "Abierto en web y PDF local; renders selection_spot64.png y selection_spot65.png"
+      },
+      {
+        "id": "ao_event2022",
+        "label": "AO Spine: Annual Report 2022, actividad CRP del 21 de octubre",
+        "url": "https://www.aolatam.org/report2022/aospine/",
+        "evidence_type": "Informe primario del organizador; actividad docente",
+        "source_date": "2022-10-21",
+        "accessed_date": "2026-10-14",
+        "access": "Texto recuperado íntegramente en resultado de búsqueda primario; apertura directa intermitente"
+      },
+      {
+        "id": "n_gpc2023",
+        "label": "INSN-SB: Guía de Escoliosis Idiopática del Adolescente V.02, enero 2023, p.19",
+        "url": "https://portal.insnsb.gob.pe/docs-trans/resoluciones/archivopdf.php?pdf=2023%2FTRAUMA+-+1+-+GPC+ESCOLIOSIS+-+V2.pdf",
+        "evidence_type": "Guía institucional primaria con lista nominal de autores",
+        "source_date": "2023-01",
+        "accessed_date": "2026-10-14",
+        "access": "PDF público descargado por investigación principal y texto local gpc-escoliosis-insnsb-2023.txt; autoría p.19 comprobada por investigación principal"
+      },
+      {
+        "id": "n_rd2026",
+        "label": "INSN-SB: índice oficial de resoluciones administrativas, RA 000086-2026",
+        "url": "https://portal.insnsb.gob.pe/docs-trans/resoluciones/index-RA2024.php",
+        "evidence_type": "Resolución administrativa oficial; adscripción en la fecha del acto",
+        "source_date": "2026-02-20",
+        "accessed_date": "2026-10-14",
+        "access": "Índice primario recuperado por búsqueda; licencia de 1–31 marzo 2026"
+      },
+      {
+        "id": "n_usmp2019",
+        "label": "USMP: Consejo Universitario extraordinario, texto interno 25/04/2019",
+        "url": "https://usmp.edu.pe/pdf/2019/cu_17_de_abril_de_2019_sesion_extraordinaria.pdf?page=1",
+        "evidence_type": "Acta universitaria primaria",
+        "source_date": "2019-04-25",
+        "accessed_date": "2026-10-14",
+        "access": "Lectura nominal previa conservada; PDF reabierto tiene OCR defectuoso que impide nueva comprobación nominal por texto"
+      },
+      {
+        "id": "n_thesis",
+        "label": "ALICIA/USMP: registro bibliográfico de antropometría lumbar",
+        "url": "https://alicia.concytec.gob.pe/vufind/Record/USMP_9377b046fef3c7b4ac21c3e1f5b65ffa",
+        "evidence_type": "Metadatos de repositorio académico",
+        "source_date": "2019",
+        "accessed_date": "2026-10-14",
+        "access": "Cita nominal recuperada en /Cite; acceso a original USMP limitado; grado/tipo del trabajo no verificado"
+      },
+      {
+        "id": "c_crp",
+        "label": "CRP: Ramiro Cieza Ojeda",
+        "url": "https://www.crp.com.pe/medicos/cieza-ojeda-ramiro/",
+        "evidence_type": "CV institucional publicado",
+        "source_date": null,
+        "accessed_date": "2026-10-14",
+        "access": "Lectura previa conservada en screening-trauma-60.json"
+      },
+      {
+        "id": "c_ipot",
+        "label": "IPOT-CRP: Ramiro Cieza Ojeda",
+        "url": "https://ipot-crp.pe/staff/medico/Ramiro_Cieza_Ojeda",
+        "evidence_type": "Ficha individual institucional",
+        "source_date": null,
+        "accessed_date": "2026-10-14",
+        "access": "Abierta en web; fecha de consulta 14/10/2026"
+      },
+      {
+        "id": "c_urp",
+        "label": "URP: Consejo de Facultad virtual del 21/01/2021, p.3",
+        "url": "https://www.urp.edu.pe/pdf/id/28684/n/sesion-virtual-21-de-enero-de-2021",
+        "evidence_type": "Acta universitaria primaria",
+        "source_date": "2021-01-21",
+        "accessed_date": "2026-10-14",
+        "access": "Abierta en web; fecha de consulta 14/10/2026"
+      },
+      {
+        "id": "c_clavel",
+        "label": "Instituto Clavel: bienvenida a Ramiro Cieza a rotación clínica",
+        "url": "https://es.linkedin.com/posts/institutoclavel_en-agosto-damos-la-bienvenida-a-nuestro-programa-activity-6962679427176493056-crVS",
+        "evidence_type": "Publicación del propio centro receptor",
+        "source_date": null,
+        "accessed_date": "2026-10-14",
+        "access": "Publicación primaria en LinkedIn; muestra 4 años al consultar. Menciona agosto, sin fechas de inicio/fin ni duración del programa"
+      },
+      {
+        "id": "c_oldsite",
+        "label": "Cieza: versión anterior de Sobre mí",
+        "url": "https://www.drciezatraumatologia.com/sobre-mi/",
+        "evidence_type": "Autodeclaración profesional",
+        "source_date": null,
+        "accessed_date": "2026-10-14",
+        "access": "Página actualmente 404; texto primario indexado, rastreado hace 11 meses"
+      },
+      {
+        "id": "c_site",
+        "label": "Cieza: página profesional index.php",
+        "url": "https://drciezatraumatologia.com/index.php",
+        "evidence_type": "Autodeclaración profesional",
+        "source_date": null,
+        "accessed_date": "2026-10-14",
+        "access": "Texto primario indexado: edades y escoliosis; apertura directa intermitente"
+      },
+      {
+        "id": "c_silacohome",
+        "label": "SILACO-ASPECIVE: sitio del III Curso Internacional",
+        "url": "https://cursosilaco.aspecive.com/",
+        "evidence_type": "Anuncio primario del organizador",
+        "source_date": "2024-01-26/2024-01-27",
+        "accessed_date": "2026-10-14",
+        "access": "Resultado indexado primario recuperado; apertura directa falla por tiempo de espera"
+      },
+      {
+        "id": "c_silacoprog",
+        "label": "SILACO-ASPECIVE: programa del segundo día",
+        "url": "https://cursosilaco.aspecive.com/wp-content/uploads/27ene24-12ene24.pdf",
+        "evidence_type": "Programa científico primario indexado",
+        "source_date": "2024-01-27 (evento; PDF imprime 2023)",
+        "accessed_date": "2026-10-14",
+        "access": "Texto completo del programa recuperado mediante índice de búsqueda primario; apertura directa falla"
+      },
+      {
+        "id": "c_sccot",
+        "label": "SCCOT: reporte de caso de cifosis/estenosis en acondroplasia",
+        "url": "https://sccot.org/wp-content/uploads/2026/02/EP-34.pdf",
+        "evidence_type": "Presentación de caso clínico; no artículo arbitrado verificado",
+        "source_date": "Fecha de congreso no visible; ruta de carga 2026/02",
+        "accessed_date": "2026-10-14",
+        "access": "Abierta en web; fecha de consulta 14/10/2026"
+      },
+      {
+        "id": "c_insn",
+        "label": "INSN: contrataciones noviembre 2023",
+        "url": "https://www.insn.gob.pe/sites/default/files/transparencia/contrataciones/BIENES%20Y%20SERVICIOS%20NOV-2023.pdf",
+        "evidence_type": "Documento administrativo institucional",
+        "source_date": "2023-11",
+        "accessed_date": "2026-10-14",
+        "access": "Abierta en web; fecha de consulta 14/10/2026"
+      },
+      {
+        "id": "aspecive2024",
+        "label": "ASPECIVE: lista de miembros hábiles para elecciones 2024",
+        "url": "https://aspecive.com/wp-content/uploads/LISTA-DE-MIEMBROS-HABILES-WEB.pdf",
+        "evidence_type": "Padrón societario histórico, no habilitación CMP",
+        "source_date": "2024",
+        "accessed_date": "2026-10-14",
+        "access": "Abierta en web; fecha de consulta 14/10/2026"
+      },
+      {
+        "id": "j_crp",
+        "label": "CRP: Eytyl Alfredo Jiménez Guevara",
+        "url": "https://www.crp.com.pe/medicos/jimenez-guevara-eytyl-alfredo/",
+        "evidence_type": "CV institucional publicado",
+        "source_date": null,
+        "accessed_date": "2026-10-14",
+        "access": "Lectura previa conservada en screening-trauma-60.json"
+      },
+      {
+        "id": "j_ipot",
+        "label": "IPOT-CRP: Eytyl Jiménez Guevara",
+        "url": "https://ipot-crp.pe/staff/medico/eytyl_jimenez_guevara",
+        "evidence_type": "Ficha individual institucional",
+        "source_date": null,
+        "accessed_date": "2026-10-14",
+        "access": "Abierta en web; fecha de consulta 14/10/2026"
+      },
+      {
+        "id": "j_laluz",
+        "label": "Clínica La Luz: Eytyl Alfredo Jiménez Guevara",
+        "url": "https://clinicalaluz.pe/profile/dr-eytyl-alfredo-jimenez-guevara/",
+        "evidence_type": "Ficha institucional de prestador",
+        "source_date": null,
+        "accessed_date": "2026-10-14",
+        "access": "Abierta en web; fecha de consulta 14/10/2026"
+      },
+      {
+        "id": "j_aspecive2021",
+        "label": "ASPECIVE: programa IV Congreso",
+        "url": "https://aspecive.com/ivcongreso-programa/",
+        "evidence_type": "Programa científico primario",
+        "source_date": "2021 (año del congreso en historia institucional)",
+        "accessed_date": "2026-10-14",
+        "access": "Abierta en web; fecha de consulta 14/10/2026"
+      },
+      {
+        "id": "a_site",
+        "label": "Angulo: Sobre el doctor",
+        "url": "https://drangulocolumna.com/sobre-el-doctor",
+        "evidence_type": "Autodeclaración profesional",
+        "source_date": null,
+        "accessed_date": "2026-10-14",
+        "access": "Abierta en web; fecha de consulta 14/10/2026"
+      },
+      {
+        "id": "a_cmp2023",
+        "label": "CMP: Padrón General noviembre 2023",
+        "url": "https://www.cmp.org.pe/wp-content/uploads/2023/11/Padron-General.pdf",
+        "evidence_type": "Padrón oficial histórico de identidad/colegiatura",
+        "source_date": "2023-11",
+        "accessed_date": "2026-10-14",
+        "access": "Fila exacta 083189 recuperada en índice primario; no constancia de especialidad/habilitación actual"
+      },
+      {
+        "id": "a_spot2023",
+        "label": "SPOT: relación histórica de miembros",
+        "url": "https://spotrauma.org/?q=node/551",
+        "evidence_type": "Padrón societario histórico, no habilitación CMP",
+        "source_date": "2023",
+        "accessed_date": "2026-10-14",
+        "access": "Abierta en web; fecha de consulta 14/10/2026"
+      },
+      {
+        "id": "a_case2023",
+        "label": "ASPECIVE: caso Hernia Discal Lumbar, 13/04/2023",
+        "url": "https://aspecive.com/caso-clinico-13-de-abril-2023-hernia-discal-lumbar-abordaje-endoscopico/",
+        "evidence_type": "Programación académica primaria nominal",
+        "source_date": "2023-04-13",
+        "accessed_date": "2026-10-14",
+        "access": "Abierta en web; fecha de consulta 14/10/2026"
+      },
+      {
+        "id": "clinical_aapmr",
+        "label": "AAPM&R: Adult Degenerative Scoliosis",
+        "url": "https://now.aapmr.org/scoliosis/",
+        "evidence_type": "Referencia clínica de sociedad profesional",
+        "source_date": "2025-04-24",
+        "accessed_date": "2026-10-14",
+        "access": "Abierta en web; fecha de consulta 14/10/2026"
+      },
+      {
+        "id": "clinical_nhs",
+        "label": "NHS: Your post-pregnancy body",
+        "url": "https://www.nhs.uk/baby/support-and-services/your-post-pregnancy-body/",
+        "evidence_type": "Información clínica de sistema público de salud",
+        "source_date": null,
+        "accessed_date": "2026-10-14",
+        "access": "Abierta en web; fecha de consulta 14/10/2026"
+      },
+      {
+        "id": "clinical_srs",
+        "label": "SRS: Kyphosis",
+        "url": "https://www.srs.org/Patients/Conditions/Kyphosis",
+        "evidence_type": "Información clínica de sociedad especializada",
+        "source_date": null,
+        "accessed_date": "2026-10-14",
+        "access": "Abierta en web; fecha de consulta 14/10/2026"
+      }
+    ],
+    "additional_ipot_audit": [
+      {
+        "name": "Clemente Luis Aguilar Del Rosario",
+        "area": "rodilla; cadera/pelvis; trauma",
+        "url": "https://ipot-crp.pe/staff/medico/aguilar_del_rosario_clemnete_luis",
+        "label": "IPOT-CRP: ficha individual",
+        "evidence_type": "Área asistencial institucional publicada",
+        "accessed_date": "2026-10-14",
+        "source_date": null,
+        "limit": "Sin evidencia nueva de columna adulta. Área quirúrgica no prueba fellowship ni experiencia en marcha/dismetría."
+      },
+      {
+        "name": "Baldwin Luis Angelino Espinoza",
+        "area": "pie/tobillo; ortopedia infantil; trauma",
+        "url": "https://ipot-crp.pe/staff/medico/angelino_espinoza_baldwin",
+        "label": "IPOT-CRP: ficha individual",
+        "evidence_type": "Área asistencial institucional publicada",
+        "accessed_date": "2026-10-14",
+        "source_date": null,
+        "limit": "Sin evidencia nueva de columna adulta. Área quirúrgica no prueba fellowship ni experiencia en marcha/dismetría.",
+        "cmp": "031409",
+        "rne": "015946"
+      },
+      {
+        "name": "Samuel Ricardo Jose Barrantes Durand",
+        "area": "pie/tobillo; trauma",
+        "url": "https://ipot-crp.pe/staff/medico/BARRANTES_DURAND_SAMUEL_RICARDO",
+        "label": "IPOT-CRP: ficha individual",
+        "evidence_type": "Área asistencial institucional publicada",
+        "accessed_date": "2026-10-14",
+        "source_date": null,
+        "limit": "Sin evidencia nueva de columna adulta. Área quirúrgica no prueba fellowship ni experiencia en marcha/dismetría.",
+        "cmp": "064045",
+        "rne": "037165"
+      },
+      {
+        "name": "Luis Wuilfredo Barriales Gamarra",
+        "area": "cadera/pelvis; trauma",
+        "url": "https://ipot-crp.pe/staff/medico/barriales_gamarra_luis",
+        "label": "IPOT-CRP: ficha individual",
+        "evidence_type": "Área asistencial institucional publicada",
+        "accessed_date": "2026-10-14",
+        "source_date": null,
+        "limit": "Sin evidencia nueva de columna adulta. Área quirúrgica no prueba fellowship ni experiencia en marcha/dismetría."
+      },
+      {
+        "name": "Gonzalo Jose Castillo Velasco",
+        "area": "rodilla; trauma",
+        "url": "https://ipot-crp.pe/staff/medico/castillo_velasco_gonzalo",
+        "label": "IPOT-CRP: ficha individual",
+        "evidence_type": "Área asistencial institucional publicada",
+        "accessed_date": "2026-10-14",
+        "source_date": null,
+        "limit": "Sin evidencia nueva de columna adulta. Área quirúrgica no prueba fellowship ni experiencia en marcha/dismetría."
+      },
+      {
+        "name": "Ever Corahua Romero",
+        "area": "infantil; cadera/pelvis; rodilla; trauma",
+        "url": "https://ipot-crp.pe/staff/medico/corahua_romero_ever",
+        "label": "IPOT-CRP: ficha individual",
+        "evidence_type": "Área asistencial institucional publicada",
+        "accessed_date": "2026-10-14",
+        "source_date": null,
+        "limit": "Sin evidencia nueva de columna adulta. Área quirúrgica no prueba fellowship ni experiencia en marcha/dismetría."
+      },
+      {
+        "name": "Gustavo Dario Delgado Razuri",
+        "area": "rodilla; trauma",
+        "url": "https://ipot-crp.pe/staff/medico/delgado_razuri_gustavo_dario",
+        "label": "IPOT-CRP: ficha individual",
+        "evidence_type": "Área asistencial institucional publicada",
+        "accessed_date": "2026-10-14",
+        "source_date": null,
+        "limit": "Sin evidencia nueva de columna adulta. Área quirúrgica no prueba fellowship ni experiencia en marcha/dismetría."
+      },
+      {
+        "name": "Katya Victoria Delgado Razuri",
+        "area": "rodilla; hombro; trauma",
+        "url": "https://ipot-crp.pe/staff/medico/delgado_razuri_katya",
+        "label": "IPOT-CRP: ficha individual",
+        "evidence_type": "Área asistencial institucional publicada",
+        "accessed_date": "2026-10-14",
+        "source_date": null,
+        "limit": "Sin evidencia nueva de columna adulta. Área quirúrgica no prueba fellowship ni experiencia en marcha/dismetría."
+      },
+      {
+        "name": "Henry Willy Deza Palle",
+        "area": "cadera/pelvis; trauma",
+        "url": "https://ipot-crp.pe/staff/medico/deza_palle_henry",
+        "label": "IPOT-CRP: ficha individual",
+        "evidence_type": "Área asistencial institucional publicada",
+        "accessed_date": "2026-10-14",
+        "source_date": null,
+        "limit": "Sin evidencia nueva de columna adulta. Área quirúrgica no prueba fellowship ni experiencia en marcha/dismetría."
+      },
+      {
+        "name": "Raul Edilberto Gutierrez Segura",
+        "area": "pie/tobillo; rodilla; infantil; trauma",
+        "url": "https://ipot-crp.pe/staff/medico/gutierrez_segura_raul",
+        "label": "IPOT-CRP: ficha individual",
+        "evidence_type": "Área asistencial institucional publicada",
+        "accessed_date": "2026-10-14",
+        "source_date": null,
+        "limit": "Sin evidencia nueva de columna adulta. Área quirúrgica no prueba fellowship ni experiencia en marcha/dismetría.",
+        "cmp": "010826",
+        "rne": "020026"
+      },
+      {
+        "name": "Jose Luis Herrera Praelli",
+        "area": "rodilla; hombro; trauma",
+        "url": "https://ipot-crp.pe/staff/medico/herrera_praelli_jose_luis",
+        "label": "IPOT-CRP: ficha individual",
+        "evidence_type": "Área asistencial institucional publicada",
+        "accessed_date": "2026-10-14",
+        "source_date": null,
+        "limit": "Sin evidencia nueva de columna adulta. Área quirúrgica no prueba fellowship ni experiencia en marcha/dismetría."
+      },
+      {
+        "name": "Alfredo Baltazar Huerta Robles",
+        "area": "miembro superior; trauma",
+        "url": "https://ipot-crp.pe/staff/medico/Alfredo_Baltazar_Huerta_Robles",
+        "label": "IPOT-CRP: ficha individual",
+        "evidence_type": "Área asistencial institucional publicada",
+        "accessed_date": "2026-10-14",
+        "source_date": null,
+        "limit": "Sin evidencia nueva de columna adulta. Área quirúrgica no prueba fellowship ni experiencia en marcha/dismetría."
+      },
+      {
+        "name": "Alfonso Lazo Davila",
+        "area": "cadera/pelvis; trauma",
+        "url": "https://ipot-crp.pe/staff/medico/lazo_davila_alfonso",
+        "label": "IPOT-CRP: ficha individual",
+        "evidence_type": "Área asistencial institucional publicada",
+        "accessed_date": "2026-10-14",
+        "source_date": null,
+        "limit": "Sin evidencia nueva de columna adulta. Área quirúrgica no prueba fellowship ni experiencia en marcha/dismetría."
+      },
+      {
+        "name": "Jessica Pamela Quispe Arapa",
+        "area": "trauma; fellowship de extremidad superior publicado",
+        "url": "https://ipot-crp.pe/staff/medico/QUISPE_ARAPA_JESSICA_PAMELA",
+        "label": "IPOT-CRP: ficha individual",
+        "evidence_type": "Área asistencial institucional publicada",
+        "accessed_date": "2026-10-14",
+        "source_date": null,
+        "limit": "Sin evidencia nueva de columna adulta. Área quirúrgica no prueba fellowship ni experiencia en marcha/dismetría."
+      },
+      {
+        "name": "Oswaldo Belisario Augusto Rossi Spelucin",
+        "area": "rodilla; trauma",
+        "url": "https://ipot-crp.pe/staff/medico/rossi_spelucin_oswaldo",
+        "label": "IPOT-CRP: ficha individual",
+        "evidence_type": "Área asistencial institucional publicada",
+        "accessed_date": "2026-10-14",
+        "source_date": null,
+        "limit": "Sin evidencia nueva de columna adulta. Área quirúrgica no prueba fellowship ni experiencia en marcha/dismetría."
+      },
+      {
+        "name": "Gaby Isabel Saenz Manrique",
+        "area": "miembro superior; trauma",
+        "url": "https://ipot-crp.pe/staff/medico/saenz_manrique_gaby_isabel",
+        "label": "IPOT-CRP: ficha individual",
+        "evidence_type": "Área asistencial institucional publicada",
+        "accessed_date": "2026-10-14",
+        "source_date": null,
+        "limit": "Sin evidencia nueva de columna adulta. Área quirúrgica no prueba fellowship ni experiencia en marcha/dismetría."
+      },
+      {
+        "name": "Jorge Manuel Sanchez Azabache",
+        "area": "cadera/pelvis; rodilla; infantil; trauma",
+        "url": "https://ipot-crp.pe/staff/medico/sanchez_azabache_jorge",
+        "label": "IPOT-CRP: ficha individual",
+        "evidence_type": "Área asistencial institucional publicada",
+        "accessed_date": "2026-10-14",
+        "source_date": null,
+        "limit": "Sin evidencia nueva de columna adulta. Área quirúrgica no prueba fellowship ni experiencia en marcha/dismetría."
+      },
+      {
+        "name": "Benjamin Isidro Taboada Valdivieso",
+        "area": "rodilla; miembro superior; trauma",
+        "url": "https://ipot-crp.pe/staff/medico/taboada_valdivieso_benjamin",
+        "label": "IPOT-CRP: ficha individual",
+        "evidence_type": "Área asistencial institucional publicada",
+        "accessed_date": "2026-10-14",
+        "source_date": null,
+        "limit": "Sin evidencia nueva de columna adulta. Área quirúrgica no prueba fellowship ni experiencia en marcha/dismetría."
+      },
+      {
+        "name": "Juan Mirko Tello Vinces",
+        "area": "miembro superior; hombro; trauma; pasantía mano FREMAP Madrid 2006",
+        "url": "https://ipot-crp.pe/staff/medico/tello_vinces_mirko",
+        "label": "IPOT-CRP: ficha individual",
+        "evidence_type": "Área asistencial institucional publicada",
+        "accessed_date": "2026-10-14",
+        "source_date": null,
+        "limit": "Sin evidencia nueva de columna adulta. Área quirúrgica no prueba fellowship ni experiencia en marcha/dismetría.",
+        "cmp": "031159",
+        "rne": "019005"
+      },
+      {
+        "name": "Luis Leoncio Temoche Diaz",
+        "area": "hombro; miembro superior; trauma",
+        "url": "https://ipot-crp.pe/staff/medico/temoche_diaz_luis",
+        "label": "IPOT-CRP: ficha individual",
+        "evidence_type": "Área asistencial institucional publicada",
+        "accessed_date": "2026-10-14",
+        "source_date": null,
+        "limit": "Sin evidencia nueva de columna adulta. Área quirúrgica no prueba fellowship ni experiencia en marcha/dismetría."
+      },
+      {
+        "name": "Pablo Alejandro Ugarte Velarde",
+        "area": "hombro; miembro superior; trauma",
+        "url": "https://ipot-crp.pe/staff/medico/ugarte_velarde_pablo",
+        "label": "IPOT-CRP: ficha individual",
+        "evidence_type": "Área asistencial institucional publicada",
+        "accessed_date": "2026-10-14",
+        "source_date": null,
+        "limit": "Sin evidencia nueva de columna adulta. Área quirúrgica no prueba fellowship ni experiencia en marcha/dismetría."
+      },
+      {
+        "name": "Rodrigo Andres Vallejos Meléndez",
+        "area": "rodilla; hombro; trauma",
+        "url": "https://ipot-crp.pe/staff/medico/VALLEJOS_MELENDEZ_RODRIGO",
+        "label": "IPOT-CRP: ficha individual",
+        "evidence_type": "Área asistencial institucional publicada",
+        "accessed_date": "2026-10-14",
+        "source_date": null,
+        "limit": "Sin evidencia nueva de columna adulta. Área quirúrgica no prueba fellowship ni experiencia en marcha/dismetría."
+      },
+      {
+        "name": "Jose David Vera Becerra",
+        "area": "cadera/pelvis; trauma",
+        "url": "https://ipot-crp.pe/staff/medico/vera_becerra_jose_david",
+        "label": "IPOT-CRP: ficha individual",
+        "evidence_type": "Área asistencial institucional publicada",
+        "accessed_date": "2026-10-14",
+        "source_date": null,
+        "limit": "Sin evidencia nueva de columna adulta. Área quirúrgica no prueba fellowship ni experiencia en marcha/dismetría."
+      }
+    ],
+    "screening": {
+      "count": 60,
+      "all_names_reviewed_in_prior_dossier": true,
+      "source_file": "work/screening-trauma-60.json",
+      "new_ipot_profiles_opened": 23,
+      "previous_12_not_repeated": [
+        "Javier Alexis Rivas Legua",
+        "Jorge Luis Mondoñedo Lopez",
+        "Luis Adger Soto Rios",
+        "Norman Pavel Soriano Soriano",
+        "Carlos Augusto Del Carpio Salas",
+        "Lidia Del Carmen Maza Godos",
+        "Franco Eliser Tocas Caceres",
+        "Wagner Abel Cruzado Cruz",
+        "Yosip Leonardo Becerra Mondragon",
+        "Joel Antonio Solorzano Padilla",
+        "Arvin Armando Calderon Calderon",
+        "Cesar Javier Adrianzen Tello"
+      ],
+      "doctors": [
+        {
+          "name": "Gaby Isabel Saenz Manrique",
+          "category": "Perfil IPOT individual reabierto; área ajena a columna o general",
+          "profile": "medico-035409",
+          "prior_sources": [
+            {
+              "url": "https://www.crp.com.pe/medicos/saenz-manrique-gaby-isabel/",
+              "label": "Clínica Ricardo Palma [127]"
+            },
+            {
+              "url": "https://www.crp.com.pe/medicos/saenz-manrique-gaby-isabel/",
+              "label": "Clínica Ricardo Palma [127]"
+            },
+            {
+              "url": "https://www.crp.com.pe/medicos/saenz-manrique-gaby-isabel/",
+              "label": "Clínica Ricardo Palma [127]"
+            }
+          ]
+        },
+        {
+          "name": "Clemente Luis Aguilar Del Rosario",
+          "category": "Perfil IPOT individual reabierto; área ajena a columna o general",
+          "profile": "medico-013818",
+          "prior_sources": [
+            {
+              "url": "https://www.crp.com.pe/medicos/aguilar-del-rosario-clemente-luis/",
+              "label": "Clínica Ricardo Palma [1]"
+            },
+            {
+              "url": "https://tumedico.pe/medicos/lima/clemente-luis-aguilar-del-rosario/",
+              "label": "tumedico.pe [2]"
+            },
+            {
+              "url": "https://www.crp.com.pe/medicos/aguilar-del-rosario-clemente-luis/",
+              "label": "Clínica Ricardo Palma [1]"
+            },
+            {
+              "url": "https://www.crp.com.pe/medicos/aguilar-del-rosario-clemente-luis/",
+              "label": "Clínica Ricardo Palma [1]"
+            },
+            {
+              "url": "https://www.crp.com.pe/medicos/aguilar-del-rosario-clemente-luis/",
+              "label": "Clínica Ricardo Palma [1]"
+            },
+            {
+              "url": "https://www.crp.com.pe/medicos/aguilar-del-rosario-clemente-luis/",
+              "label": "Clínica Ricardo Palma [1]"
+            }
+          ]
+        },
+        {
+          "name": "Alfredo Baltazar Huerta Robles",
+          "category": "Perfil IPOT individual reabierto; área ajena a columna o general",
+          "profile": "medico-061126",
+          "prior_sources": [
+            {
+              "url": "https://www.crp.com.pe/medicos/huerta-robles-alfredo-baltazar/",
+              "label": "Clínica Ricardo Palma [66]"
+            },
+            {
+              "url": "https://pe.linkedin.com/in/alfredo-huerta-robles-2a2699344",
+              "label": "LinkedIn [67]"
+            },
+            {
+              "url": "https://www.crp.com.pe/medicos/huerta-robles-alfredo-baltazar/",
+              "label": "Clínica Ricardo Palma [66]"
+            },
+            {
+              "url": "https://www.crp.com.pe/medicos/huerta-robles-alfredo-baltazar/",
+              "label": "Clínica Ricardo Palma [66]"
+            },
+            {
+              "url": "https://pe.linkedin.com/in/alfredo-huerta-robles-2a2699344",
+              "label": "LinkedIn [67]"
+            },
+            {
+              "url": "https://pe.linkedin.com/in/alfredo-huerta-robles-2a2699344",
+              "label": "Abrir perfil o referencia LinkedIn"
+            },
+            {
+              "url": "https://www.crp.com.pe/medicos/huerta-robles-alfredo-baltazar/",
+              "label": "Clínica Ricardo Palma [66]"
+            }
+          ]
+        },
+        {
+          "name": "Humberto Fernando Escarza Benitez",
+          "category": "Cribado en dossier de 60; no vínculo específico adulto/postural nuevo documentado",
+          "profile": "medico-029547",
+          "prior_sources": [
+            {
+              "url": "https://www.crp.com.pe/medicos/escarza-benitez-humberto-fernando/",
+              "label": "Clínica Ricardo Palma [56]"
+            },
+            {
+              "url": "https://www.crp.com.pe/medicos/escarza-benitez-humberto-fernando/",
+              "label": "Clínica Ricardo Palma [56]"
+            },
+            {
+              "url": "https://www.crp.com.pe/medicos/escarza-benitez-humberto-fernando/",
+              "label": "Clínica Ricardo Palma [56]"
+            }
+          ]
+        },
+        {
+          "name": "Gustavo Dario Delgado Razuri",
+          "category": "Perfil IPOT individual reabierto; área ajena a columna o general",
+          "profile": "medico-032640",
+          "prior_sources": [
+            {
+              "url": "https://www.crp.com.pe/medicos/delgado-razuri-gustavo-dario/",
+              "label": "Clínica Ricardo Palma [52]"
+            },
+            {
+              "url": "https://www.crp.com.pe/medicos/delgado-razuri-gustavo-dario/",
+              "label": "Clínica Ricardo Palma [52]"
+            },
+            {
+              "url": "https://www.crp.com.pe/medicos/delgado-razuri-gustavo-dario/",
+              "label": "Clínica Ricardo Palma [52]"
+            }
+          ]
+        },
+        {
+          "name": "Luis Wuilfredo Barriales Gamarra",
+          "category": "Perfil IPOT individual reabierto; área ajena a columna o general",
+          "profile": "medico-029207",
+          "prior_sources": [
+            {
+              "url": "https://www.crp.com.pe/medicos/barriales-gamarra-luis-wuilfredo/",
+              "label": "Clínica Ricardo Palma [8]"
+            },
+            {
+              "url": "https://www.crp.com.pe/medicos/barriales-gamarra-luis-wuilfredo/",
+              "label": "Clínica Ricardo Palma [8]"
+            },
+            {
+              "url": "https://www.crp.com.pe/medicos/barriales-gamarra-luis-wuilfredo/",
+              "label": "Clínica Ricardo Palma [8]"
+            },
+            {
+              "url": "https://www.crp.com.pe/medicos/barriales-gamarra-luis-wuilfredo/",
+              "label": "Clínica Ricardo Palma [8]"
+            }
+          ]
+        },
+        {
+          "name": "Jorge Alexander Sanchez Guzman",
+          "category": "Cribado en dossier de 60; no vínculo específico adulto/postural nuevo documentado",
+          "profile": "medico-067882",
+          "prior_sources": [
+            {
+              "url": "https://www.crp.com.pe/medicos/sanchez-guzman-jorge-alexander/",
+              "label": "Clínica Ricardo Palma [131]"
+            },
+            {
+              "url": "https://repositorio.upao.edu.pe/bitstream/20.500.12759/450/1/SANCHEZ_JORGE_CALIDAD_VIDA_INSUFICIENCIA_RENAL.pdf",
+              "label": "repositorio.upao.edu.pe [132]"
+            },
+            {
+              "url": "https://www.crp.com.pe/medicos/sanchez-guzman-jorge-alexander/",
+              "label": "Clínica Ricardo Palma [131]"
+            },
+            {
+              "url": "https://www.clinicasanfelipe.com/medicos/jorge-alexander-sanchez-guzman",
+              "label": "Clínica San Felipe [133]"
+            },
+            {
+              "url": "https://www.crp.com.pe/medicos/sanchez-guzman-jorge-alexander/",
+              "label": "Clínica Ricardo Palma [131]"
+            }
+          ]
+        },
+        {
+          "name": "Rodrigo Alonso Gallo Oropeza",
+          "category": "Cribado en dossier de 60; no vínculo específico adulto/postural nuevo documentado",
+          "profile": "medico-076534",
+          "prior_sources": [
+            {
+              "url": "https://www.crp.com.pe/medicos/gallo-oropeza-rodrigo-alonso/",
+              "label": "Clínica Ricardo Palma [62]"
+            },
+            {
+              "url": "https://www.crp.com.pe/medicos/gallo-oropeza-rodrigo-alonso/",
+              "label": "Clínica Ricardo Palma [62]"
+            },
+            {
+              "url": "https://sportsmedicinelima.com/wp-content/uploads/2024/10/122_trabajo_Rodilla-y-Traumatologia-Deportiva.pdf",
+              "label": "sportsmedicinelima.com [63]"
+            },
+            {
+              "url": "https://pe.linkedin.com/in/rodrigo-alonso-gallo-oropeza-8a240b128",
+              "label": "Abrir perfil o referencia LinkedIn"
+            },
+            {
+              "url": "https://www.crp.com.pe/medicos/gallo-oropeza-rodrigo-alonso/",
+              "label": "Clínica Ricardo Palma [62]"
+            }
+          ]
+        },
+        {
+          "name": "Juan Carlos Angulo Totesaut",
+          "category": "Otro candidato de columna; auditoría profunda",
+          "profile": "referencia-angulo",
+          "prior_sources": [
+            {
+              "url": "https://portaldelpaciente.crp.com.pe/appointments/select-doctor",
+              "label": "Portal del paciente CRP [222]"
+            },
+            {
+              "url": "https://drangulocolumna.com/sobre-el-doctor",
+              "label": "drangulocolumna.com [216]"
+            },
+            {
+              "url": "https://drangulocolumna.com/sobre-el-doctor",
+              "label": "drangulocolumna.com [216]"
+            },
+            {
+              "url": "https://drangulocolumna.com/sobre-el-doctor",
+              "label": "drangulocolumna.com [216]"
+            },
+            {
+              "url": "https://drangulocolumna.com/sedes/clinica-ricardo-palma",
+              "label": "drangulocolumna.com [217]"
+            }
+          ]
+        },
+        {
+          "name": "Jose David Vera Becerra",
+          "category": "Perfil IPOT individual reabierto; área ajena a columna o general",
+          "profile": "medico-062498",
+          "prior_sources": [
+            {
+              "url": "https://www.crp.com.pe/medicos/vera-becerra-jose-david/",
+              "label": "Clínica Ricardo Palma [146]"
+            },
+            {
+              "url": "https://www.crp.com.pe/medicos/vera-becerra-jose-david/",
+              "label": "Clínica Ricardo Palma [146]"
+            },
+            {
+              "url": "https://www.crp.com.pe/medicos/vera-becerra-jose-david/",
+              "label": "Clínica Ricardo Palma [146]"
+            },
+            {
+              "url": "https://www.crp.com.pe/medicos/vera-becerra-jose-david/",
+              "label": "Clínica Ricardo Palma [146]"
+            }
+          ]
+        },
+        {
+          "name": "Ever Corahua Romero",
+          "category": "Perfil IPOT individual reabierto; área ajena a columna o general",
+          "profile": "medico-054699",
+          "prior_sources": [
+            {
+              "url": "https://www.crp.com.pe/medicos/corahua-romero-ever/",
+              "label": "Clínica Ricardo Palma [49]"
+            },
+            {
+              "url": "https://www.crp.com.pe/medicos/corahua-romero-ever/",
+              "label": "Clínica Ricardo Palma [49]"
+            },
+            {
+              "url": "https://pe.linkedin.com/in/ever-corahua-romero-7a896171",
+              "label": "Abrir perfil o referencia LinkedIn"
+            },
+            {
+              "url": "https://www.crp.com.pe/medicos/corahua-romero-ever/",
+              "label": "Clínica Ricardo Palma [49]"
+            }
+          ]
+        },
+        {
+          "name": "Katya Victoria Delgado Razuri",
+          "category": "Perfil IPOT individual reabierto; área ajena a columna o general",
+          "profile": "medico-032508",
+          "prior_sources": [
+            {
+              "url": "https://www.crp.com.pe/medicos/delgado-razuri-katya-victoria/",
+              "label": "Clínica Ricardo Palma [53]"
+            },
+            {
+              "url": "https://www.crp.com.pe/medicos/delgado-razuri-katya-victoria/",
+              "label": "Clínica Ricardo Palma [53]"
+            },
+            {
+              "url": "https://www.crp.com.pe/medicos/delgado-razuri-katya-victoria/",
+              "label": "Clínica Ricardo Palma [53]"
+            },
+            {
+              "url": "https://www.crp.com.pe/medicos/delgado-razuri-katya-victoria/",
+              "label": "Clínica Ricardo Palma [53]"
+            },
+            {
+              "url": "https://www.crp.com.pe/medicos/delgado-razuri-katya-victoria/",
+              "label": "Clínica Ricardo Palma [53]"
+            },
+            {
+              "url": "https://www.crp.com.pe/medicos/delgado-razuri-katya-victoria/",
+              "label": "Clínica Ricardo Palma [53]"
+            },
+            {
+              "url": "https://www.crp.com.pe/medicos/delgado-razuri-katya-victoria/",
+              "label": "Clínica Ricardo Palma [53]"
+            }
+          ]
+        },
+        {
+          "name": "Jose Luis Herrera Praelli",
+          "category": "Perfil IPOT individual reabierto; área ajena a columna o general",
+          "profile": "medico-061903",
+          "prior_sources": [
+            {
+              "url": "https://www.crp.com.pe/medicos/herrera-praelli-jose-luis/",
+              "label": "Clínica Ricardo Palma [65]"
+            },
+            {
+              "url": "https://www.crp.com.pe/medicos/herrera-praelli-jose-luis/",
+              "label": "Clínica Ricardo Palma [65]"
+            },
+            {
+              "url": "https://www.crp.com.pe/medicos/herrera-praelli-jose-luis/",
+              "label": "Clínica Ricardo Palma [65]"
+            }
+          ]
+        },
+        {
+          "name": "Jose Antonio Illescas Talavera",
+          "category": "Cribado en dossier de 60; no vínculo específico adulto/postural nuevo documentado",
+          "profile": "medico-034733",
+          "prior_sources": [
+            {
+              "url": "https://ipot-crp.pe/staff/medico/illescas_talavera_jose",
+              "label": "IPOT–CRP · Illescas [238]"
+            },
+            {
+              "url": "https://www.crp.com.pe/medicos/illescas-talavera-jose-antonio/",
+              "label": "Clínica Ricardo Palma [68]"
+            },
+            {
+              "url": "https://www.crp.com.pe/medicos/illescas-talavera-jose-antonio/",
+              "label": "Clínica Ricardo Palma [68]"
+            },
+            {
+              "url": "https://www.crp.com.pe/medicos/illescas-talavera-jose-antonio/",
+              "label": "Clínica Ricardo Palma [68]"
+            }
+          ]
+        },
+        {
+          "name": "Oswaldo Belisario Augusto Rossi Spelucin",
+          "category": "Perfil IPOT individual reabierto; área ajena a columna o general",
+          "profile": "medico-014557",
+          "prior_sources": [
+            {
+              "url": "https://www.crp.com.pe/medicos/rossi-spelucin-oswaldo-belisario-augusto/",
+              "label": "Clínica Ricardo Palma [123]"
+            },
+            {
+              "url": "https://www.crp.com.pe/medicos/rossi-spelucin-oswaldo-belisario-augusto/",
+              "label": "Clínica Ricardo Palma [123]"
+            },
+            {
+              "url": "https://www.crp.com.pe/medicos/rossi-spelucin-oswaldo-belisario-augusto/",
+              "label": "Clínica Ricardo Palma [123]"
+            },
+            {
+              "url": "https://www.crp.com.pe/medicos/rossi-spelucin-oswaldo-belisario-augusto/",
+              "label": "Clínica Ricardo Palma [123]"
+            },
+            {
+              "url": "https://www.crp.com.pe/medicos/rossi-spelucin-oswaldo-belisario-augusto/",
+              "label": "Clínica Ricardo Palma [123]"
+            },
+            {
+              "url": "https://www.crp.com.pe/medicos/rossi-spelucin-oswaldo-belisario-augusto/",
+              "label": "Clínica Ricardo Palma [123]"
+            },
+            {
+              "url": "https://www.crp.com.pe/medicos/rossi-spelucin-oswaldo-belisario-augusto/",
+              "label": "Clínica Ricardo Palma [123]"
+            },
+            {
+              "url": "https://www.urp.edu.pe/pdf/id/38622/n/0901.-ciruga-i.pdf",
+              "label": "Universidad Ricardo Palma [124]"
+            },
+            {
+              "url": "https://www.crp.com.pe/medicos/rossi-spelucin-oswaldo-belisario-augusto/",
+              "label": "Clínica Ricardo Palma [123]"
+            }
+          ]
+        },
+        {
+          "name": "Javier Alexis Rivas Legua",
+          "category": "Revisión previa de 12 conservada; no repetida sin aporte",
+          "profile": "medico-055966",
+          "prior_sources": [
+            {
+              "url": "https://auna.org/pe/staff-medico/rivas-legua-javier-alexis",
+              "label": "Ficha institucional Auna [250]"
+            },
+            {
+              "url": "https://auna.org/pe/staff-medico/rivas-legua-javier-alexis",
+              "label": "Ficha institucional Auna [250]"
+            },
+            {
+              "url": "https://ipot-crp.com/staff",
+              "label": "Directorio institucional IPOT-CRP [251]"
+            },
+            {
+              "url": "https://medicina.usmp.edu.pe/wp-content/uploads/concurso-docente/2023-1/residentado/convocatoria_2/RESULTADOS_PROCESO_DOCENCIA_2023-1_RESID_MEDICO-v2.pdf",
+              "label": "Documento universitario USMP [252]"
+            },
+            {
+              "url": "https://web-media.cientifica.edu.pe/wp-content/medios/2025/08/25122738/Formato-C9-Relacion-de-Docentes-2023-2-REV-ULTIMO-16.11.23.pdf",
+              "label": "Documento universitario Científica del Sur [253]"
+            }
+          ]
+        },
+        {
+          "name": "Jorge Luis Mondoñedo Lopez",
+          "category": "Revisión previa de 12 conservada; no repetida sin aporte",
+          "profile": "medico-033367",
+          "prior_sources": [
+            {
+              "url": "https://clinicatezza.com.pe/staff-medico/858/jorge-luis-mondonedo-lopez/",
+              "label": "Ficha institucional Tezza, publicada 25 mayo 2019; recuperada por índice web [254]"
+            },
+            {
+              "url": "https://clinicatezza.com.pe/staff-medico/858/jorge-luis-mondonedo-lopez/",
+              "label": "Ficha institucional Tezza [254]"
+            },
+            {
+              "url": "https://clinicatezza.com.pe/staff-medico/858/jorge-luis-mondonedo-lopez/",
+              "label": "Ficha institucional Tezza [254]"
+            },
+            {
+              "url": "https://www.gob.pe/institucion/essalud/noticias/1092540-hospital-almenara-de-essalud-redujo-en-un-50-el-embalse-de-cirugias-postergadas",
+              "label": "Nota institucional oficial EsSalud [255]"
+            },
+            {
+              "url": "https://medicina.usmp.edu.pe/wp-content/uploads/silabos/silabos-2020-2/10_ciclo/SILABO_CIRUGIA_DEL_APARATO_LOCOMOTOR_2020-II.pdf",
+              "label": "Documento universitario USMP [256]"
+            },
+            {
+              "url": "https://www.spotrauma.org/sites/default/files/Programa%2054%20Congreso%20SPOT%202024.pdf",
+              "label": "Programa científico primario SPOT, 20 septiembre 2024 [257]"
+            },
+            {
+              "url": "https://cmp.org.pe/wp-content/uploads/2023/11/Padron-Reducido-y-Medicos-con-correos-institucionales-habiles.pdf",
+              "label": "Registro profesional oficial histórico [258]"
+            }
+          ]
+        },
+        {
+          "name": "Rodrigo Andres Vallejos Meléndez",
+          "category": "Perfil IPOT individual reabierto; área ajena a columna o general",
+          "profile": "medico-066927",
+          "prior_sources": [
+            {
+              "url": "https://www.crp.com.pe/medicos/vallejos-melendez-rodrigo-andres/",
+              "label": "Clínica Ricardo Palma [141]"
+            },
+            {
+              "url": "https://www.clinicasanfelipe.com/medicos/rodrigo-andres-vallejos-melendez",
+              "label": "Clínica San Felipe [142]"
+            },
+            {
+              "url": "https://www.crp.com.pe/medicos/vallejos-melendez-rodrigo-andres/",
+              "label": "Clínica Ricardo Palma [141]"
+            },
+            {
+              "url": "https://www.clinicasanfelipe.com/medicos/rodrigo-andres-vallejos-melendez",
+              "label": "Clínica San Felipe [142]"
+            },
+            {
+              "url": "https://www.crp.com.pe/medicos/vallejos-melendez-rodrigo-andres/",
+              "label": "Clínica Ricardo Palma [141]"
+            }
+          ]
+        },
+        {
+          "name": "Raul Edilberto Gutierrez Segura",
+          "category": "Perfil IPOT individual reabierto; área ajena a columna o general",
+          "profile": "medico-010826",
+          "prior_sources": [
+            {
+              "url": "https://www.crp.com.pe/medicos/gutierrez-segura-raul-edilberto/",
+              "label": "Clínica Ricardo Palma [64]"
+            },
+            {
+              "url": "https://www.crp.com.pe/medicos/gutierrez-segura-raul-edilberto/",
+              "label": "Clínica Ricardo Palma [64]"
+            },
+            {
+              "url": "https://www.crp.com.pe/medicos/gutierrez-segura-raul-edilberto/",
+              "label": "Clínica Ricardo Palma [64]"
+            },
+            {
+              "url": "https://www.crp.com.pe/medicos/gutierrez-segura-raul-edilberto/",
+              "label": "Clínica Ricardo Palma [64]"
+            },
+            {
+              "url": "https://www.crp.com.pe/medicos/gutierrez-segura-raul-edilberto/",
+              "label": "Clínica Ricardo Palma [64]"
+            },
+            {
+              "url": "https://www.crp.com.pe/medicos/gutierrez-segura-raul-edilberto/",
+              "label": "Clínica Ricardo Palma [64]"
+            },
+            {
+              "url": "https://www.crp.com.pe/medicos/gutierrez-segura-raul-edilberto/",
+              "label": "Clínica Ricardo Palma [64]"
+            }
+          ]
+        },
+        {
+          "name": "Carlos Hernan Arellano Mifflin",
+          "category": "Cribado en dossier de 60; no vínculo específico adulto/postural nuevo documentado",
+          "profile": "medico-016914",
+          "prior_sources": [
+            {
+              "url": "https://www.crp.com.pe/medicos/arellano-mifflin-carlos-hernan/",
+              "label": "Clínica Ricardo Palma [4]"
+            },
+            {
+              "url": "https://www.crp.com.pe/medicos/arellano-mifflin-carlos-hernan/",
+              "label": "Clínica Ricardo Palma [4]"
+            },
+            {
+              "url": "https://cdn.www.gob.pe/uploads/document/file/997103/RESOLUCION_N_1693-2019-TCE-S2__RECURSO_APELACION_.compressed20200711-20664-1n7kshs.pdf",
+              "label": "Documento oficial gob.pe [5]"
+            },
+            {
+              "url": "https://www.crp.com.pe/medicos/arellano-mifflin-carlos-hernan/",
+              "label": "Clínica Ricardo Palma [4]"
+            },
+            {
+              "url": "https://www.crp.com.pe/medicos/arellano-mifflin-carlos-hernan/",
+              "label": "Clínica Ricardo Palma [4]"
+            }
+          ]
+        },
+        {
+          "name": "Luis Adger Soto Rios",
+          "category": "Revisión previa de 12 conservada; no repetida sin aporte",
+          "profile": "medico-077008",
+          "prior_sources": [
+            {
+              "url": "https://medicina.usmp.edu.pe/wp-content/uploads/posgrado/segunda-especialidad/admision/2022/RELACION-FINAL-POSTULANTES-APTOS.pdf",
+              "label": "Documento universitario oficial USMP [259]"
+            },
+            {
+              "url": "https://www.gob.pe/institucion/hospitalloayza/normas-legales/5435871-283-2024-hnal-op",
+              "label": "Resolución hospitalaria oficial 283-2024-HNAL-OP [260]"
+            },
+            {
+              "url": "https://www.gob.pe/institucion/hospitalloayza/normas-legales/6734498-248-2025-hnal-op",
+              "label": "Resolución hospitalaria oficial 248-2025-HNAL-OP [261]"
+            },
+            {
+              "url": "https://alicia.concytec.gob.pe/vufind/Record/USMP_0d635e8e985b7fd738424c677543b876/Details",
+              "label": "Registro nacional ALICIA con metadatos USMP; originales no accesibles [262]"
+            }
+          ]
+        },
+        {
+          "name": "Marco Antonio Vera Arias",
+          "category": "Cribado en dossier de 60; no vínculo específico adulto/postural nuevo documentado",
+          "profile": "medico-050254",
+          "prior_sources": [
+            {
+              "url": "https://www.crp.com.pe/medicos/vera-arias-marco-antonio/",
+              "label": "Clínica Ricardo Palma [145]"
+            },
+            {
+              "url": "https://www.crp.com.pe/medicos/vera-arias-marco-antonio/",
+              "label": "Clínica Ricardo Palma [145]"
+            },
+            {
+              "url": "https://www.crp.com.pe/medicos/vera-arias-marco-antonio/",
+              "label": "Clínica Ricardo Palma [145]"
+            }
+          ]
+        },
+        {
+          "name": "Norman Pavel Soriano Soriano",
+          "category": "Revisión previa de 12 conservada; no repetida sin aporte",
+          "profile": "medico-064601",
+          "prior_sources": [
+            {
+              "url": "https://medicina.unmsm.edu.pe/wp-content/uploads/2021/08/ACTA_11_S.O_18.8.2016.pdf",
+              "label": "Documento universitario primario, sección 2.15, renglón 402 [263]"
+            },
+            {
+              "url": "https://www.insn.gob.pe/sites/default/files/transparencia/contrataciones/BIENES%20Y%20SERVICIOS%20FEB-2024.pdf",
+              "label": "Documentos contractuales oficiales INSN [264]"
+            },
+            {
+              "url": "https://www.hcllh.gob.pe/wp-content/uploads/2021/12/M%C3%A9dico-Especialista-Traumatologia.pdf",
+              "label": "Resultado oficial de concurso hospitalario [265]"
+            },
+            {
+              "url": "https://www.spotrauma.org/sites/default/files/Programa%2054%20Congreso%20SPOT%202024.pdf",
+              "label": "Programa científico primario SPOT; identidad abreviada con límite explícito [257]"
+            },
+            {
+              "url": "https://www.cmp.org.pe/wp-content/uploads/2023/11/Padron-General.pdf",
+              "label": "Registro profesional oficial histórico [266]"
+            },
+            {
+              "url": "https://www.essalud.gob.pe/ietsi/pdfs/directivas/DICT_054_SDEPFYOTS_DETS_IETSI_2018.pdf",
+              "label": "Referencia bibliográfica en publicación institucional oficial, página física 37 [267]"
+            }
+          ]
+        },
+        {
+          "name": "Jimmy Chavez Pichardo",
+          "category": "Cribado en dossier de 60; no vínculo específico adulto/postural nuevo documentado",
+          "profile": "medico-075098",
+          "prior_sources": [
+            {
+              "url": "https://www.crp.com.pe/medicos/chavez-pichardo-jimmy/",
+              "label": "Clínica Ricardo Palma [34]"
+            },
+            {
+              "url": "https://www.crp.com.pe/medicos/chavez-pichardo-jimmy/",
+              "label": "Clínica Ricardo Palma [34]"
+            },
+            {
+              "url": "https://www.crp.com.pe/medicos/chavez-pichardo-jimmy/",
+              "label": "Clínica Ricardo Palma [34]"
+            }
+          ]
+        },
+        {
+          "name": "Alfonso Lazo Davila",
+          "category": "Perfil IPOT individual reabierto; área ajena a columna o general",
+          "profile": "medico-025149",
+          "prior_sources": [
+            {
+              "url": "https://www.crp.com.pe/medicos/lazo-davila-alfonso/",
+              "label": "Clínica Ricardo Palma [74]"
+            },
+            {
+              "url": "https://www.doctoralia.pe/perfil/alfonso-lazo-davila",
+              "label": "doctoralia.pe [75]"
+            },
+            {
+              "url": "https://www.crp.com.pe/medicos/lazo-davila-alfonso/",
+              "label": "Clínica Ricardo Palma [74]"
+            },
+            {
+              "url": "https://www.crp.com.pe/medicos/lazo-davila-alfonso/",
+              "label": "Clínica Ricardo Palma [74]"
+            },
+            {
+              "url": "https://www.crp.com.pe/medicos/lazo-davila-alfonso/",
+              "label": "Clínica Ricardo Palma [74]"
+            },
+            {
+              "url": "https://www.crp.com.pe/medicos/lazo-davila-alfonso/",
+              "label": "Clínica Ricardo Palma [74]"
+            }
+          ]
+        },
+        {
+          "name": "Carlos Alberto Paredes Tuesta",
+          "category": "Cribado en dossier de 60; no vínculo específico adulto/postural nuevo documentado",
+          "profile": "medico-062281",
+          "prior_sources": [
+            {
+              "url": "https://www.crp.com.pe/medicos/paredes-tuesta-carlos-alberto/",
+              "label": "Clínica Ricardo Palma [118]"
+            },
+            {
+              "url": "https://www.crp.com.pe/medicos/paredes-tuesta-carlos-alberto/",
+              "label": "Clínica Ricardo Palma [118]"
+            },
+            {
+              "url": "https://www.crp.com.pe/medicos/paredes-tuesta-carlos-alberto/",
+              "label": "Clínica Ricardo Palma [118]"
+            }
+          ]
+        },
+        {
+          "name": "Luis Roberto Neira Granados",
+          "category": "Finalista recomendado; auditoría profunda",
+          "profile": "medico-057129",
+          "prior_sources": [
+            {
+              "url": "https://spotrauma.org/?q=node/460",
+              "label": "SPOT · programa2021 [236]"
+            },
+            {
+              "url": "https://www.crp.com.pe/medicos/neira-granados-luis-alberto/",
+              "label": "Clínica Ricardo Palma [86]"
+            },
+            {
+              "url": "https://usmp.edu.pe/pdf/2019/cu_17_de_abril_de_2019_sesion_extraordinaria.pdf?page=1",
+              "label": "usmp.edu.pe [87]"
+            },
+            {
+              "url": "https://aosla.com.br/report2019/wp-content/uploads/2020/02/FELLOWS-Participants-2019.pdf",
+              "label": "aosla.com.br [88]"
+            },
+            {
+              "url": "https://www.crp.com.pe/medicos/neira-granados-luis-alberto/",
+              "label": "Clínica Ricardo Palma [86]"
+            },
+            {
+              "url": "https://ipot-crp.pe/staff/medico/neira_granados_luis_roberto",
+              "label": "IPOT–CRP [89]"
+            },
+            {
+              "url": "https://www.gob.pe/institucion/insnsb/normas-legales/7776177-000086-2026-uad-insnsb",
+              "label": "Portal oficial gob.pe [90]"
+            },
+            {
+              "url": "https://es.linkedin.com/posts/rosalynmneyra_orgulloci-ucme-juntoscuidamosvidas-activity-7131025191882625025-I7jF",
+              "label": "es.linkedin.com [91]"
+            },
+            {
+              "url": "https://linktr.ee/spine.orthopedic",
+              "label": "linktr.ee [92]"
+            },
+            {
+              "url": "https://cirugiaexperimental.insnsb.gob.pe/wp-content/uploads/2020/03/Abril_10_11.pdf",
+              "label": "cirugiaexperimental.insnsb.gob.pe [93]"
+            },
+            {
+              "url": "https://aspecive.com/2do-webinar-escoliosis-ideopatica-del-adolescente-4-marzo/",
+              "label": "ASPECIVE [94]"
+            },
+            {
+              "url": "https://spotrauma.org/?q=content%2Foctubre-para-residentes-manejo-de-las-fracturas-osteoporoticas-en-columna-vertebral",
+              "label": "spotrauma.org [95]"
+            },
+            {
+              "url": "https://spotrauma.org/Programa_congreso_virtual_51_congreso_virtual_2021.pdf",
+              "label": "spotrauma.org [96]"
+            },
+            {
+              "url": "https://alicia.concytec.gob.pe/vufind/Record/USMP_9377b046fef3c7b4ac21c3e1f5b65ffa",
+              "label": "CONCYTEC / ALICIA [97]"
+            },
+            {
+              "url": "https://alicia.concytec.gob.pe/vufind/Record/USMP_9377b046fef3c7b4ac21c3e1f5b65ffa",
+              "label": "CONCYTEC / ALICIA [97]"
+            },
+            {
+              "url": "https://pe.linkedin.com/in/luis-neira-978913259",
+              "label": "Abrir perfil o referencia LinkedIn"
+            },
+            {
+              "url": "https://www.crp.com.pe/medicos/neira-granados-luis-alberto/",
+              "label": "Clínica Ricardo Palma [86]"
+            },
+            {
+              "url": "https://aosla.com.br/report2019/wp-content/uploads/2020/02/FELLOWS-Participants-2019.pdf",
+              "label": "aosla.com.br [88]"
+            },
+            {
+              "url": "https://hdl.handle.net/20.500.12727/4648",
+              "label": "hdl.handle.net [98]"
+            },
+            {
+              "url": "https://bibliotecavirtual.insnsb.gob.pe/guia-de-practica-clinica-para-el-diagnostico-y-el-tratamiento-de-escoliosis-idiopatica-traumatologia/",
+              "label": "bibliotecavirtual.insnsb.gob.pe [99]"
+            }
+          ]
+        },
+        {
+          "name": "Roberto Felipe Soto Rodriguez",
+          "category": "Cribado en dossier de 60; no vínculo específico adulto/postural nuevo documentado",
+          "profile": "medico-018199",
+          "prior_sources": [
+            {
+              "url": "https://ipot-crp.pe/staff/medico/soto_rodriguez_roberto",
+              "label": "IPOT–CRP · Soto Rodríguez [239]"
+            },
+            {
+              "url": "https://www.crp.com.pe/medicos/soto-rodriguez-roberto-felipe/",
+              "label": "Clínica Ricardo Palma [134]"
+            },
+            {
+              "url": "https://www.crp.com.pe/medicos/soto-rodriguez-roberto-felipe/",
+              "label": "Clínica Ricardo Palma [134]"
+            },
+            {
+              "url": "https://www.crp.com.pe/medicos/soto-rodriguez-roberto-felipe/",
+              "label": "Clínica Ricardo Palma [134]"
+            },
+            {
+              "url": "https://www.crp.com.pe/medicos/soto-rodriguez-roberto-felipe/",
+              "label": "Clínica Ricardo Palma [134]"
+            },
+            {
+              "url": "https://www.crp.com.pe/medicos/soto-rodriguez-roberto-felipe/",
+              "label": "Clínica Ricardo Palma [134]"
+            },
+            {
+              "url": "https://www.crp.com.pe/medicos/soto-rodriguez-roberto-felipe/",
+              "label": "Clínica Ricardo Palma [134]"
+            }
+          ]
+        },
+        {
+          "name": "Carlos Augusto Del Carpio Salas",
+          "category": "Revisión previa de 12 conservada; no repetida sin aporte",
+          "profile": "medico-079553",
+          "prior_sources": [
+            {
+              "url": "https://ucsm.edu.pe/bachilleres-en-medicina-recibieron-diplomas/",
+              "label": "UCSM: bachilleres 2017 [268]"
+            },
+            {
+              "url": "https://repositorio.ucsm.edu.pe/server/api/core/bitstreams/4127a6f8-1490-44d7-8aff-1173ab6b4df2/content",
+              "label": "UCSM: tesis medicina 2017 [269]"
+            },
+            {
+              "url": "https://www.conareme.org.pe/web/Documentos/Admision2022/Relacion%20final%20de%20ingresantes%2030.06.2022.pdf",
+              "label": "CONAREME: ingresantes 2022 [270]"
+            },
+            {
+              "url": "https://www.unfv.edu.pe/transparencia_estandar/Datos_Generales/Normas_Emitidas/Resoluciones/VRAC/2026/Resolucion_Vrac_Nro_1796_2026_UNFV.pdf",
+              "label": "UNFV: resolución 2026 [271]"
+            },
+            {
+              "url": "https://repositorio.ucsm.edu.pe/server/api/core/bitstreams/4127a6f8-1490-44d7-8aff-1173ab6b4df2/content",
+              "label": "UCSM: tesis 2017 [269]"
+            }
+          ]
+        },
+        {
+          "name": "Jorge Martin Salvador Artica",
+          "category": "Cribado en dossier de 60; no vínculo específico adulto/postural nuevo documentado",
+          "profile": "medico-056540",
+          "prior_sources": [
+            {
+              "url": "https://www.crp.com.pe/medicos/salvador-artica-jorge-martin/",
+              "label": "Clínica Ricardo Palma [128]"
+            },
+            {
+              "url": "https://drsalvadorcirujanocaderayrodilla.com/dr-jorge-martin-salvador-artica/",
+              "label": "drsalvadorcirujanocaderayrodilla.com [129]"
+            },
+            {
+              "url": "https://www.crp.com.pe/medicos/salvador-artica-jorge-martin/",
+              "label": "Clínica Ricardo Palma [128]"
+            },
+            {
+              "url": "https://www.crp.com.pe/medicos/salvador-artica-jorge-martin/",
+              "label": "Clínica Ricardo Palma [128]"
+            }
+          ]
+        },
+        {
+          "name": "Lidia Del Carmen Maza Godos",
+          "category": "Revisión previa de 12 conservada; no repetida sin aporte",
+          "profile": "medico-062130",
+          "prior_sources": [
+            {
+              "url": "https://www.conareme.org.pe/web/Documentos/Admision2013/INGRESANTES%202013.pdf",
+              "label": "CONAREME: ingresantes 2013 [272]"
+            },
+            {
+              "url": "https://pe.linkedin.com/in/lidia-del-carmen-maza-godos-810bba200",
+              "label": "LinkedIn: autodeclaración [273]"
+            },
+            {
+              "url": "https://ipot-crp.com/staff/medico/Lidia_del_Carnen_Maza",
+              "label": "IPOT-CRP: perfil institucional [274]"
+            },
+            {
+              "url": "https://www.essalud.gob.pe/essalud-la-libertad-extirpan-tumor-en-hombro-y-reconstruyen-articulacion/",
+              "label": "EsSalud: participación hombro adulto [275]"
+            }
+          ]
+        },
+        {
+          "name": "Juan Carlos Camayo Guerreros",
+          "category": "Cribado en dossier de 60; no vínculo específico adulto/postural nuevo documentado",
+          "profile": "medico-056465",
+          "prior_sources": [
+            {
+              "url": "https://ipot-crp.pe/staff/medico/GUERREROS_CAMAYO_JUAN_CARLOS",
+              "label": "IPOT–CRP · Camayo [237]"
+            },
+            {
+              "url": "https://www.crp.com.pe/medicos/camayo-guerrero-juan-carlos/",
+              "label": "Clínica Ricardo Palma [26]"
+            },
+            {
+              "url": "https://www.crp.com.pe/medicos/camayo-guerrero-juan-carlos/",
+              "label": "Clínica Ricardo Palma [26]"
+            },
+            {
+              "url": "https://www.crp.com.pe/medicos/camayo-guerrero-juan-carlos/",
+              "label": "Clínica Ricardo Palma [26]"
+            }
+          ]
+        },
+        {
+          "name": "Henry Willy Deza Palle",
+          "category": "Perfil IPOT individual reabierto; área ajena a columna o general",
+          "profile": "medico-039705",
+          "prior_sources": [
+            {
+              "url": "https://www.crp.com.pe/medicos/deza-palle-henry-willy/",
+              "label": "Clínica Ricardo Palma [54]"
+            },
+            {
+              "url": "https://www.crp.com.pe/medicos/deza-palle-henry-willy/",
+              "label": "Clínica Ricardo Palma [54]"
+            },
+            {
+              "url": "https://www.crp.com.pe/medicos/deza-palle-henry-willy/",
+              "label": "Clínica Ricardo Palma [54]"
+            }
+          ]
+        },
+        {
+          "name": "Samuel Ricardo Jose Barrantes Durand",
+          "category": "Perfil IPOT individual reabierto; área ajena a columna o general",
+          "profile": "medico-064045",
+          "prior_sources": [
+            {
+              "url": "https://www.crp.com.pe/medicos/barrantes-durand-samuel-ricardo-jose/",
+              "label": "Clínica Ricardo Palma [6]"
+            },
+            {
+              "url": "https://www.crp.com.pe/medicos/barrantes-durand-samuel-ricardo-jose/",
+              "label": "Clínica Ricardo Palma [6]"
+            },
+            {
+              "url": "https://stellamaris.com.pe/medico/807",
+              "label": "stellamaris.com.pe [7]"
+            },
+            {
+              "url": "https://www.crp.com.pe/medicos/barrantes-durand-samuel-ricardo-jose/",
+              "label": "Clínica Ricardo Palma [6]"
+            }
+          ]
+        },
+        {
+          "name": "Franco Eliser Tocas Caceres",
+          "category": "Revisión previa de 12 conservada; no repetida sin aporte",
+          "profile": "medico-049888",
+          "prior_sources": [
+            {
+              "url": "https://portal.regioncajamarca.gob.pe/sites/default/files/documentos/documentos/RER-496-2014-GR.CAJ_.P.PDF",
+              "label": "Gobierno Regional Cajamarca: residentado 2014 [276]"
+            },
+            {
+              "url": "https://www.clinicasanfelipe.com/medicos/franco-eliser-tocas-caceres",
+              "label": "Clínica San Felipe: perfil institucional [277]"
+            },
+            {
+              "url": "https://ipot-crp.com/staff",
+              "label": "IPOT-CRP: staff [251]"
+            },
+            {
+              "url": "https://cdn.www.gob.pe/uploads/document/file/8146878/6821942-rd-126-2025-dg-hejcu.pdf",
+              "label": "HEJCU: antecedente laboral [278]"
+            },
+            {
+              "url": "https://file.urp.edu.pe/file-urp-20251006-123016-228-22468e3fca8a7036.pdf",
+              "label": "URP: sílabo 2025-II [279]"
+            },
+            {
+              "url": "https://spotrauma.org/?q=node/551",
+              "label": "SPOT: membresía histórica [47]"
+            }
+          ]
+        },
+        {
+          "name": "Luis Leoncio Temoche Diaz",
+          "category": "Perfil IPOT individual reabierto; área ajena a columna o general",
+          "profile": "medico-056538",
+          "prior_sources": [
+            {
+              "url": "https://www.crp.com.pe/medicos/temoche-diaz-luis-leoncio/",
+              "label": "Clínica Ricardo Palma [138]"
+            },
+            {
+              "url": "https://www.crp.com.pe/medicos/temoche-diaz-luis-leoncio/",
+              "label": "Clínica Ricardo Palma [138]"
+            },
+            {
+              "url": "https://www.crp.com.pe/medicos/temoche-diaz-luis-leoncio/",
+              "label": "Clínica Ricardo Palma [138]"
+            }
+          ]
+        },
+        {
+          "name": "Michael Cristhoper Diaz Palacios",
+          "category": "Cribado en dossier de 60; no vínculo específico adulto/postural nuevo documentado",
+          "profile": "medico-054228",
+          "prior_sources": [
+            {
+              "url": "https://www.crp.com.pe/medicos/diaz-palacios-michael-cristhoper/",
+              "label": "Clínica Ricardo Palma [55]"
+            },
+            {
+              "url": "https://www.crp.com.pe/medicos/diaz-palacios-michael-cristhoper/",
+              "label": "Clínica Ricardo Palma [55]"
+            },
+            {
+              "url": "https://www.crp.com.pe/medicos/diaz-palacios-michael-cristhoper/",
+              "label": "Clínica Ricardo Palma [55]"
+            },
+            {
+              "url": "https://www.crp.com.pe/medicos/diaz-palacios-michael-cristhoper/",
+              "label": "Clínica Ricardo Palma [55]"
+            }
+          ]
+        },
+        {
+          "name": "Jessica Pamela Quispe Arapa",
+          "category": "Perfil IPOT individual reabierto; área ajena a columna o general",
+          "profile": "medico-065949",
+          "prior_sources": [
+            {
+              "url": "https://www.crp.com.pe/medicos/quispe-arapa-jessica-pamela/",
+              "label": "Clínica Ricardo Palma [122]"
+            },
+            {
+              "url": "https://www.crp.com.pe/medicos/quispe-arapa-jessica-pamela/",
+              "label": "Clínica Ricardo Palma [122]"
+            },
+            {
+              "url": "https://www.crp.com.pe/medicos/quispe-arapa-jessica-pamela/",
+              "label": "Clínica Ricardo Palma [122]"
+            }
+          ]
+        },
+        {
+          "name": "Christian Antonio Lopez Araujo",
+          "category": "Cribado en dossier de 60; no vínculo específico adulto/postural nuevo documentado",
+          "profile": "medico-067035",
+          "prior_sources": [
+            {
+              "url": "https://www.crp.com.pe/medicos/lopez-araujo-christian-antonio/",
+              "label": "Clínica Ricardo Palma [76]"
+            },
+            {
+              "url": "https://www.crp.com.pe/medicos/lopez-araujo-christian-antonio/",
+              "label": "Clínica Ricardo Palma [76]"
+            },
+            {
+              "url": "https://www.crp.com.pe/medicos/lopez-araujo-christian-antonio/",
+              "label": "Clínica Ricardo Palma [76]"
+            }
+          ]
+        },
+        {
+          "name": "Wagner Abel Cruzado Cruz",
+          "category": "Proyecto EIA; sin resultados ni prioridad adulta acreditada",
+          "profile": "medico-081884",
+          "prior_sources": [
+            {
+              "url": "https://www.conareme.org.pe/web/Documentos/Admision2022/Relacion%20final%20de%20ingresantes%2030.06.2022.pdf",
+              "label": "CONAREME: ingresantes 2022 [270]"
+            },
+            {
+              "url": "https://www.urp.edu.pe/pdf/id/30426/n/universidad-relacion-final-de-postulantes-05-06-2021-23-29-55-urp.pdf",
+              "label": "URP: CMP histórico 2021 [280]"
+            },
+            {
+              "url": "https://www.aspefam.org.pe/enam/enam2017/aptos_enam2017.pdf",
+              "label": "ASPEFAM: aptos 2017 [281]"
+            },
+            {
+              "url": "https://ipot-crp.com/staff",
+              "label": "IPOT-CRP: staff [251]"
+            },
+            {
+              "url": "https://vesalio.com.pe/wp-content/uploads/2025/12/Horarios-medicos-Diciembre-25.pdf",
+              "label": "Vesalio: horario 2025 [282]"
+            },
+            {
+              "url": "https://repositorio.urp.edu.pe/bitstreams/80756584-6531-47b6-ace0-7838ae01f586/download",
+              "label": "URP: proyecto de escoliosis 2025 [283]"
+            },
+            {
+              "url": "https://alicia.concytec.gob.pe/vufind/index.php/Record/URPU_6d4325fa3483ed2b38371904311f003e/Details",
+              "label": "ALICIA/CONCYTEC: metadatos y resumen [284]"
+            }
+          ]
+        },
+        {
+          "name": "Eytyl Alfredo Jimenez Guevara",
+          "category": "Otro candidato de columna; auditoría profunda",
+          "profile": "medico-038407",
+          "prior_sources": [
+            {
+              "url": "https://www.crp.com.pe/medicos/jimenez-guevara-eytyl-alfredo/",
+              "label": "Clínica Ricardo Palma [69]"
+            },
+            {
+              "url": "https://ipot-crp.pe/staff/medico/eytyl_jimenez_guevara",
+              "label": "IPOT–CRP [70]"
+            },
+            {
+              "url": "https://www.crp.com.pe/medicos/jimenez-guevara-eytyl-alfredo/",
+              "label": "Clínica Ricardo Palma [69]"
+            },
+            {
+              "url": "https://ipot-crp.pe/staff/medico/eytyl_jimenez_guevara",
+              "label": "IPOT–CRP [70]"
+            },
+            {
+              "url": "https://clinicalaluz.pe/profile/dr-eytyl-alfredo-jimenez-guevara/",
+              "label": "clinicalaluz.pe [71]"
+            },
+            {
+              "url": "https://aspecive.com/wp-content/uploads/LISTA-DE-MIEMBROS-HABILES-WEB.pdf",
+              "label": "ASPECIVE [22]"
+            },
+            {
+              "url": "https://aspecive.com/ivcongreso-programa/",
+              "label": "ASPECIVE [72]"
+            },
+            {
+              "url": "https://spotrauma.org/sites/default/files/Programa%2054%20Congreso%20SPOT%202024.pdf",
+              "label": "spotrauma.org [73]"
+            },
+            {
+              "url": "https://www.spotrauma.org/?q=content%2Fprograma-cient%C3%ADfico-del-cap%C3%ADtulo-de-columna-vertebral",
+              "label": "spotrauma.org [24]"
+            },
+            {
+              "url": "https://ipot-crp.pe/staff/medico/eytyl_jimenez_guevara",
+              "label": "IPOT–CRP [70]"
+            },
+            {
+              "url": "https://spotrauma.org/sites/default/files/Programa%2054%20Congreso%20SPOT%202024.pdf",
+              "label": "spotrauma.org [73]"
+            },
+            {
+              "url": "https://aspecive.com/ivcongreso-programa/",
+              "label": "ASPECIVE [72]"
+            }
+          ]
+        },
+        {
+          "name": "Yosip Leonardo Becerra Mondragon",
+          "category": "Revisión previa de 12 conservada; no repetida sin aporte",
+          "profile": "medico-070923",
+          "prior_sources": [
+            {
+              "url": "https://repositorio.unprg.edu.pe/handle/20.500.12893/552",
+              "label": "UNPRG: tesis profesional de medicina, 2015 [285]"
+            },
+            {
+              "url": "https://www.conareme.org.pe/web/Documentos/Admision2022/RELACION%20DE%20INGRESANTES%2016.06.2022.pdf",
+              "label": "CONAREME: ingreso UPCH / Loayza, 2022 [286]"
+            },
+            {
+              "url": "https://medicina.unmsm.edu.pe/wp-content/uploads/2021/08/acta_24_so_27_12_2017.pdf",
+              "label": "UNMSM: acta de diciembre de 2017, acuerdo 628 [287]"
+            },
+            {
+              "url": "https://repositorio.upch.edu.pe/bitstream/handle/20.500.12866/17056/Resultados_BecerraMondragon_Yosip.pdf?isAllowed=y&sequence=1",
+              "label": "UPCH: proyecto académico de LCA / rodilla, 2025 [288]"
+            }
+          ]
+        },
+        {
+          "name": "Jorge Manuel Sanchez Azabache",
+          "category": "Perfil IPOT individual reabierto; área ajena a columna o general",
+          "profile": "medico-011301",
+          "prior_sources": [
+            {
+              "url": "https://www.crp.com.pe/medicos/sanchez-azabache-jorge-manuel/",
+              "label": "Clínica Ricardo Palma [130]"
+            },
+            {
+              "url": "https://www.crp.com.pe/medicos/sanchez-azabache-jorge-manuel/",
+              "label": "Clínica Ricardo Palma [130]"
+            },
+            {
+              "url": "https://www.crp.com.pe/medicos/sanchez-azabache-jorge-manuel/",
+              "label": "Clínica Ricardo Palma [130]"
+            },
+            {
+              "url": "https://www.crp.com.pe/medicos/sanchez-azabache-jorge-manuel/",
+              "label": "Clínica Ricardo Palma [130]"
+            },
+            {
+              "url": "https://www.crp.com.pe/medicos/sanchez-azabache-jorge-manuel/",
+              "label": "Clínica Ricardo Palma [130]"
+            },
+            {
+              "url": "https://www.crp.com.pe/medicos/sanchez-azabache-jorge-manuel/",
+              "label": "Clínica Ricardo Palma [130]"
+            },
+            {
+              "url": "https://pe.linkedin.com/in/jorge-manuel-sanchez-azabache-b720943a",
+              "label": "Abrir perfil o referencia LinkedIn"
+            },
+            {
+              "url": "https://www.crp.com.pe/medicos/sanchez-azabache-jorge-manuel/",
+              "label": "Clínica Ricardo Palma [130]"
+            }
+          ]
+        },
+        {
+          "name": "Baldwin Luis Angelino Espinoza",
+          "category": "Perfil IPOT individual reabierto; área ajena a columna o general",
+          "profile": "medico-031409",
+          "prior_sources": [
+            {
+              "url": "https://www.crp.com.pe/medicos/angelino-espinoza-baldwin-luis/",
+              "label": "Clínica Ricardo Palma [3]"
+            },
+            {
+              "url": "https://www.crp.com.pe/medicos/angelino-espinoza-baldwin-luis/",
+              "label": "Clínica Ricardo Palma [3]"
+            },
+            {
+              "url": "https://www.crp.com.pe/medicos/angelino-espinoza-baldwin-luis/",
+              "label": "Clínica Ricardo Palma [3]"
+            },
+            {
+              "url": "https://www.crp.com.pe/medicos/angelino-espinoza-baldwin-luis/",
+              "label": "Clínica Ricardo Palma [3]"
+            }
+          ]
+        },
+        {
+          "name": "Jorge Luis Chapilliquen Querevalu",
+          "category": "Cribado en dossier de 60; no vínculo específico adulto/postural nuevo documentado",
+          "profile": "medico-081562",
+          "prior_sources": [
+            {
+              "url": "https://www.crp.com.pe/medicos/chapilliquen-querevalu-jorge-luis/",
+              "label": "Clínica Ricardo Palma [33]"
+            },
+            {
+              "url": "https://www.crp.com.pe/medicos/chapilliquen-querevalu-jorge-luis/",
+              "label": "Clínica Ricardo Palma [33]"
+            },
+            {
+              "url": "https://www.crp.com.pe/medicos/chapilliquen-querevalu-jorge-luis/",
+              "label": "Clínica Ricardo Palma [33]"
+            }
+          ]
+        },
+        {
+          "name": "Carlos Marcelo Palacios Malpica",
+          "category": "Cribado en dossier de 60; no vínculo específico adulto/postural nuevo documentado",
+          "profile": "medico-072010",
+          "prior_sources": [
+            {
+              "url": "https://www.crp.com.pe/medicos/palacios-malpica-carlos-marcelo/",
+              "label": "Clínica Ricardo Palma [116]"
+            },
+            {
+              "url": "https://www.crp.com.pe/medicos/palacios-malpica-carlos-marcelo/",
+              "label": "Clínica Ricardo Palma [116]"
+            },
+            {
+              "url": "https://cdn.www.gob.pe/uploads/document/file/6270695/5515508-rsg-021-2024-sg.pdf",
+              "label": "Documento oficial gob.pe [117]"
+            },
+            {
+              "url": "https://www.crp.com.pe/medicos/palacios-malpica-carlos-marcelo/",
+              "label": "Clínica Ricardo Palma [116]"
+            }
+          ]
+        },
+        {
+          "name": "Ramiro Cieza Ojeda",
+          "category": "Alternativa fuerte; auditoría profunda",
+          "profile": "medico-055819",
+          "prior_sources": [
+            {
+              "url": "https://cursosilaco.aspecive.com/wp-content/uploads/27ene24-12ene24.pdf",
+              "label": "SILACO–ASPECIVE · programa de deformidades [46]"
+            },
+            {
+              "url": "https://www.crp.com.pe/medicos/cieza-ojeda-ramiro/",
+              "label": "Clínica Ricardo Palma [35]"
+            },
+            {
+              "url": "https://ipot-crp.pe/staff/medico/Ramiro_Cieza_Ojeda",
+              "label": "IPOT–CRP [36]"
+            },
+            {
+              "url": "https://www.drciezatraumatologia.com/sobre-mi.php",
+              "label": "drciezatraumatologia.com [37]"
+            },
+            {
+              "url": "https://www.urp.edu.pe/pdf/id/28684/n/sesion-virtual-21-de-enero-de-2021",
+              "label": "Universidad Ricardo Palma [38]"
+            },
+            {
+              "url": "https://es.linkedin.com/posts/institutoclavel_en-agosto-damos-la-bienvenida-a-nuestro-programa-activity-6962679427176493056-crVS",
+              "label": "es.linkedin.com [39]"
+            },
+            {
+              "url": "https://www.doctoralia.pe/perfil/ramiro-cieza-ojeda",
+              "label": "doctoralia.pe [40]"
+            },
+            {
+              "url": "https://www.linkedin.com/in/drcieza/",
+              "label": "LinkedIn [41]"
+            },
+            {
+              "url": "https://www.crp.com.pe/medicos/cieza-ojeda-ramiro/",
+              "label": "Clínica Ricardo Palma [35]"
+            },
+            {
+              "url": "https://ipot-crp.pe/staff/medico/Ramiro_Cieza_Ojeda",
+              "label": "IPOT–CRP [36]"
+            },
+            {
+              "url": "https://www.drciezatraumatologia.com/sobre-mi.php",
+              "label": "drciezatraumatologia.com [37]"
+            },
+            {
+              "url": "https://www.insn.gob.pe/sites/default/files/transparencia/contrataciones/BIENES%20Y%20SERVICIOS%20NOV-2023.pdf",
+              "label": "insn.gob.pe [42]"
+            },
+            {
+              "url": "https://sccot.org/wp-content/uploads/2026/02/EP-34.pdf",
+              "label": "sccot.org [43]"
+            },
+            {
+              "url": "https://www.drciezatraumatologia.com/",
+              "label": "drciezatraumatologia.com [44]"
+            },
+            {
+              "url": "https://www.linkedin.com/in/drcieza/",
+              "label": "LinkedIn [41]"
+            },
+            {
+              "url": "https://cursosilaco.aspecive.com/",
+              "label": "cursosilaco.aspecive.com [45]"
+            },
+            {
+              "url": "https://cursosilaco.aspecive.com/wp-content/uploads/27ene24-12ene24.pdf",
+              "label": "cursosilaco.aspecive.com [46]"
+            },
+            {
+              "url": "https://aspecive.com/wp-content/uploads/LISTA-DE-MIEMBROS-HABILES-WEB.pdf",
+              "label": "ASPECIVE [22]"
+            },
+            {
+              "url": "https://www.spotrauma.org/?q=content%2Fprograma-cient%C3%ADfico-del-cap%C3%ADtulo-de-columna-vertebral",
+              "label": "spotrauma.org [24]"
+            },
+            {
+              "url": "https://spotrauma.org/?q=node/551",
+              "label": "spotrauma.org [47]"
+            },
+            {
+              "url": "https://sccot.org/wp-content/uploads/2026/02/EP-34.pdf",
+              "label": "sccot.org [43]"
+            },
+            {
+              "url": "https://www.doctoralia.pe/perfil/ramiro-cieza-ojeda",
+              "label": "doctoralia.pe [40]"
+            },
+            {
+              "url": "https://www.linkedin.com/in/drcieza/",
+              "label": "Abrir perfil o referencia LinkedIn"
+            },
+            {
+              "url": "https://es.linkedin.com/posts/institutoclavel_en-agosto-damos-la-bienvenida-a-nuestro-programa-activity-6962679427176493056-crVS",
+              "label": "es.linkedin.com [39]"
+            },
+            {
+              "url": "https://aplicaciones.cmp.org.pe/conoce_a_tu_medico/datos-colegiado-detallado.php?id=ZDRtWWt6SEVpdFJ5b28yeU40cE5mQT09",
+              "label": "aplicaciones.cmp.org.pe [48]"
+            }
+          ]
+        },
+        {
+          "name": "Eduardo Denis Manchego Mendoza",
+          "category": "Cribado en dossier de 60; no vínculo específico adulto/postural nuevo documentado",
+          "profile": "medico-027182",
+          "prior_sources": [
+            {
+              "url": "https://www.crp.com.pe/medicos/manchego-mendoza-eduardo-denis/",
+              "label": "Clínica Ricardo Palma [85]"
+            },
+            {
+              "url": "https://www.crp.com.pe/medicos/manchego-mendoza-eduardo-denis/",
+              "label": "Clínica Ricardo Palma [85]"
+            },
+            {
+              "url": "https://www.crp.com.pe/medicos/manchego-mendoza-eduardo-denis/",
+              "label": "Clínica Ricardo Palma [85]"
+            }
+          ]
+        },
+        {
+          "name": "Joel Antonio Solorzano Padilla",
+          "category": "Revisión previa de 12 conservada; no repetida sin aporte",
+          "profile": "medico-037556",
+          "prior_sources": [
+            {
+              "url": "https://medicina.cayetano.edu.pe/miembro_persona/tejada-sorados-renzo-marco/",
+              "label": "UPCH: promoción de Medicina 2000 [289]"
+            },
+            {
+              "url": "https://www.conareme.org.pe/web/Documentos/Actas%20CN%202012/18-05-12-SE-015.pdf",
+              "label": "CONAREME: último año de residencia UPCH, mayo de 2012 [290]"
+            },
+            {
+              "url": "https://ipot-crp.com/Staff",
+              "label": "IPOT-CRP: listado de staff [291]"
+            },
+            {
+              "url": "https://scc.pj.gob.pe/wps/wcm/connect/424b61004e9f5457a7fea7c3bf04fa09/RESOLUCION%2BADMINISTRATIVA-000162-2024-P-CSJLE.pdf?CACHEID=424b61004e9f5457a7fea7c3bf04fa09&MOD=AJPERES",
+              "label": "PJ: adscripción SANNA citada en enero de 2024 [292]"
+            }
+          ]
+        },
+        {
+          "name": "Miguel Angel Rugel Rivera",
+          "category": "Cribado en dossier de 60; no vínculo específico adulto/postural nuevo documentado",
+          "profile": "medico-053748",
+          "prior_sources": [
+            {
+              "url": "https://www.crp.com.pe/medicos/rugel-rivera-miguel-angel/",
+              "label": "Clínica Ricardo Palma [125]"
+            },
+            {
+              "url": "https://www.crp.com.pe/medicos/rugel-rivera-miguel-angel/",
+              "label": "Clínica Ricardo Palma [125]"
+            },
+            {
+              "url": "https://pe.linkedin.com/in/dr-miguel-angel-rugel-rivera-56512957",
+              "label": "Abrir perfil o referencia LinkedIn"
+            },
+            {
+              "url": "https://www.crp.com.pe/medicos/rugel-rivera-miguel-angel/",
+              "label": "Clínica Ricardo Palma [125]"
+            }
+          ]
+        },
+        {
+          "name": "Cesar Augusto Luis Carreño Carcelen",
+          "category": "Cribado en dossier de 60; no vínculo específico adulto/postural nuevo documentado",
+          "profile": "medico-032730",
+          "prior_sources": [
+            {
+              "url": "https://www.crp.com.pe/medicos/carreno-carcelen-cesar-augusto/",
+              "label": "Clínica Ricardo Palma [27]"
+            },
+            {
+              "url": "https://www.crp.com.pe/medicos/carreno-carcelen-cesar-augusto/",
+              "label": "Clínica Ricardo Palma [27]"
+            },
+            {
+              "url": "https://www.crp.com.pe/medicos/carreno-carcelen-cesar-augusto/",
+              "label": "Clínica Ricardo Palma [27]"
+            },
+            {
+              "url": "https://www.crp.com.pe/medicos/carreno-carcelen-cesar-augusto/",
+              "label": "Clínica Ricardo Palma [27]"
+            },
+            {
+              "url": "https://www.crp.com.pe/medicos/carreno-carcelen-cesar-augusto/",
+              "label": "Clínica Ricardo Palma [27]"
+            }
+          ]
+        },
+        {
+          "name": "Cesar Augusto Paucar Altez",
+          "category": "Cribado en dossier de 60; no vínculo específico adulto/postural nuevo documentado",
+          "profile": "medico-028663",
+          "prior_sources": [
+            {
+              "url": "https://www.crp.com.pe/medicos/paucar-altez-cesar-augusto/",
+              "label": "Clínica Ricardo Palma [121]"
+            },
+            {
+              "url": "https://www.crp.com.pe/medicos/paucar-altez-cesar-augusto/",
+              "label": "Clínica Ricardo Palma [121]"
+            },
+            {
+              "url": "https://www.crp.com.pe/medicos/paucar-altez-cesar-augusto/",
+              "label": "Clínica Ricardo Palma [121]"
+            }
+          ]
+        },
+        {
+          "name": "Miguel Edilberto Fernandez Castillo",
+          "category": "Cribado en dossier de 60; no vínculo específico adulto/postural nuevo documentado",
+          "profile": "medico-036222",
+          "prior_sources": [
+            {
+              "url": "https://www.crp.com.pe/medicos/fernandez-castillo-miguel-edilberto/",
+              "label": "Clínica Ricardo Palma [57]"
+            },
+            {
+              "url": "https://www.doctoralia.pe/perfil/miguel-e-fernandez-castillo",
+              "label": "doctoralia.pe [58]"
+            },
+            {
+              "url": "https://www.crp.com.pe/medicos/fernandez-castillo-miguel-edilberto/",
+              "label": "Clínica Ricardo Palma [57]"
+            },
+            {
+              "url": "https://especialistasensalud.pe/index.html",
+              "label": "especialistasensalud.pe [59]"
+            },
+            {
+              "url": "https://www.crp.com.pe/medicos/fernandez-castillo-miguel-edilberto/",
+              "label": "Clínica Ricardo Palma [57]"
+            },
+            {
+              "url": "https://www.crp.com.pe/medicos/fernandez-castillo-miguel-edilberto/",
+              "label": "Clínica Ricardo Palma [57]"
+            },
+            {
+              "url": "https://www.crp.com.pe/medicos/fernandez-castillo-miguel-edilberto/",
+              "label": "Clínica Ricardo Palma [57]"
+            },
+            {
+              "url": "https://www.crp.com.pe/medicos/fernandez-castillo-miguel-edilberto/",
+              "label": "Clínica Ricardo Palma [57]"
+            }
+          ]
+        },
+        {
+          "name": "Arvin Armando Calderon Calderon",
+          "category": "Revisión previa de 12 conservada; no repetida sin aporte",
+          "profile": "medico-056535",
+          "prior_sources": [
+            {
+              "url": "https://medicina.cayetano.edu.pe/miembro_persona/orellano-tuesta-carlos-alberto/",
+              "label": "UPCH: promoción de Medicina 2009 [293]"
+            },
+            {
+              "url": "https://www.conareme.org.pe/web/Documentos/Admision2014Extraordinario/INGRESANTES%20EXTRAORDINARIO%202014.pdf",
+              "label": "CONAREME: ingreso UPCH / Loayza, extraordinario 2014 [294]"
+            },
+            {
+              "url": "https://www.udep.edu.pe/wp-content/uploads/2025/01/Transparencia-2022-1_.pdf",
+              "label": "UDEP: formación profesional consignada en 2022-1 [295]"
+            },
+            {
+              "url": "https://www.gob.pe/institucion/hlev/normas-legales/5983483-177-2024-ogrh-hle-v",
+              "label": "HLEV: autorización de pasantía Madrid, 2024 [296]"
+            },
+            {
+              "url": "https://fellowuniversitario.com/testimonios/",
+              "label": "Proveedor Sportsmed Academy: testimonio, alcance limitado [297]"
+            },
+            {
+              "url": "https://www.udep.edu.pe/wp-content/uploads/2022/03/UDEP_Docentes-Medicina-Humana-2021-1.pdf",
+              "label": "UDEP: plana docente 2021-1, fuente oficial indexada [298]"
+            },
+            {
+              "url": "https://medicina.usmp.edu.pe/wp-content/uploads/silabos/silabos-2024-1/CICLO-X/SILABO-CIRUGIA-APARATO-LOCOMOTOR-2024-I_V2.pdf",
+              "label": "USMP: docencia de aparato locomotor, 2024-I [299]"
+            }
+          ]
+        },
+        {
+          "name": "Cesar Javier Adrianzen Tello",
+          "category": "Revisión previa de 12 conservada; no repetida sin aporte",
+          "profile": "medico-068896",
+          "prior_sources": [
+            {
+              "url": "https://cerfid.com.pe/medico-del-deporte/",
+              "label": "CERFID: medicina UNMSM y Medicina del Deporte UPCH, 2015–2018 [300]"
+            },
+            {
+              "url": "https://www.conareme.org.pe/web/Documentos/Admision2022/RELACION%20DE%20INGRESANTES%2016.06.2022.pdf",
+              "label": "CONAREME: ingreso UNMSM / Hospital II Vitarte, 2022 [286]"
+            },
+            {
+              "url": "https://cerfid.com.pe/medico-del-deporte/",
+              "label": "CERFID: práctica deportiva y rehabilitación musculoesquelética [300]"
+            },
+            {
+              "url": "https://ipot-crp.com/Staff",
+              "label": "IPOT-CRP: listado de staff [291]"
+            },
+            {
+              "url": "https://escuelaecomusculo.edu.pe/acerca-de-nosotros/",
+              "label": "Escuela Ecomúsculo: inclusión docente [301]"
+            },
+            {
+              "url": "https://www.spotrauma.org/sites/default/files/Programa%2054%20Congreso%20SPOT%202024.pdf",
+              "label": "SPOT: presentación programada como residente, 2024 [257]"
+            },
+            {
+              "url": "https://alicia.concytec.gob.pe/vufind/index.php/Record/UNMS_41679b8a84fbc74e696c29adc57459fe",
+              "label": "ALICIA / UNMSM: proyecto de radio distal, 2025 [302]"
+            }
+          ]
+        },
+        {
+          "name": "Fernando Miguel Ruiz Gonzales",
+          "category": "Cribado en dossier de 60; no vínculo específico adulto/postural nuevo documentado",
+          "profile": "medico-013850",
+          "prior_sources": [
+            {
+              "url": "https://www.crp.com.pe/medicos/ruiz-gonzales-fernando-miguel/",
+              "label": "Clínica Ricardo Palma [126]"
+            },
+            {
+              "url": "https://www.crp.com.pe/medicos/ruiz-gonzales-fernando-miguel/",
+              "label": "Clínica Ricardo Palma [126]"
+            },
+            {
+              "url": "https://www.crp.com.pe/medicos/ruiz-gonzales-fernando-miguel/",
+              "label": "Clínica Ricardo Palma [126]"
+            },
+            {
+              "url": "https://www.crp.com.pe/medicos/ruiz-gonzales-fernando-miguel/",
+              "label": "Clínica Ricardo Palma [126]"
+            },
+            {
+              "url": "https://www.crp.com.pe/medicos/ruiz-gonzales-fernando-miguel/",
+              "label": "Clínica Ricardo Palma [126]"
+            },
+            {
+              "url": "https://www.crp.com.pe/medicos/ruiz-gonzales-fernando-miguel/",
+              "label": "Clínica Ricardo Palma [126]"
+            },
+            {
+              "url": "https://www.crp.com.pe/medicos/ruiz-gonzales-fernando-miguel/",
+              "label": "Clínica Ricardo Palma [126]"
+            },
+            {
+              "url": "https://www.crp.com.pe/medicos/ruiz-gonzales-fernando-miguel/",
+              "label": "Clínica Ricardo Palma [126]"
+            }
+          ]
+        },
+        {
+          "name": "Benjamin Isidro Taboada Valdivieso",
+          "category": "Perfil IPOT individual reabierto; área ajena a columna o general",
+          "profile": "medico-040973",
+          "prior_sources": [
+            {
+              "url": "https://www.crp.com.pe/medicos/taboada-valdivieso-benjamin-isidro/",
+              "label": "Clínica Ricardo Palma [135]"
+            },
+            {
+              "url": "https://www.crp.com.pe/medicos/taboada-valdivieso-benjamin-isidro/",
+              "label": "Clínica Ricardo Palma [135]"
+            },
+            {
+              "url": "https://pe.linkedin.com/in/benjamin-taboada-valdivieso-59083797",
+              "label": "Abrir perfil o referencia LinkedIn"
+            },
+            {
+              "url": "https://www.crp.com.pe/medicos/taboada-valdivieso-benjamin-isidro/",
+              "label": "Clínica Ricardo Palma [135]"
+            }
+          ]
+        },
+        {
+          "name": "Gonzalo Jose Castillo Velasco",
+          "category": "Perfil IPOT individual reabierto; área ajena a columna o general",
+          "profile": "medico-036795",
+          "prior_sources": [
+            {
+              "url": "https://www.crp.com.pe/medicos/castillo-velasco-gonzalo-jose/",
+              "label": "Clínica Ricardo Palma [28]"
+            },
+            {
+              "url": "https://pe.linkedin.com/in/gonzalo-castillo-velasco-76915b375",
+              "label": "LinkedIn [29]"
+            },
+            {
+              "url": "https://www.crp.com.pe/medicos/castillo-velasco-gonzalo-jose/",
+              "label": "Clínica Ricardo Palma [28]"
+            },
+            {
+              "url": "https://www.crp.com.pe/medicos/castillo-velasco-gonzalo-jose/",
+              "label": "Clínica Ricardo Palma [28]"
+            },
+            {
+              "url": "https://www.crp.com.pe/medicos/castillo-velasco-gonzalo-jose/",
+              "label": "Clínica Ricardo Palma [28]"
+            },
+            {
+              "url": "https://pe.linkedin.com/in/gonzalo-castillo-velasco-76915b375",
+              "label": "Abrir perfil o referencia LinkedIn"
+            },
+            {
+              "url": "https://www.crp.com.pe/medicos/castillo-velasco-gonzalo-jose/",
+              "label": "Clínica Ricardo Palma [28]"
+            }
+          ]
+        },
+        {
+          "name": "Juan Mirko Tello Vinces",
+          "category": "Perfil IPOT individual reabierto; área ajena a columna o general",
+          "profile": "medico-031159",
+          "prior_sources": [
+            {
+              "url": "https://www.crp.com.pe/medicos/tello-vinces-juan-mirko/",
+              "label": "Clínica Ricardo Palma [136]"
+            },
+            {
+              "url": "https://www.crp.com.pe/medicos/tello-vinces-juan-mirko/",
+              "label": "Clínica Ricardo Palma [136]"
+            },
+            {
+              "url": "https://diariomedico.pe/impresos/Top_Medical_65.pdf",
+              "label": "diariomedico.pe [137]"
+            },
+            {
+              "url": "https://www.crp.com.pe/medicos/tello-vinces-juan-mirko/",
+              "label": "Clínica Ricardo Palma [136]"
+            },
+            {
+              "url": "https://www.crp.com.pe/medicos/tello-vinces-juan-mirko/",
+              "label": "Clínica Ricardo Palma [136]"
+            },
+            {
+              "url": "https://www.crp.com.pe/medicos/tello-vinces-juan-mirko/",
+              "label": "Clínica Ricardo Palma [136]"
+            },
+            {
+              "url": "https://www.crp.com.pe/medicos/tello-vinces-juan-mirko/",
+              "label": "Clínica Ricardo Palma [136]"
+            },
+            {
+              "url": "https://www.crp.com.pe/medicos/tello-vinces-juan-mirko/",
+              "label": "Clínica Ricardo Palma [136]"
+            }
+          ]
+        },
+        {
+          "name": "Pablo Alejandro Ugarte Velarde",
+          "category": "Perfil IPOT individual reabierto; área ajena a columna o general",
+          "profile": "medico-019597",
+          "prior_sources": [
+            {
+              "url": "https://www.crp.com.pe/medicos/ugarte-velarde-pablo-alejandro/",
+              "label": "Clínica Ricardo Palma [139]"
+            },
+            {
+              "url": "https://www.cirugiademanoperu.com/dr_pablo_ugarte_velarde.pdf",
+              "label": "cirugiademanoperu.com [140]"
+            },
+            {
+              "url": "https://www.crp.com.pe/medicos/ugarte-velarde-pablo-alejandro/",
+              "label": "Clínica Ricardo Palma [139]"
+            },
+            {
+              "url": "https://www.crp.com.pe/medicos/ugarte-velarde-pablo-alejandro/",
+              "label": "Clínica Ricardo Palma [139]"
+            },
+            {
+              "url": "https://www.crp.com.pe/medicos/ugarte-velarde-pablo-alejandro/",
+              "label": "Clínica Ricardo Palma [139]"
+            },
+            {
+              "url": "https://www.crp.com.pe/medicos/ugarte-velarde-pablo-alejandro/",
+              "label": "Clínica Ricardo Palma [139]"
+            },
+            {
+              "url": "https://www.crp.com.pe/medicos/ugarte-velarde-pablo-alejandro/",
+              "label": "Clínica Ricardo Palma [139]"
+            }
+          ]
+        }
+      ],
+      "note": "Cribado de los 60 y profundización asimétrica de candidatos pertinentes; no se afirma una búsqueda exhaustiva de igual profundidad para cada persona. La ausencia de evidencia pública no demuestra ausencia de capacidad. Antero Caballero no está entre los 60 y no entra en la selección."
+    },
+    "corrections": [
+      "Cieza SILACO: no atribuirle el caso adulto 12:30, que corresponde a Alfredo Vásquez.",
+      "URP Cieza: Consejo de Facultad, no Consejo Universitario.",
+      "Cieza sí figura en historial AO Short-Term Madrid junio–julio 2022; no afirmar ausencia absoluta de fellowship documentado.",
+      "Neira AO: registrar ambos conjuntos de fechas/categorías contradictorios; historial 2022 confirma Cajuru y marzo–agosto 2019, pero no certificado final.",
+      "Neira GPC: autoría confirmada V.02 enero 2023; no llamarla guía 2018 ni aplicar umbrales pediátricos a Kate.",
+      "Angulo CMP histórico y sociedades corroborados; RNE y formación focal no cerrados.",
+      "No usar fecha de carga del PDF como fecha de congreso, ni marca societaria hábil como habilitación CMP actual."
+    ],
+    "unresolved": [
+      "Habilitación CMP vigente de finalistas",
+      "Nombre Luis Alberto/Luis Roberto en CRP",
+      "Sede/campus, duración, fechas y certificado del adiestramiento Puerta de Hierro",
+      "Categoría y duración exactas efectivamente completadas de fellowship Cajuru",
+      "Volumen, resultados y seguimiento de tratamiento conservador/deformidad adulta de cada candidato",
+      "Formación específica en rehabilitación posparto o marcha/dismetría"
+    ],
+    "method": {
+      "new_web_searches": [
+        "Neira Puerta de Hierro/Guadalajara/Cajuru y cronología AO",
+        "Cieza Clavel/Madrid/AO y SILACO adulto",
+        "Angulo especialidad/CMP/ASPECIVE/publicaciones",
+        "Jiménez adulto/escoliosis/formación/publicaciones",
+        "Lectura de 23 fichas IPOT; búsquedas nominales dirigidas Gallo, Escarza, Páucar, Manchego",
+        "Guía institucional INSN: versiones 2018 y 2023 y autores"
+      ],
+      "excluded": [
+        "Reseñas y testimonios como evidencia de eficacia",
+        "Resultados hospitalarios agregados como resultados personales",
+        "Reacciones a publicaciones ajenas como autoría propia",
+        "Etiquetas genéricas de unidades quirúrgicas del buscador como subespecialidad individual",
+        "Publicaciones con nombres homónimos o abreviados sin vínculo suficiente"
+      ],
+      "local_inputs": [
+        "work/recheck-trauma-2026-10-14.json",
+        "work/screening-trauma-60.json",
+        "work/root_evidence.json",
+        "work/research_gait.json",
+        "work/research_training.json",
+        "work/research_new_doctors.json",
+        "work/index-before-deep-research.html",
+        "work/spot_programa2024.pdf",
+        "work/ao-fellowship-history-2022.pdf",
+        "work/gpc-escoliosis-insnsb-2023.pdf"
+      ]
+    }
+  },
+  "limits": [
+    "Sin resultados clínicos públicos comparables para pacientes como Kate.",
+    "Sin programa individual verificable poscesárea/diástasis entre los siete fisiatras confirmados; Cornejo publica Medicina Deportiva.",
+    "No se verificó habilitación CMP actual.",
+    "Selección por encaje documental, no calidad clínica demostrada; horario no decide la preferencia."
+  ]
+}
